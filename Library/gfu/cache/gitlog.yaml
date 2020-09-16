@@ -13,9 +13,51 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-09-16T10:23:06.165-06:00
+  lastUpdatedAtString: 2020-09-16T10:23:31.700-06:00
   initializedAtString: 2020-09-16T10:21:56.205-06:00
   log:
+  - commitID: 669d193db351f7366c98c6876604020d079e05eb
+    mergeA: 
+    mergeB: 
+    authorName: wildBcat
+    authorEmail: sundance.eaton@icloud.com
+    commitEmail: sundance.eaton@icloud.com
+    commitName: wildBcat
+    summary: Added the Github Unity Plugin (cont.)
+    description: 
+    timeString: 2020-09-16T10:23:28.000-06:00
+    commitTimeString: 2020-09-16T10:23:28.000-06:00
+    changes:
+    - path: Library/SourceAssetDB
+      fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 230d63e1f5584a477658c59cd3d80f527ebd5803
     mergeA: 
     mergeB: 
