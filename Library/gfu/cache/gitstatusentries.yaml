@@ -13,36 +13,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-09-16T10:26:33.134-06:00
+  lastUpdatedAtString: 2020-09-16T10:27:16.932-06:00
   initializedAtString: 2020-09-16T10:26:33.134-06:00
   entries:
-  - path: Library/ArtifactDB
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/ArtifactDB
-    projectPath: Library/ArtifactDB
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/Artifacts/8c/8c93c0c6290c2466dfb87eac0070992d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/8c/8c93c0c6290c2466dfb87eac0070992d
-    projectPath: Library/Artifacts/8c/8c93c0c6290c2466dfb87eac0070992d
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library/Artifacts/f0/f05d0da03bb5803206dca878d054b925
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/f0/f05d0da03bb5803206dca878d054b925
-    projectPath: Library/Artifacts/f0/f05d0da03bb5803206dca878d054b925
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/EditorInstance.json
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/SceneVisibilityState.asset
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/SceneVisibilityState.asset
-    projectPath: Library/SceneVisibilityState.asset
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -52,9 +40,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp/UnityLockfile
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityLockfile
-    projectPath: Temp/UnityLockfile
+  - path: Temp/UnityTempFile-f2b92f31360784c5dac5fb7ebbab60d8
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-f2b92f31360784c5dac5fb7ebbab60d8
+    projectPath: Temp/UnityTempFile-f2b92f31360784c5dac5fb7ebbab60d8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
