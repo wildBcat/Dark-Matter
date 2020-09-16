@@ -17,3 +17,9 @@ Library/gfu/cache/gitstatusentries.yaml
 Library/gfu/cache/gittrackingstatus.yaml
 Library/SourceAssetDB
 *.yaml
+Library/gfu/cache/branches.yaml
+Library/gfu/cache/gitlocks.yaml
+Library/gfu/cache/gitlog.yaml
+Library/gfu/cache/gitstatusentries.yaml
+Library/gfu/cache/gittrackingstatus.yaml
+Library/SourceAssetDB
