@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{97523C28-2D04-E105-9D1B-383266DB5E1E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Joystick.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Asset Store/Lean/READ ME.txt">
     <Files>
       <File FileName="Assets/Scripts/DirectMoving.cs" Line="1" Column="1" />
       <File FileName="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/WeaponController.cs" />
-      <File FileName="Assets/Scripts/Joystick.cs" Line="13" Column="16" />
+      <File FileName="Assets/Asset Store/Lean/READ ME.txt" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,10 +14,11 @@
                 <Node name="2D Pixel Spaceship Constructor" expanded="True">
                   <Node name="Scripts" expanded="True" />
                 </Node>
+                <Node name="Lean" expanded="True">
+                  <Node name="READ ME.txt" selected="True" />
+                </Node>
               </Node>
-              <Node name="Scripts" expanded="True">
-                <Node name="Joystick.cs" selected="True" />
-              </Node>
+              <Node name="Scripts" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -26,7 +27,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b8dfa90b-f503-45c5-b948-90e0e12436b3" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="43b2b725-f0ca-49bb-9f6b-f8b30c04f183" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
