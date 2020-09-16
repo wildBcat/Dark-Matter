@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-09-16T10:27:16.932-06:00
+  lastUpdatedAtString: 2020-09-16T10:28:03.832-06:00
   initializedAtString: 2020-09-16T10:26:33.134-06:00
   entries:
   - path: Library/gfu/cache/branches.yaml
@@ -22,15 +22,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/gfu/cache/gitlog.yaml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/gitlog.yaml
-    projectPath: Library/gfu/cache/gitlog.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/gfu/cache/gittrackingstatus.yaml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/gittrackingstatus.yaml
-    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -40,9 +34,3 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp/UnityTempFile-f2b92f31360784c5dac5fb7ebbab60d8
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-f2b92f31360784c5dac5fb7ebbab60d8
-    projectPath: Temp/UnityTempFile-f2b92f31360784c5dac5fb7ebbab60d8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
