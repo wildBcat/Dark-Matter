@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6023945561956767924
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 911238311348715915, guid: 65ac23cba24a66a41b7ef208b21cb799,
+        type: 3}
+      propertyPath: m_Name
+      value: CabinWithGlassSmall-01
+      objectReference: {fileID: 0}
+    - target: {fileID: 8142670309424976732, guid: 65ac23cba24a66a41b7ef208b21cb799,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8142670309424976732, guid: 65ac23cba24a66a41b7ef208b21cb799,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8142670309424976732, guid: 65ac23cba24a66a41b7ef208b21cb799,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8142670309424976732, guid: 65ac23cba24a66a41b7ef208b21cb799,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8142670309424976732, guid: 65ac23cba24a66a41b7ef208b21cb799,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8142670309424976732, guid: 65ac23cba24a66a41b7ef208b21cb799,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8142670309424976732, guid: 65ac23cba24a66a41b7ef208b21cb799,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8142670309424976732, guid: 65ac23cba24a66a41b7ef208b21cb799,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8142670309424976732, guid: 65ac23cba24a66a41b7ef208b21cb799,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8142670309424976732, guid: 65ac23cba24a66a41b7ef208b21cb799,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8142670309424976732, guid: 65ac23cba24a66a41b7ef208b21cb799,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 65ac23cba24a66a41b7ef208b21cb799, type: 3}
+--- !u!4 &2493244955168607208 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8142670309424976732, guid: 65ac23cba24a66a41b7ef208b21cb799,
+    type: 3}
+  m_PrefabInstance: {fileID: 6023945561956767924}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7791294413913854914
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2493244955168607208}
+    m_Modifications:
+    - target: {fileID: 7399925386066416180, guid: b59d9f5260992864c93029e2bdce6708,
+        type: 3}
+      propertyPath: m_Name
+      value: GlassCabinSmall-01
+      objectReference: {fileID: 0}
+    - target: {fileID: 8915991878552381864, guid: b59d9f5260992864c93029e2bdce6708,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8915991878552381864, guid: b59d9f5260992864c93029e2bdce6708,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0319
+      objectReference: {fileID: 0}
+    - target: {fileID: 8915991878552381864, guid: b59d9f5260992864c93029e2bdce6708,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8915991878552381864, guid: b59d9f5260992864c93029e2bdce6708,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8915991878552381864, guid: b59d9f5260992864c93029e2bdce6708,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8915991878552381864, guid: b59d9f5260992864c93029e2bdce6708,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8915991878552381864, guid: b59d9f5260992864c93029e2bdce6708,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8915991878552381864, guid: b59d9f5260992864c93029e2bdce6708,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8915991878552381864, guid: b59d9f5260992864c93029e2bdce6708,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8915991878552381864, guid: b59d9f5260992864c93029e2bdce6708,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8915991878552381864, guid: b59d9f5260992864c93029e2bdce6708,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b59d9f5260992864c93029e2bdce6708, type: 3}

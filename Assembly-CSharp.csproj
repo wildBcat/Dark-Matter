@@ -57,6 +57,13 @@
   <ItemGroup>
     <Compile Include="Assets/Scripts/DirectMoving.cs" />
     <Compile Include="Assets/Scripts/RepeatingBackground.cs" />
+    <Compile Include="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/ForDemoOnly/MainDemoController.cs" />
+    <Compile Include="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/BaseShipController.cs" />
+    <Compile Include="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/ExplosionController.cs" />
+    <Compile Include="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/ForDemoOnly/TempMouseTracker.cs" />
+    <Compile Include="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/WeaponController.cs" />
+    <Compile Include="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/WeaponBigCannonController.cs" />
+    <Compile Include="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/Tools.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

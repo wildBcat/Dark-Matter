@@ -1,16 +1,22 @@
 ﻿<Properties StartupConfiguration="{97523C28-2D04-E105-9D1B-383266DB5E1E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DirectMoving.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/WeaponController.cs">
     <Files>
       <File FileName="Assets/Scripts/DirectMoving.cs" Line="1" Column="1" />
+      <File FileName="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/WeaponController.cs" Line="56" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Dark Matter" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="DirectMoving.cs" selected="True" />
+              <Node name="Asset Store" expanded="True">
+                <Node name="2D Pixel Spaceship Constructor" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="WeaponController.cs" selected="True" />
+                  </Node>
+                </Node>
               </Node>
+              <Node name="Scripts" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -19,7 +25,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a0ec7edf-43a0-4e15-8e38-eb7c318324fc" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1eeb3f3e-fa4d-457d-a543-f3f5e59b8415" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

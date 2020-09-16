@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2088154782136143916
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5378106834161119124}
+    m_Modifications:
+    - target: {fileID: 8250657798451094406, guid: 689eb40db918d6746ac1452930f63f42,
+        type: 3}
+      propertyPath: m_Name
+      value: GlassCabinMed-03
+      objectReference: {fileID: 0}
+    - target: {fileID: 7991932289921436106, guid: 689eb40db918d6746ac1452930f63f42,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7991932289921436106, guid: 689eb40db918d6746ac1452930f63f42,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.009
+      objectReference: {fileID: 0}
+    - target: {fileID: 7991932289921436106, guid: 689eb40db918d6746ac1452930f63f42,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7991932289921436106, guid: 689eb40db918d6746ac1452930f63f42,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7991932289921436106, guid: 689eb40db918d6746ac1452930f63f42,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7991932289921436106, guid: 689eb40db918d6746ac1452930f63f42,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7991932289921436106, guid: 689eb40db918d6746ac1452930f63f42,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7991932289921436106, guid: 689eb40db918d6746ac1452930f63f42,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7991932289921436106, guid: 689eb40db918d6746ac1452930f63f42,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7991932289921436106, guid: 689eb40db918d6746ac1452930f63f42,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7991932289921436106, guid: 689eb40db918d6746ac1452930f63f42,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 689eb40db918d6746ac1452930f63f42, type: 3}
+--- !u!1001 &3701701520159339257
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4885945616175067182, guid: 8a485155865d1fb428520fa478fb1abb,
+        type: 3}
+      propertyPath: m_Name
+      value: CabinWithGlassMed-03
+      objectReference: {fileID: 0}
+    - target: {fileID: 4885945616175067182, guid: 8a485155865d1fb428520fa478fb1abb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8790404425464733037, guid: 8a485155865d1fb428520fa478fb1abb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8790404425464733037, guid: 8a485155865d1fb428520fa478fb1abb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8790404425464733037, guid: 8a485155865d1fb428520fa478fb1abb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8790404425464733037, guid: 8a485155865d1fb428520fa478fb1abb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8790404425464733037, guid: 8a485155865d1fb428520fa478fb1abb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8790404425464733037, guid: 8a485155865d1fb428520fa478fb1abb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8790404425464733037, guid: 8a485155865d1fb428520fa478fb1abb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8790404425464733037, guid: 8a485155865d1fb428520fa478fb1abb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8790404425464733037, guid: 8a485155865d1fb428520fa478fb1abb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8790404425464733037, guid: 8a485155865d1fb428520fa478fb1abb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8790404425464733037, guid: 8a485155865d1fb428520fa478fb1abb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8a485155865d1fb428520fa478fb1abb, type: 3}
+--- !u!4 &5378106834161119124 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8790404425464733037, guid: 8a485155865d1fb428520fa478fb1abb,
+    type: 3}
+  m_PrefabInstance: {fileID: 3701701520159339257}
+  m_PrefabAsset: {fileID: 0}
