@@ -14,96 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Asset Store/Joystick Pack/Documentaion.pdf
-    - Assets/Asset Store/Joystick Pack/Documentaion.pdf.meta
-    - Assets/Asset Store/Joystick Pack/Examples/Example Scene.unity
-    - Assets/Asset Store/Joystick Pack/Examples/Example Scene.unity.meta
-    - Assets/Asset Store/Joystick Pack/Examples/Ground.mat
-    - Assets/Asset Store/Joystick Pack/Examples/Ground.mat.meta
-    - Assets/Asset Store/Joystick Pack/Examples/JoystickPlayerExample.cs
-    - Assets/Asset Store/Joystick Pack/Examples/JoystickPlayerExample.cs.meta
-    - Assets/Asset Store/Joystick Pack/Examples/JoystickSetterExample.cs
-    - Assets/Asset Store/Joystick Pack/Examples/JoystickSetterExample.cs.meta
-    - Assets/Asset Store/Joystick Pack/Examples/Player.mat
-    - Assets/Asset Store/Joystick Pack/Examples/Player.mat.meta
-    - Assets/Asset Store/Joystick Pack/Prefabs/Dynamic Joystick.prefab
-    - Assets/Asset Store/Joystick Pack/Prefabs/Dynamic Joystick.prefab.meta
-    - Assets/Asset Store/Joystick Pack/Prefabs/Fixed Joystick.prefab
-    - Assets/Asset Store/Joystick Pack/Prefabs/Fixed Joystick.prefab.meta
-    - Assets/Asset Store/Joystick Pack/Prefabs/Floating Joystick.prefab
-    - Assets/Asset Store/Joystick Pack/Prefabs/Floating Joystick.prefab.meta
-    - Assets/Asset Store/Joystick Pack/Prefabs/Variable Joystick.prefab
-    - Assets/Asset Store/Joystick Pack/Prefabs/Variable Joystick.prefab.meta
-    - Assets/Asset Store/Joystick Pack/Scripts/Base/Joystick.cs
-    - Assets/Asset Store/Joystick Pack/Scripts/Base/Joystick.cs.meta
-    - Assets/Asset Store/Joystick Pack/Scripts/Editor/DynamicJoystickEditor.cs
-    - Assets/Asset Store/Joystick Pack/Scripts/Editor/DynamicJoystickEditor.cs.meta
-    - Assets/Asset Store/Joystick Pack/Scripts/Editor/FloatingJoystickEditor.cs
-    - Assets/Asset Store/Joystick Pack/Scripts/Editor/FloatingJoystickEditor.cs.meta
-    - Assets/Asset Store/Joystick Pack/Scripts/Editor/JoystickEditor.cs
-    - Assets/Asset Store/Joystick Pack/Scripts/Editor/JoystickEditor.cs.meta
-    - Assets/Asset Store/Joystick Pack/Scripts/Editor/VariableJoystickEditor.cs
-    - Assets/Asset Store/Joystick Pack/Scripts/Editor/VariableJoystickEditor.cs.meta
-    - Assets/Asset Store/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs
-    - Assets/Asset Store/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs.meta
-    - Assets/Asset Store/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs
-    - Assets/Asset Store/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs.meta
-    - Assets/Asset Store/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs
-    - Assets/Asset Store/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs.meta
-    - Assets/Asset Store/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs
-    - Assets/Asset Store/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline.png
-    - Assets/Asset Store/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline_Arrows.png
-    - Assets/Asset Store/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline_Arrows.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain.png
-    - Assets/Asset Store/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain_Arrows.png
-    - Assets/Asset Store/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain_Arrows.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged.png
-    - Assets/Asset Store/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged_Arrows.png
-    - Assets/Asset Store/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged_Arrows.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Handles/Handle_Outline.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Handles/Handle_Outline.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Handles/Handle_Outline_Arrows.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Handles/Handle_Outline_Arrows.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Handles/Handle_Plain.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Handles/Handle_Plain.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Handles/Handle_Plain_Arrows.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Handles/Handle_Plain_Arrows.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Handles/Handle_Ridged.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Handles/Handle_Ridged.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Handles/Handle_Ridged_Arrows.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Handles/Handle_Ridged_Arrows.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline_Arrows.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline_Arrows.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain_Arrows.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain_Arrows.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged_Arrows.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged_Arrows.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline_Arrows.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline_Arrows.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain_Arrows.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain_Arrows.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged.png.meta
-    - Assets/Asset Store/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged_Arrows.png
-    - Assets/Asset Store/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged_Arrows.png.meta
     - 
-    m_Values: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
-  RevisionSummary: Added Poly collision to player ship.
+    m_Values: 01
+  RevisionSummary: Added non-functioning joystick
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
-  TabIndex: 0
+  TabIndex: 1
