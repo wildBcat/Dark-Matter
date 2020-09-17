@@ -10,6 +10,8 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] float padding = .5f;
 
     private Vector2 walkInput;
+    private Vector2 dragInput;
+
     float xMin;
     float xMax;
     float yMin;
@@ -18,6 +20,11 @@ public class PlayerMovement : MonoBehaviour
     public void OnWalk(InputAction.CallbackContext context)
     {
         walkInput = context.ReadValue<Vector2>();
+    }
+
+    public void mouseDrag(InputAction.CallbackContext context)
+    {
+        dragInput = context.ReadValue<Vector2>();
     }
 
     // Start is called before the first frame update
@@ -29,8 +36,23 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Drag();
         Move();
-        Debug.Log(transform.position);
+        Debug.Log(dragInput);
+    }
+
+    private void Drag()
+    {
+        if (Input.GetMouseButton(0))
+        {
+            var screenPoint = new Vector3(dragInput.x, dragInput.y, 10);
+            Vector3 mousePosition = Camera.main.ScreenToWorldPoint(screenPoint); //calculating mouse position in the worldspace
+            //mousePosition.z = transform.position.z;
+            transform.position = Vector3.MoveTowards(transform.position, mousePosition, moveSpeed * Time.deltaTime);
+
+            //var screenPoint = new Vector3(dragInput.x, dragInput.y, 10);
+            //transform.position = Camera.main.ScreenToWorldPoint(screenPoint);
+        }
     }
 
     private void Move()
@@ -44,17 +66,7 @@ public class PlayerMovement : MonoBehaviour
         var newXPos = Mathf.Clamp(transform.position.x + deltaX, xMin, xMax);
 
         // Moving player's ship to new input coordinates
-        if (Input.GetMouseButton(0))
-        {
-            var screenPoint = new Vector3(walkInput.x, walkInput.y, 10);
-            transform.position = Camera.main.ScreenToWorldPoint(screenPoint);
-        }
-        else
-        {
-            transform.position = new Vector2(newXPos, newYpos);
-        }
-
-
+        transform.position = new Vector2(newXPos, newYpos);
     }
 
     private void SetUpMoveBoundries()

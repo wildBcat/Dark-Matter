@@ -285,11 +285,11 @@
     <Reference Include="GitHub.Api.45">
       <HintPath>Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
     </Reference>
-    <Reference Include="Nightfox.Utilities">
-      <HintPath>Assets/Nightfox/Utilities/Editor/Nightfox.Utilities.dll</HintPath>
-    </Reference>
     <Reference Include="Nightfox.Tools.Eol">
       <HintPath>Assets/Nightfox/Tools/Consistent Line Endings/Core/Editor/Nightfox.Tools.Eol.dll</HintPath>
+    </Reference>
+    <Reference Include="Nightfox.Utilities">
+      <HintPath>Assets/Nightfox/Utilities/Editor/Nightfox.Utilities.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>

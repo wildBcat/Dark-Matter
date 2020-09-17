@@ -8,10 +8,10 @@ using UnityEngine.InputSystem.Utilities;
 
 public class @Controls : IInputActionCollection, IDisposable
 {
-    public InputActionAsset Asset { get; }
+    public InputActionAsset asset { get; }
     public @Controls()
     {
-        Asset = InputActionAsset.FromJson(@"{
+        asset = InputActionAsset.FromJson(@"{
     ""name"": ""Inputs Actions"",
     ""maps"": [
         {
@@ -19,9 +19,17 @@ public class @Controls : IInputActionCollection, IDisposable
             ""id"": ""05ce4c3d-c960-4e20-aa00-e665077ee4c7"",
             ""actions"": [
                 {
-                    ""name"": ""Move"",
+                    ""name"": ""MoveInput"",
                     ""type"": ""Value"",
                     ""id"": ""398869ad-a031-43bf-bff8-8b3968e2e1d4"",
+                    ""expectedControlType"": ""Vector2"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""DragInput"",
+                    ""type"": ""Value"",
+                    ""id"": ""d8c7c4a0-81f3-4757-a577-51d9e7038691"",
                     ""expectedControlType"": ""Vector2"",
                     ""processors"": """",
                     ""interactions"": """"
@@ -35,7 +43,7 @@ public class @Controls : IInputActionCollection, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Gamepad"",
-                    ""action"": ""Move"",
+                    ""action"": ""MoveInput"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 },
@@ -46,7 +54,7 @@ public class @Controls : IInputActionCollection, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
-                    ""action"": ""Move"",
+                    ""action"": ""MoveInput"",
                     ""isComposite"": true,
                     ""isPartOfComposite"": false
                 },
@@ -57,7 +65,7 @@ public class @Controls : IInputActionCollection, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Keyboard"",
-                    ""action"": ""Move"",
+                    ""action"": ""MoveInput"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
                 },
@@ -68,7 +76,7 @@ public class @Controls : IInputActionCollection, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Keyboard"",
-                    ""action"": ""Move"",
+                    ""action"": ""MoveInput"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
                 },
@@ -79,7 +87,7 @@ public class @Controls : IInputActionCollection, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Keyboard"",
-                    ""action"": ""Move"",
+                    ""action"": ""MoveInput"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
                 },
@@ -90,7 +98,7 @@ public class @Controls : IInputActionCollection, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Keyboard"",
-                    ""action"": ""Move"",
+                    ""action"": ""MoveInput"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
                 },
@@ -101,7 +109,7 @@ public class @Controls : IInputActionCollection, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Keyboard"",
-                    ""action"": ""Move"",
+                    ""action"": ""MoveInput"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
                 },
@@ -112,7 +120,7 @@ public class @Controls : IInputActionCollection, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Keyboard"",
-                    ""action"": ""Move"",
+                    ""action"": ""MoveInput"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
                 },
@@ -123,7 +131,7 @@ public class @Controls : IInputActionCollection, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Keyboard"",
-                    ""action"": ""Move"",
+                    ""action"": ""MoveInput"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
                 },
@@ -134,18 +142,18 @@ public class @Controls : IInputActionCollection, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Keyboard"",
-                    ""action"": ""Move"",
+                    ""action"": ""MoveInput"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
                 },
                 {
                     ""name"": """",
-                    ""id"": ""0d5ee5a3-ccc3-4b05-b8e5-8d42802f3acb"",
+                    ""id"": ""debf3747-647d-4ee6-9d1e-4a3274ea5a80"",
                     ""path"": ""<Mouse>/position"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Mouse"",
-                    ""action"": ""Move"",
+                    ""action"": ""DragInput"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 }
@@ -189,37 +197,38 @@ public class @Controls : IInputActionCollection, IDisposable
     ]
 }");
         // Gameplay
-        m_Gameplay = Asset.FindActionMap("Gameplay", throwIfNotFound: true);
-        m_Gameplay_Move = m_Gameplay.FindAction("Move", throwIfNotFound: true);
+        m_Gameplay = asset.FindActionMap("Gameplay", throwIfNotFound: true);
+        m_Gameplay_MoveInput = m_Gameplay.FindAction("MoveInput", throwIfNotFound: true);
+        m_Gameplay_DragInput = m_Gameplay.FindAction("DragInput", throwIfNotFound: true);
     }
 
     public void Dispose()
     {
-        UnityEngine.Object.Destroy(Asset);
+        UnityEngine.Object.Destroy(asset);
     }
 
     public InputBinding? bindingMask
     {
-        get => Asset.bindingMask;
-        set => Asset.bindingMask = value;
+        get => asset.bindingMask;
+        set => asset.bindingMask = value;
     }
 
     public ReadOnlyArray<InputDevice>? devices
     {
-        get => Asset.devices;
-        set => Asset.devices = value;
+        get => asset.devices;
+        set => asset.devices = value;
     }
 
-    public ReadOnlyArray<InputControlScheme> controlSchemes => Asset.controlSchemes;
+    public ReadOnlyArray<InputControlScheme> controlSchemes => asset.controlSchemes;
 
     public bool Contains(InputAction action)
     {
-        return Asset.Contains(action);
+        return asset.Contains(action);
     }
 
     public IEnumerator<InputAction> GetEnumerator()
     {
-        return Asset.GetEnumerator();
+        return asset.GetEnumerator();
     }
 
     IEnumerator IEnumerable.GetEnumerator()
@@ -229,23 +238,25 @@ public class @Controls : IInputActionCollection, IDisposable
 
     public void Enable()
     {
-        Asset.Enable();
+        asset.Enable();
     }
 
     public void Disable()
     {
-        Asset.Disable();
+        asset.Disable();
     }
 
     // Gameplay
     private readonly InputActionMap m_Gameplay;
     private IGameplayActions m_GameplayActionsCallbackInterface;
-    private readonly InputAction m_Gameplay_Move;
+    private readonly InputAction m_Gameplay_MoveInput;
+    private readonly InputAction m_Gameplay_DragInput;
     public struct GameplayActions
     {
         private @Controls m_Wrapper;
         public GameplayActions(@Controls wrapper) { m_Wrapper = wrapper; }
-        public InputAction @Move => m_Wrapper.m_Gameplay_Move;
+        public InputAction @MoveInput => m_Wrapper.m_Gameplay_MoveInput;
+        public InputAction @DragInput => m_Wrapper.m_Gameplay_DragInput;
         public InputActionMap Get() { return m_Wrapper.m_Gameplay; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -255,16 +266,22 @@ public class @Controls : IInputActionCollection, IDisposable
         {
             if (m_Wrapper.m_GameplayActionsCallbackInterface != null)
             {
-                @Move.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnMove;
-                @Move.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnMove;
-                @Move.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnMove;
+                @MoveInput.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnMoveInput;
+                @MoveInput.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnMoveInput;
+                @MoveInput.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnMoveInput;
+                @DragInput.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnDragInput;
+                @DragInput.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnDragInput;
+                @DragInput.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnDragInput;
             }
             m_Wrapper.m_GameplayActionsCallbackInterface = instance;
             if (instance != null)
             {
-                @Move.started += instance.OnMove;
-                @Move.performed += instance.OnMove;
-                @Move.canceled += instance.OnMove;
+                @MoveInput.started += instance.OnMoveInput;
+                @MoveInput.performed += instance.OnMoveInput;
+                @MoveInput.canceled += instance.OnMoveInput;
+                @DragInput.started += instance.OnDragInput;
+                @DragInput.performed += instance.OnDragInput;
+                @DragInput.canceled += instance.OnDragInput;
             }
         }
     }
@@ -274,8 +291,8 @@ public class @Controls : IInputActionCollection, IDisposable
     {
         get
         {
-            if (m_GamepadSchemeIndex == -1) m_GamepadSchemeIndex = Asset.FindControlSchemeIndex("Gamepad");
-            return Asset.controlSchemes[m_GamepadSchemeIndex];
+            if (m_GamepadSchemeIndex == -1) m_GamepadSchemeIndex = asset.FindControlSchemeIndex("Gamepad");
+            return asset.controlSchemes[m_GamepadSchemeIndex];
         }
     }
     private int m_KeyboardSchemeIndex = -1;
@@ -283,8 +300,8 @@ public class @Controls : IInputActionCollection, IDisposable
     {
         get
         {
-            if (m_KeyboardSchemeIndex == -1) m_KeyboardSchemeIndex = Asset.FindControlSchemeIndex("Keyboard");
-            return Asset.controlSchemes[m_KeyboardSchemeIndex];
+            if (m_KeyboardSchemeIndex == -1) m_KeyboardSchemeIndex = asset.FindControlSchemeIndex("Keyboard");
+            return asset.controlSchemes[m_KeyboardSchemeIndex];
         }
     }
     private int m_MouseSchemeIndex = -1;
@@ -292,12 +309,13 @@ public class @Controls : IInputActionCollection, IDisposable
     {
         get
         {
-            if (m_MouseSchemeIndex == -1) m_MouseSchemeIndex = Asset.FindControlSchemeIndex("Mouse");
-            return Asset.controlSchemes[m_MouseSchemeIndex];
+            if (m_MouseSchemeIndex == -1) m_MouseSchemeIndex = asset.FindControlSchemeIndex("Mouse");
+            return asset.controlSchemes[m_MouseSchemeIndex];
         }
     }
     public interface IGameplayActions
     {
-        void OnMove(InputAction.CallbackContext context);
+        void OnMoveInput(InputAction.CallbackContext context);
+        void OnDragInput(InputAction.CallbackContext context);
     }
 }

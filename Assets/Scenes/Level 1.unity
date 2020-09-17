@@ -319,11 +319,27 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: 398869ad-a031-43bf-bff8-8b3968e2e1d4
     m_ActionName: Gameplay/Move[/Keyboard/upArrow,/Keyboard/w,/Keyboard/downArrow,/Keyboard/s,/Keyboard/leftArrow,/Keyboard/a,/Keyboard/rightArrow,/Keyboard/d,/Mouse/delta]
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 129380591}
+        m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
+        m_MethodName: mouseDrag
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: d8c7c4a0-81f3-4757-a577-51d9e7038691
+    m_ActionName: Gameplay/New action
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: Gameplay
   m_SplitScreenIndex: -1
-  m_Camera: {fileID: 0}
+  m_Camera: {fileID: 987792811}
 --- !u!114 &129380591
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1389,6 +1405,11 @@ Transform:
 Transform:
   m_CorrespondingSourceObject: {fileID: 689766242462590168, guid: 9e1a5b45a31bde9489f3c3cf8089cb87, type: 3}
   m_PrefabInstance: {fileID: 1119992152}
+  m_PrefabAsset: {fileID: 0}
+--- !u!20 &987792811 stripped
+Camera:
+  m_CorrespondingSourceObject: {fileID: 4961229945390019828, guid: 316befa69caa34441a5430039bf5a6b9, type: 3}
+  m_PrefabInstance: {fileID: 729868195}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &1016433364 stripped
 Transform:
