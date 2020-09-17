@@ -44,7 +44,17 @@ public class PlayerMovement : MonoBehaviour
         var newXPos = Mathf.Clamp(transform.position.x + deltaX, xMin, xMax);
 
         // Moving player's ship to new input coordinates
-        transform.position = new Vector2(newXPos, newYpos);
+        if (Input.GetMouseButton(0))
+        {
+            var screenPoint = new Vector3(walkInput.x, walkInput.y, 10);
+            transform.position = Camera.main.ScreenToWorldPoint(screenPoint);
+        }
+        else
+        {
+            transform.position = new Vector2(newXPos, newYpos);
+        }
+
+
     }
 
     private void SetUpMoveBoundries()
