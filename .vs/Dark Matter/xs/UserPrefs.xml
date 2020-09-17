@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{97523C28-2D04-E105-9D1B-383266DB5E1E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DirectMoving.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMovement.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="8" Column="1" />
-      <File FileName="Assets/Scripts/DirectMoving.cs" Line="13" Column="21" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="31" Column="6" />
+      <File FileName="Assets/Scripts/DirectMoving.cs" />
       <File FileName="Assets/Scripts/RepeatingBackground.cs" />
-      <File FileName="Assets/Scripts/GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameController.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +12,7 @@
           <Node name="Dark Matter" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="DirectMoving.cs" selected="True" />
+                <Node name="PlayerMovement.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -22,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="008a11ff-c9e3-43e9-97e7-adb6c7c89758" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b136062e-5639-4ad2-aacd-30db20f8e4c9" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

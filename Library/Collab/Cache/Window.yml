@@ -14,18 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/BaseShipController.cs
-    - Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/ExplosionController.cs
-    - Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/ForDemoOnly/MainDemoController.cs
-    - Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/ForDemoOnly/TempMouseTracker.cs
-    - Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/Tools.cs
-    - Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/WeaponBigCannonController.cs
-    - Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/WeaponController.cs
-    - Assets/Nightfox/Tools/Consistent Line Endings/Core/Editor/AutofixLineEndingsMenu.cs
-    - Assets/Scripts/DirectMoving.cs
+    - Assets/InputSystem.inputsettings.asset
+    - Assets/InputSystem.inputsettings.asset.meta
+    - Assets/Inputs Actions.inputactions
+    - Assets/Scripts/Inputs/Inputs Actions.cs
+    - Assets/Scripts/PlayerMovement.cs
+    - ProjectSettings/EditorBuildSettings.asset
     - 
-    m_Values: 01010101010101010101
-  RevisionSummary: Adding more to player movement and organizing code.
+    m_Values: 00000000000000
+  RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0

@@ -18,7 +18,6 @@ public class PlayerMovement : MonoBehaviour
     public void OnWalk(InputAction.CallbackContext context)
     {
         walkInput = context.ReadValue<Vector2>();
-        Debug.Log(transform.position);
     }
 
     // Start is called before the first frame update
@@ -31,18 +30,20 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         Move();
+        Debug.Log(transform.position);
     }
 
     private void Move()
     {
         // Initiating the input controls for up vertical and horizontal movement
-        var deltaX =  walkInput.x * Time.deltaTime * moveSpeed;
+        var deltaX = walkInput.x * Time.deltaTime * moveSpeed;
         var deltaY = walkInput.y * Time.deltaTime * moveSpeed;
 
-        // Updating player's ship to be what the input controls are showing, with clamps
+        // Updating player's ship to be what the iput controls are showing, with clamps
         var newYpos = Mathf.Clamp(transform.position.y + deltaY, yMin, yMax);
         var newXPos = Mathf.Clamp(transform.position.x + deltaX, xMin, xMax);
 
+        // Moving player's ship to new input coordinates
         transform.position = new Vector2(newXPos, newYpos);
     }
 
