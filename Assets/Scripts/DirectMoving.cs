@@ -7,9 +7,10 @@ using UnityEngine;
 /// </summary>
 public class DirectMoving : MonoBehaviour
 {
-
-    [Tooltip("Moving speed on Y axis in local space")]
-    public float speed;
+    [Header("Settings")]
+    [Tooltip("Scroll speed of the background. Negative numbers move background down, and positive numbers move background up. " +
+    "The higher the number in each direction, the faster the speed.")]
+    [SerializeField] float speed = -0.03f;
 
     //moving the object with the defined speed
     private void Update()
