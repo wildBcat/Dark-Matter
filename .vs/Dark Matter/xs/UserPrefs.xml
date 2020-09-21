@@ -1,4 +1,5 @@
-﻿<Properties StartupConfiguration="{97523C28-2D04-E105-9D1B-383266DB5E1E}|">
+﻿<Properties StartupConfiguration="{F2092B88-49D2-A0DE-D0FE-26689FB76BEA}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.PathCreatorEditor PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BaseObjectController.cs">
     <Files>
       <File FileName="Assets/Scripts/Boundary.cs" Line="34" Column="48" />
@@ -11,15 +12,17 @@
       <File FileName="Assets/Asset Store/PathCreator/Examples/Scripts/PathFollower.cs" />
       <File FileName="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/BaseShipController.cs" />
       <File FileName="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/ExplosionController.cs" />
-      <File FileName="Assets/Scripts/BaseObjectController.cs" Line="9" Column="43" />
+      <File FileName="Assets/Scripts/BaseObjectController.cs" Line="26" Column="132" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Dark Matter" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="BaseObjectController.cs" selected="True" />
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="BaseObjectController.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -29,7 +32,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6dd5d811-4d98-4936-a809-921684318342" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6c44c81e-c96a-4004-88cc-1d928074478e" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

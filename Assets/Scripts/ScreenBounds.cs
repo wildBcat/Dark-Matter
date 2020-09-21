@@ -7,9 +7,13 @@ public class ScreenBounds : MonoBehaviour
     Camera mainCamera;
 
     // Boundry coordinate variables
+    [HideInInspector]
     public float xMin = default;
+    [HideInInspector]
     public float xMax = default;
+    [HideInInspector]
     public float yMin = default;
+    [HideInInspector]
     public float yMax = default;
 
     // Start is called before the first frame update
