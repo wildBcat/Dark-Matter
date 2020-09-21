@@ -55,14 +55,25 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Asset Store/PathCreator/Examples/Scripts/PathSpawner.cs" />
     <Compile Include="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/ForDemoOnly/MainDemoController.cs" />
+    <Compile Include="Assets/Scripts/BaseObjectController.cs" />
+    <Compile Include="Assets/Asset Store/PathCreator/Examples/Scripts/PathPlacer.cs" />
     <Compile Include="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/BaseShipController.cs" />
+    <Compile Include="Assets/Scripts/ScreenBounds.cs" />
     <Compile Include="Assets/Scripts/PlayerMovement.cs" />
     <Compile Include="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/ExplosionController.cs" />
     <Compile Include="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/ForDemoOnly/TempMouseTracker.cs" />
-    <Compile Include="Assets/Scripts/GameController.cs" />
+    <Compile Include="Assets/Asset Store/PathCreator/Examples/Scripts/GeneratePathExample.cs" />
+    <Compile Include="Assets/Asset Store/PathCreator/Examples/Scripts/RoadMeshCreator.cs" />
+    <Compile Include="Assets/Asset Store/PathCreator/Examples/Scripts/PathSceneTool.cs" />
+    <Compile Include="Assets/Scripts/ColorLerp.cs" />
+    <Compile Include="Assets/Scripts/Boundary.cs" />
+    <Compile Include="Assets/Asset Store/PathCreator/Examples/Scripts/PathFollower.cs" />
     <Compile Include="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/WeaponController.cs" />
     <Compile Include="Assets/Scripts/DirectMoving.cs" />
+    <Compile Include="Assets/Scripts/CelestialBodies.cs" />
+    <Compile Include="Assets/Scripts/Scrolling.cs" />
     <Compile Include="Assets/Scripts/RepeatingBackground.cs" />
     <Compile Include="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/WeaponBigCannonController.cs" />
     <Compile Include="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/Tools.cs" />
@@ -686,6 +697,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="PathCreator.csproj">
+      <Project>{FAB72EDD-3CFF-4378-6A2B-252727C053E7}</Project>
+      <Name>PathCreator</Name>
+    </ProjectReference>
+    <ProjectReference Include="PathCreatorEditor.csproj">
+      <Project>{F2092B88-49D2-A0DE-D0FE-26689FB76BEA}</Project>
+      <Name>PathCreatorEditor</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

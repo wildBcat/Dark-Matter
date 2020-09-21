@@ -1,58 +1,55 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
+    [Tooltip("Sets the player's speed. The higher the number, the faster the movement.")]
+    [SerializeField] float moveSpeed = default;
 
-    [SerializeField] float moveSpeed = 10f;
-    [SerializeField] float padding = .5f;
+    [Tooltip("Sets the barrier between the player and the edge of the screen. The higher the number, the farther the distance between the two.")]
+    [SerializeField] float padding = default;
 
-    private Vector2 walkInput;
-    private Vector2 dragInput;
+    //Input System Variables
+    private Vector2 walkInput = default;
+    private Vector2 dragInput = default;
+    //private Vector2 touchInput;
+    private float clickInput = default;
 
-    float xMin;
-    float xMax;
-    float yMin;
-    float yMax;
-
-    public void OnWalk(InputAction.CallbackContext context)
-    {
-        walkInput = context.ReadValue<Vector2>();
-    }
-
-    public void mouseDrag(InputAction.CallbackContext context)
-    {
-        dragInput = context.ReadValue<Vector2>();
-    }
+    ScreenBounds screenBounds = default;
 
     // Start is called before the first frame update
     void Start()
     {
-        SetUpMoveBoundries();
+        screenBounds = gameObject.AddComponent<ScreenBounds>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        Drag();
+        MoveWithMouse();
+        Touch();
         Move();
-        Debug.Log(dragInput);
     }
 
-    private void Drag()
+    // Input System Listeners
+    public void Keyboard(InputAction.CallbackContext context)
     {
-        if (Input.GetMouseButton(0))
-        {
-            var screenPoint = new Vector3(dragInput.x, dragInput.y, 10);
-            Vector3 mousePosition = Camera.main.ScreenToWorldPoint(screenPoint); //calculating mouse position in the worldspace
-            //mousePosition.z = transform.position.z;
-            transform.position = Vector3.MoveTowards(transform.position, mousePosition, moveSpeed * Time.deltaTime);
+        walkInput = context.ReadValue<Vector2>();
+    }
 
-            //var screenPoint = new Vector3(dragInput.x, dragInput.y, 10);
-            //transform.position = Camera.main.ScreenToWorldPoint(screenPoint);
-        }
+    public void Mouse(InputAction.CallbackContext context)
+    {
+        dragInput = context.ReadValue<Vector2>();
+    }
+
+    //public void Touch(InputAction.CallbackContext context)
+    //{
+    //    touchInput = context.ReadValue<Vector2>();
+    //}
+
+    public void Enable(InputAction.CallbackContext context)
+    {
+        clickInput = context.ReadValue<float>();
     }
 
     private void Move()
@@ -62,24 +59,29 @@ public class PlayerMovement : MonoBehaviour
         var deltaY = walkInput.y * Time.deltaTime * moveSpeed;
 
         // Updating player's ship to be what the iput controls are showing, with clamps
-        var newYpos = Mathf.Clamp(transform.position.y + deltaY, yMin, yMax);
-        var newXPos = Mathf.Clamp(transform.position.x + deltaX, xMin, xMax);
+        var newYpos = Mathf.Clamp(transform.position.y + deltaY, screenBounds.yMin + padding, screenBounds.yMax - padding);
+        var newXPos = Mathf.Clamp(transform.position.x + deltaX, screenBounds.xMin + padding, screenBounds.xMax - padding);
 
         // Moving player's ship to new input coordinates
         transform.position = new Vector2(newXPos, newYpos);
     }
 
-    private void SetUpMoveBoundries()
+    private void MoveWithMouse()
     {
-        // Labeling the main camera
-        Camera gameCamera = Camera.main;
+        if (clickInput > 0)
+        {
+            var screenPoint = new Vector3(dragInput.x, dragInput.y, 0);
+            Vector3 mousePosition = Camera.main.ScreenToWorldPoint(screenPoint);
+            mousePosition.z = transform.position.z;
+            transform.position = Vector3.MoveTowards(transform.position, mousePosition, moveSpeed * Time.deltaTime);
+        }
+    }
 
-        // Restrict left and right movement of ship to stay on the screen
-        xMin = gameCamera.ViewportToWorldPoint(new Vector3(0, 0, 0)).x + padding;
-        xMax = gameCamera.ViewportToWorldPoint(new Vector3(1, 0, 0)).x - padding;
-
-        // Restrict up and down movement of ship to stay on the screen
-        yMin = gameCamera.ViewportToWorldPoint(new Vector3(0, 0, 0)).y + padding;
-        yMax = gameCamera.ViewportToWorldPoint(new Vector3(0, 1, 0)).y - padding;
+    private void Touch()
+    {
+        if(Input.touchCount > 0)
+        {
+            // Need to add something here
+        }
     }
 }

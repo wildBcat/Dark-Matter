@@ -55,6 +55,7 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Asset Store/PathCreator/Examples/Scripts/Editor/PathSceneToolEditor.cs" />
     <Compile Include="Assets/Nightfox/Tools/Consistent Line Endings/Core/Editor/AutofixLineEndingsMenu.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -744,6 +745,14 @@
     <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
       <Project>{F01343E1-CF2D-4023-31CF-C7F16BB6629E}</Project>
       <Name>Assembly-CSharp-Editor-firstpass</Name>
+    </ProjectReference>
+    <ProjectReference Include="PathCreator.csproj">
+      <Project>{FAB72EDD-3CFF-4378-6A2B-252727C053E7}</Project>
+      <Name>PathCreator</Name>
+    </ProjectReference>
+    <ProjectReference Include="PathCreatorEditor.csproj">
+      <Project>{F2092B88-49D2-A0DE-D0FE-26689FB76BEA}</Project>
+      <Name>PathCreatorEditor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

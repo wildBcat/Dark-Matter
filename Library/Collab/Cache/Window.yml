@@ -14,13 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Inputs Actions.inputactions
-    - Assets/Scenes/Level 1.unity
-    - Assets/Scripts/Inputs/Inputs Actions.cs
-    - Assets/Scripts/PlayerMovement.cs
     - 
-    m_Values: 0101010101
-  RevisionSummary: More input changes
+    m_Values: 01
+  RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0

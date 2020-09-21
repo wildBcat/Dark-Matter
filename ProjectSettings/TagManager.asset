@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Bullet
+  - Planet
+  - Asteroid
+  - Player Ship
   layers:
   - Default
   - TransparentFX
@@ -14,12 +17,12 @@ TagManager:
   - UI
   - 
   - 
-  - Player Ship
-  - Player Projectile
-  - Enemy Ship
-  - Enemy Projectile
+  - Player Ships
+  - Player Projectiles
+  - Enemy Ships
+  - Enemy Projectiles
   - Powerups
-  - 
+  - Asteroids
   - 
   - 
   - 
@@ -42,6 +45,36 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Objects
+  - name: Stars Far
+    uniqueID: 3264372247
+    locked: 0
+  - name: Stars Near
+    uniqueID: 3667675095
+    locked: 0
+  - name: Planets
+    uniqueID: 4152348401
+    locked: 0
+  - name: Space Dust
+    uniqueID: 515788839
+    locked: 0
+  - name: Powerups
+    uniqueID: 1507375845
+    locked: 0
+  - name: Enemy Projectiles
+    uniqueID: 1227093315
+    locked: 0
+  - name: Player Projectiles
+    uniqueID: 2883584529
+    locked: 0
+  - name: Enemy Ships
+    uniqueID: 3800043555
+    locked: 0
+  - name: Asteroids
+    uniqueID: 3060568053
+    locked: 0
+  - name: Player Ships
     uniqueID: 2567058603
+    locked: 0
+  - name: Space Dust Close
+    uniqueID: 1179652399
     locked: 0

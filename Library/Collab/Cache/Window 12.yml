@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Asset Store/Space Shooter Template FREE/Prefabs/Planets/Cream-Violet-Planet.prefab
+    - Assets/Asset Store/Space Shooter Template FREE/Prefabs/Planets/Cream-Violet-Planet.prefab.meta
+    - Assets/Asset Store/Space Shooter Template FREE/Prefabs/Planets/Purple-Planet-wih-Moon.prefab
+    - Assets/Asset Store/Space Shooter Template FREE/Prefabs/Planets/Purple-Planet-wih-Moon.prefab.meta
+    - Assets/Asset Store/Space Shooter Template FREE/Prefabs/Planets/Red-Lines-PLanet.prefab
+    - Assets/Asset Store/Space Shooter Template FREE/Prefabs/Planets/Red-Lines-PLanet.prefab.meta
+    - Assets/Asset Store/Space Shooter Template FREE/Sprites/Planets/Purple-Planet-wih-Moon.png
+    - Assets/Asset Store/Space Shooter Template FREE/Sprites/Planets/Purple-Planet-wih-Moon.png.meta
+    - Assets/Asset Store/Space Shooter Template FREE/Sprites/Planets/Red-Lines-PLanet.png
+    - Assets/Asset Store/Space Shooter Template FREE/Sprites/Planets/Red-Lines-PLanet.png.meta
+    - Assets/Asset Store/Space Shooter Template FREE/Sprites/Planets/blue-planet.png
+    - Assets/Asset Store/Space Shooter Template FREE/Sprites/Planets/blue-planet.png.meta
+    - Assets/Asset Store/Space Shooter Template FREE/Sprites/Planets/cyan-planet.png
+    - Assets/Asset Store/Space Shooter Template FREE/Sprites/Planets/cyan-planet.png.meta
+    - Assets/Prefabs/Ships/Player Ship.prefab
+    - Assets/Scenes/Level 1 2.unity
+    - Assets/Scenes/Level 1 2.unity.meta
+    - Assets/Scenes/Level 1.unity
+    - Assets/Scripts/DirectMoving.cs
+    - Assets/Scripts/Planets.cs
+    - Assets/Scripts/PlayerMovement.cs
+    - Assets/Scripts/ScreenBounds.cs
+    - Assets/Scripts/ScreenBounds.cs.meta
+    - ProjectSettings/TagManager.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000
+  RevisionSummary: Added asteroids asset.
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
