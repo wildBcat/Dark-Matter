@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
-    m_Keys: []
-    m_Values: 
-  RevisionSummary: 
+    m_Keys:
+    - Assets/Scripts/BaseObjectController.cs
+    - 
+    m_Values: 0101
+  RevisionSummary: 'Added damage flash. The ships still need work, though. '
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
