@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{97523C28-2D04-E105-9D1B-383266DB5E1E}|">
   <MonoDevelop.Ide.ItemProperties.PathCreatorEditor PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Asset Store/ND_VariaBULLET/Scripts/Shot/GlobalShotManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BaseObjectController.cs">
     <Files>
       <File FileName="Assets/Scripts/Boundary.cs" Line="34" Column="48" />
       <File FileName="Assets/Scripts/ColorLerp.cs" />
@@ -12,7 +12,7 @@
       <File FileName="Assets/Asset Store/PathCreator/Examples/Scripts/PathFollower.cs" />
       <File FileName="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/BaseShipController.cs" />
       <File FileName="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/ExplosionController.cs" />
-      <File FileName="Assets/Scripts/BaseObjectController.cs" Line="78" Column="36" />
+      <File FileName="Assets/Scripts/BaseObjectController.cs" Line="118" Column="14" />
       <File FileName="Assets/Asset Store/ND_VariaBULLET/Scripts/Shot/GlobalShotManager.cs" Line="23" Column="30" />
     </Files>
     <Pads>
@@ -25,7 +25,9 @@
                   <Node name="Scripts" expanded="True" />
                 </Node>
               </Node>
-              <Node name="Scripts" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="BaseObjectController.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
