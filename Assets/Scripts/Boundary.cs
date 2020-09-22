@@ -32,7 +32,9 @@ public class Boundary : MonoBehaviour
             Destroy(collision.gameObject);
         }
         else if (collision.CompareTag("Asteroid"))
+        {
             Destroy(collision.gameObject);
+        }
     }
 
 }

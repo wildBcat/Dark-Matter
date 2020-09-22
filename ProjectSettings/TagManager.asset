@@ -60,11 +60,11 @@ TagManager:
   - name: Powerups
     uniqueID: 1507375845
     locked: 0
-  - name: Enemy Projectiles
-    uniqueID: 1227093315
-    locked: 0
   - name: Player Projectiles
     uniqueID: 2883584529
+    locked: 0
+  - name: Enemy Projectiles
+    uniqueID: 1227093315
     locked: 0
   - name: Asteroids
     uniqueID: 3060568053

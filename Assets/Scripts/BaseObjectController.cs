@@ -89,30 +89,33 @@ public class BaseObjectController : MonoBehaviour
     {
         for (int j = 0; j < 3; j++)
         {
-            foreach (SpriteRenderer r in renderers)
+            if (gameObject != null)
             {
-                // Sets each sprite in the renderers array to the color set in the collideColor variable
-                r.color = collideColor;
-            }
-            foreach (SpriteRenderer sr in GetComponentsInChildren<SpriteRenderer>())
-            {
-                // Sets the material in each child sprite's sprite renderer to white
-                sr.material = matWhite;
-            }
+                foreach (SpriteRenderer r in renderers)
+                {
+                    // Sets each sprite in the renderers array to the color set in the collideColor variable
+                    r.color = collideColor;
+                }
+                foreach (SpriteRenderer sr in GetComponentsInChildren<SpriteRenderer>())
+                {
+                    // Sets the material in each child sprite's sprite renderer to white
+                    sr.material = matWhite;
+                }
 
-            yield return new WaitForSeconds(.1f);
-            
-            for (int i = 0; i < originalColors.Length; i++)
-            {
-                // Returns each sprite in the renderers array to the color set in the originalColors variable
-                renderers[i].color = originalColors[i];
+                yield return new WaitForSeconds(.1f);
+
+                for (int i = 0; i < originalColors.Length; i++)
+                {
+                    // Returns each sprite in the renderers array to the color set in the originalColors variable
+                    renderers[i].color = originalColors[i];
+                }
+                foreach (SpriteRenderer sr in GetComponentsInChildren<SpriteRenderer>())
+                {
+                    // Returns all the child sprite's sprite renderer material back to what it was
+                    sr.material = matDefault;
+                }
+                yield return new WaitForSeconds(.1f);
             }
-            foreach (SpriteRenderer sr in GetComponentsInChildren<SpriteRenderer>())
-            {
-                // Returns all the child sprite's sprite renderer material back to what it was
-                sr.material = matDefault;
-            }
-            yield return new WaitForSeconds(.1f);
         }
     }
 
