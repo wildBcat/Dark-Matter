@@ -55,12 +55,12 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Asset Store/PathCreator/Examples/Scripts/Editor/PathSceneToolEditor.cs" />
+    <Compile Include="Assets/ND_VariaBULLET/Scripts/Editor/FireBaseEditor.cs" />
+    <Compile Include="Assets/ND_VariaBULLET/Scripts/Editor/BasePatternEditor.cs" />
+    <Compile Include="Assets/PathCreator/Examples/Scripts/Editor/PathSceneToolEditor.cs" />
     <Compile Include="Assets/Nightfox/Tools/Consistent Line Endings/Core/Editor/AutofixLineEndingsMenu.cs" />
-    <Compile Include="Assets/Asset Store/ND_VariaBULLET/Scripts/Editor/FireBaseEditor.cs" />
-    <Compile Include="Assets/Asset Store/ND_VariaBULLET/Scripts/Editor/BasePatternEditor.cs" />
-    <Compile Include="Assets/Asset Store/ND_VariaBULLET/Scripts/Editor/VariaManager.cs" />
-    <Compile Include="Assets/Asset Store/ND_VariaBULLET/Scripts/Editor/RatePopUp.cs" />
+    <Compile Include="Assets/ND_VariaBULLET/Scripts/Editor/VariaManager.cs" />
+    <Compile Include="Assets/ND_VariaBULLET/Scripts/Editor/RatePopUp.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/Nightfox/Tools/Consistent Line Endings/Core/Editor/Nightfox.Tools.Eol.dll" />

@@ -55,20 +55,20 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Asset Store/PathCreator/Core/Runtime/Objects/EndOfPathInstruction.cs" />
-    <Compile Include="Assets/Asset Store/PathCreator/Core/Runtime/Objects/VertexPath.cs" />
-    <Compile Include="Assets/Asset Store/PathCreator/Core/Runtime/Objects/BezierPath.cs" />
-    <Compile Include="Assets/Asset Store/PathCreator/Core/Runtime/Utility/CubicBezierUtility.cs" />
-    <Compile Include="Assets/Asset Store/PathCreator/Core/Runtime/Objects/MinMax3D.cs" />
-    <Compile Include="Assets/Asset Store/PathCreator/Core/Runtime/Objects/GlobalDisplaySettings.cs" />
-    <Compile Include="Assets/Asset Store/PathCreator/Core/Runtime/Objects/PathSpace.cs" />
-    <Compile Include="Assets/Asset Store/PathCreator/Core/Runtime/Objects/PathCreatorData.cs" />
-    <Compile Include="Assets/Asset Store/PathCreator/Core/Runtime/Objects/PathCreator.cs" />
-    <Compile Include="Assets/Asset Store/PathCreator/Core/Runtime/Utility/MathUtility.cs" />
-    <Compile Include="Assets/Asset Store/PathCreator/Core/Runtime/Utility/VertexPathUtility.cs" />
+    <Compile Include="Assets/PathCreator/Core/Runtime/Objects/EndOfPathInstruction.cs" />
+    <Compile Include="Assets/PathCreator/Core/Runtime/Objects/VertexPath.cs" />
+    <Compile Include="Assets/PathCreator/Core/Runtime/Objects/BezierPath.cs" />
+    <Compile Include="Assets/PathCreator/Core/Runtime/Utility/CubicBezierUtility.cs" />
+    <Compile Include="Assets/PathCreator/Core/Runtime/Objects/MinMax3D.cs" />
+    <Compile Include="Assets/PathCreator/Core/Runtime/Objects/GlobalDisplaySettings.cs" />
+    <Compile Include="Assets/PathCreator/Core/Runtime/Objects/PathSpace.cs" />
+    <Compile Include="Assets/PathCreator/Core/Runtime/Objects/PathCreatorData.cs" />
+    <Compile Include="Assets/PathCreator/Core/Runtime/Objects/PathCreator.cs" />
+    <Compile Include="Assets/PathCreator/Core/Runtime/Utility/MathUtility.cs" />
+    <Compile Include="Assets/PathCreator/Core/Runtime/Utility/VertexPathUtility.cs" />
   </ItemGroup>
   <ItemGroup>
-     <None Include="Assets/Asset Store/PathCreator/Core/Runtime/PathCreator.asmdef" />
+     <None Include="Assets/PathCreator/Core/Runtime/PathCreator.asmdef" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2020.1.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
