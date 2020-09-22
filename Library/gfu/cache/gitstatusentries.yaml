@@ -13,24 +13,56 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-09-21T16:25:37.213-06:00
-  initializedAtString: 2020-09-21T15:53:58.748-06:00
+  lastUpdatedAtString: 2020-09-21T19:01:08.097-06:00
+  initializedAtString: 2020-09-21T17:51:19.665-06:00
   entries:
+  - path: .vs/Dark Matter/xs/UserPrefs.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/.vs/Dark
+      Matter/xs/UserPrefs.xml
+    projectPath: .vs/Dark Matter/xs/UserPrefs.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/Level 1.unity
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/Scenes/Level
+      1.unity
+    projectPath: Assets/Scenes/Level 1.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/BaseObjectController.cs
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/Scripts/BaseObjectController.cs
+    projectPath: Assets/Scripts/BaseObjectController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/ArtifactDB
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/ArtifactDB
     projectPath: Library/ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/Artifacts/06/0662ed820050aa71d1fb735716494fbd
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/06/0662ed820050aa71d1fb735716494fbd
+    projectPath: Library/Artifacts/06/0662ed820050aa71d1fb735716494fbd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/Artifacts/14/1475ef6d932b5563b5bd86cda6dc0799
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/14/1475ef6d932b5563b5bd86cda6dc0799
     projectPath: Library/Artifacts/14/1475ef6d932b5563b5bd86cda6dc0799
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/2a/2a06c8f4e6eac7bbaf59354f422abf4d
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/2a/2a06c8f4e6eac7bbaf59354f422abf4d
     projectPath: Library/Artifacts/2a/2a06c8f4e6eac7bbaf59354f422abf4d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/49/49c3476bc55a8413e6b246ebeda3b41b
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/49/49c3476bc55a8413e6b246ebeda3b41b
+    projectPath: Library/Artifacts/49/49c3476bc55a8413e6b246ebeda3b41b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -38,17 +70,53 @@ MonoBehaviour:
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/4b/4bcf85fd05afcdf087c3c86f4f509f65
     projectPath: Library/Artifacts/4b/4bcf85fd05afcdf087c3c86f4f509f65
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/5d/5dfab4b2fd63369e996c93df5908755a
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/5d/5dfab4b2fd63369e996c93df5908755a
     projectPath: Library/Artifacts/5d/5dfab4b2fd63369e996c93df5908755a
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/63/63fd21188d1e6c79ccb89c549fd226fe
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/63/63fd21188d1e6c79ccb89c549fd226fe
+    projectPath: Library/Artifacts/63/63fd21188d1e6c79ccb89c549fd226fe
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library/Artifacts/69/69419cdace80c67bea145953105d897e
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/69/69419cdace80c67bea145953105d897e
+    projectPath: Library/Artifacts/69/69419cdace80c67bea145953105d897e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/72/7252f3faab0187b33bf4955fc6e9b2bf
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/72/7252f3faab0187b33bf4955fc6e9b2bf
     projectPath: Library/Artifacts/72/7252f3faab0187b33bf4955fc6e9b2bf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7a/7a32c4e86b291c6ea8c621b2cc5e0c2e
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/7a/7a32c4e86b291c6ea8c621b2cc5e0c2e
+    projectPath: Library/Artifacts/7a/7a32c4e86b291c6ea8c621b2cc5e0c2e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/82/8205db954e9fa250707347ba9fbe9bd6
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/82/8205db954e9fa250707347ba9fbe9bd6
+    projectPath: Library/Artifacts/82/8205db954e9fa250707347ba9fbe9bd6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8e/8efa546134bf5d36eae7babbf0da35f6
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/8e/8efa546134bf5d36eae7babbf0da35f6
+    projectPath: Library/Artifacts/8e/8efa546134bf5d36eae7babbf0da35f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b5/b56be42752ae8f06b6bf5485cc21b46e
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b5/b56be42752ae8f06b6bf5485cc21b46e
+    projectPath: Library/Artifacts/b5/b56be42752ae8f06b6bf5485cc21b46e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -56,23 +124,71 @@ MonoBehaviour:
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b8/b80cba1118a9cbd8e0255920f0bd9c84
     projectPath: Library/Artifacts/b8/b80cba1118a9cbd8e0255920f0bd9c84
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/d1/d10f26fea74778be8d36a7ed7d271046
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d1/d10f26fea74778be8d36a7ed7d271046
     projectPath: Library/Artifacts/d1/d10f26fea74778be8d36a7ed7d271046
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/d8/d8d8f2ecb496b6ed4c5c8439b6a99f0b
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d8/d8d8f2ecb496b6ed4c5c8439b6a99f0b
     projectPath: Library/Artifacts/d8/d8d8f2ecb496b6ed4c5c8439b6a99f0b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/f3/f358f252ed35e5991e47b697750e3f48
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/f3/f358f252ed35e5991e47b697750e3f48
     projectPath: Library/Artifacts/f3/f358f252ed35e5991e47b697750e3f48
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Base/Assets/Scripts/BaseObjectController.cs
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Collab/Base/Assets/Scripts/BaseObjectController.cs
+    projectPath: Library/Collab/Base/Assets/Scripts/BaseObjectController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Cache/Window 17.yml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Collab/Cache/Window
+      17.yml
+    projectPath: Library/Collab/Cache/Window 17.yml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Cache/Window 18.yml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Collab/Cache/Window
+      18.yml
+    projectPath: Library/Collab/Cache/Window 18.yml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Cache/Window 19.yml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Collab/Cache/Window
+      19.yml
+    projectPath: Library/Collab/Cache/Window 19.yml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Cache/Window 20.yml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Collab/Cache/Window
+      20.yml
+    projectPath: Library/Collab/Cache/Window 20.yml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Cache/Window 21.yml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Collab/Cache/Window
+      21.yml
+    projectPath: Library/Collab/Cache/Window 21.yml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Cache/Window 22.yml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Collab/Cache/Window
+      22.yml
+    projectPath: Library/Collab/Cache/Window 22.yml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -88,17 +204,102 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/CurrentLayout-default 4.dwlt
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/CurrentLayout-default
-      4.dwlt
-    projectPath: Library/CurrentLayout-default 4.dwlt
+  - path: Library/Collab/Download/Assets/Scripts/BaseObjectController.cs
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Collab/Download/Assets/Scripts/BaseObjectController.cs
+    projectPath: Library/Collab/Download/Assets/Scripts/BaseObjectController.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/EditorInstance 5.json
+  - path: Library/Collab/Merge/Assets/Scripts/BaseObjectController.cs.tmpOutputPath
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Collab/Merge/Assets/Scripts/BaseObjectController.cs.tmpOutputPath
+    projectPath: Library/Collab/Merge/Assets/Scripts/BaseObjectController.cs.tmpOutputPath
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Original/Assets/Scripts/BaseObjectController.cs
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Collab/Original/Assets/Scripts/BaseObjectController.cs
+    projectPath: Library/Collab/Original/Assets/Scripts/BaseObjectController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/CurrentLayout-default 5.dwlt
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/CurrentLayout-default
+      5.dwlt
+    projectPath: Library/CurrentLayout-default 5.dwlt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/CurrentLayout-default.dwlt
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/CurrentMaximizeLayout 3.dwlt
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/CurrentMaximizeLayout
+      3.dwlt
+    projectPath: Library/CurrentMaximizeLayout 3.dwlt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/CurrentMaximizeLayout.dwlt
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/CurrentMaximizeLayout.dwlt
+    projectPath: Library/CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorInstance 6.json
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/EditorInstance
-      5.json
-    projectPath: Library/EditorInstance 5.json
+      6.json
+    projectPath: Library/EditorInstance 6.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/EditorInstance.json
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorSnapSettings 12.asset
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/EditorSnapSettings
+      12.asset
+    projectPath: Library/EditorSnapSettings 12.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/EditorSnapSettings 13.asset
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/EditorSnapSettings
+      13.asset
+    projectPath: Library/EditorSnapSettings 13.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/EditorSnapSettings 14.asset
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/EditorSnapSettings
+      14.asset
+    projectPath: Library/EditorSnapSettings 14.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/EditorSnapSettings 15.asset
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/EditorSnapSettings
+      15.asset
+    projectPath: Library/EditorSnapSettings 15.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/EditorSnapSettings 16.asset
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/EditorSnapSettings
+      16.asset
+    projectPath: Library/EditorSnapSettings 16.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/EditorSnapSettings 17.asset
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/EditorSnapSettings
+      17.asset
+    projectPath: Library/EditorSnapSettings 17.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -129,6 +330,18 @@ MonoBehaviour:
   - path: Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/InspectorExpandedItems.asset
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -168,6 +381,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp.csproj.FileListAbsolute.txt
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/obj/Debug/Assembly-CSharp.csproj.FileListAbsolute.txt
+    projectPath: obj/Debug/Assembly-CSharp.csproj.FileListAbsolute.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
     projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
@@ -186,6 +405,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp-Editor.csproj.FileListAbsolute.txt
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/obj/Debug/Assembly-CSharp-Editor.csproj.FileListAbsolute.txt
+    projectPath: obj/Debug/Assembly-CSharp-Editor.csproj.FileListAbsolute.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
     projectPath: obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
@@ -198,15 +423,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: obj/Debug/PathCreator.csprojAssemblyReference.cache
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/obj/Debug/PathCreator.csprojAssemblyReference.cache
     projectPath: obj/Debug/PathCreator.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/PathCreatorEditor.csproj.FileListAbsolute.txt
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/obj/Debug/PathCreatorEditor.csproj.FileListAbsolute.txt
+    projectPath: obj/Debug/PathCreatorEditor.csproj.FileListAbsolute.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -216,9 +441,57 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: ProjectSettings/TagManager.asset
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/ProjectSettings/TagManager.asset
+    projectPath: ProjectSettings/TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Temp/__Backupscenes/0.backup
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/bin/Debug/.GitHub.Logging.dll 2.mdb.icloud
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/.GitHub.Logging.dll
+      2.mdb.icloud
+    projectPath: Temp/bin/Debug/.GitHub.Logging.dll 2.mdb.icloud
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/bin/Debug/.GitHub.UnityShim.dll 2.mdb.icloud
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/.GitHub.UnityShim.dll
+      2.mdb.icloud
+    projectPath: Temp/bin/Debug/.GitHub.UnityShim.dll 2.mdb.icloud
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/bin/Debug/Assembly-CSharp 2.dll
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Assembly-CSharp
+      2.dll
+    projectPath: Temp/bin/Debug/Assembly-CSharp 2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/bin/Debug/Assembly-CSharp 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Assembly-CSharp
+      2.pdb
+    projectPath: Temp/bin/Debug/Assembly-CSharp 2.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/bin/Debug/Assembly-CSharp 3.dll
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Assembly-CSharp
+      3.dll
+    projectPath: Temp/bin/Debug/Assembly-CSharp 3.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/bin/Debug/Assembly-CSharp 3.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Assembly-CSharp
+      3.pdb
+    projectPath: Temp/bin/Debug/Assembly-CSharp 3.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -226,11 +499,39 @@ MonoBehaviour:
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Assembly-CSharp.dll
     projectPath: Temp/bin/Debug/Assembly-CSharp.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Temp/bin/Debug/Assembly-CSharp.pdb
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Assembly-CSharp.pdb
     projectPath: Temp/bin/Debug/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/bin/Debug/Assembly-CSharp-Editor 2.dll
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Assembly-CSharp-Editor
+      2.dll
+    projectPath: Temp/bin/Debug/Assembly-CSharp-Editor 2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/bin/Debug/Assembly-CSharp-Editor 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Assembly-CSharp-Editor
+      2.pdb
+    projectPath: Temp/bin/Debug/Assembly-CSharp-Editor 2.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/bin/Debug/Assembly-CSharp-Editor 3.dll
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Assembly-CSharp-Editor
+      3.dll
+    projectPath: Temp/bin/Debug/Assembly-CSharp-Editor 3.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/bin/Debug/Assembly-CSharp-Editor 3.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Assembly-CSharp-Editor
+      3.pdb
+    projectPath: Temp/bin/Debug/Assembly-CSharp-Editor 3.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -238,2567 +539,474 @@ MonoBehaviour:
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Assembly-CSharp-Editor.dll
     projectPath: Temp/bin/Debug/Assembly-CSharp-Editor.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Assembly-CSharp-Editor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Assembly-CSharp-Editor.pdb
-    projectPath: Temp/bin/Debug/Assembly-CSharp-Editor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/ExCSS.Unity.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/ExCSS.Unity.dll
-    projectPath: Temp/bin/Debug/ExCSS.Unity.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/GitHub.Api.45.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/GitHub.Api.45.dll
-    projectPath: Temp/bin/Debug/GitHub.Api.45.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/GitHub.Api.45.dll.mdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/GitHub.Api.45.dll.mdb
-    projectPath: Temp/bin/Debug/GitHub.Api.45.dll.mdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/GitHub.Api.45.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/GitHub.Api.45.pdb
-    projectPath: Temp/bin/Debug/GitHub.Api.45.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/GitHub.Logging.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/GitHub.Logging.dll
-    projectPath: Temp/bin/Debug/GitHub.Logging.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/GitHub.Logging.dll.mdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/GitHub.Logging.dll.mdb
-    projectPath: Temp/bin/Debug/GitHub.Logging.dll.mdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/GitHub.Logging.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/GitHub.Logging.pdb
-    projectPath: Temp/bin/Debug/GitHub.Logging.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/GitHub.Unity.45.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/GitHub.Unity.45.dll
-    projectPath: Temp/bin/Debug/GitHub.Unity.45.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/GitHub.Unity.45.dll.mdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/GitHub.Unity.45.dll.mdb
-    projectPath: Temp/bin/Debug/GitHub.Unity.45.dll.mdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/GitHub.Unity.45.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/GitHub.Unity.45.pdb
-    projectPath: Temp/bin/Debug/GitHub.Unity.45.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/GitHub.UnityShim.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/GitHub.UnityShim.dll
-    projectPath: Temp/bin/Debug/GitHub.UnityShim.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/GitHub.UnityShim.dll.mdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/GitHub.UnityShim.dll.mdb
-    projectPath: Temp/bin/Debug/GitHub.UnityShim.dll.mdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/GitHub.UnityShim.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/GitHub.UnityShim.pdb
-    projectPath: Temp/bin/Debug/GitHub.UnityShim.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Microsoft.CSharp.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Microsoft.CSharp.dll
-    projectPath: Temp/bin/Debug/Microsoft.CSharp.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Microsoft.Win32.Primitives.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Microsoft.Win32.Primitives.dll
-    projectPath: Temp/bin/Debug/Microsoft.Win32.Primitives.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Mono.Posix.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Mono.Posix.dll
-    projectPath: Temp/bin/Debug/Mono.Posix.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/mscorlib.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/mscorlib.dll
-    projectPath: Temp/bin/Debug/mscorlib.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/netstandard.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/netstandard.dll
-    projectPath: Temp/bin/Debug/netstandard.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Nightfox.Tools.Eol.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Nightfox.Tools.Eol.dll
-    projectPath: Temp/bin/Debug/Nightfox.Tools.Eol.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Nightfox.Utilities.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Nightfox.Utilities.dll
-    projectPath: Temp/bin/Debug/Nightfox.Utilities.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/nunit.framework.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/nunit.framework.dll
-    projectPath: Temp/bin/Debug/nunit.framework.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/nunit.framework.dll.mdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/nunit.framework.dll.mdb
-    projectPath: Temp/bin/Debug/nunit.framework.dll.mdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/nunit.framework.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/nunit.framework.pdb
-    projectPath: Temp/bin/Debug/nunit.framework.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/nunit.framework.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/nunit.framework.xml
-    projectPath: Temp/bin/Debug/nunit.framework.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/PathCreator.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/PathCreator.dll
-    projectPath: Temp/bin/Debug/PathCreator.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/PathCreator.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/PathCreator.pdb
-    projectPath: Temp/bin/Debug/PathCreator.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/PathCreatorEditor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/PathCreatorEditor.dll
-    projectPath: Temp/bin/Debug/PathCreatorEditor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/PathCreatorEditor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/PathCreatorEditor.pdb
-    projectPath: Temp/bin/Debug/PathCreatorEditor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/PsdPlugin.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/PsdPlugin.dll
-    projectPath: Temp/bin/Debug/PsdPlugin.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/PsdPlugin.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/PsdPlugin.pdb
-    projectPath: Temp/bin/Debug/PsdPlugin.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/sfw.net.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/sfw.net.dll
-    projectPath: Temp/bin/Debug/sfw.net.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Bridge.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Bridge.dll
-    projectPath: Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Bridge.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Messaging.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Messaging.dll
-    projectPath: Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Messaging.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.AppContext.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.AppContext.dll
-    projectPath: Temp/bin/Debug/System.AppContext.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Collections.Concurrent.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Collections.Concurrent.dll
-    projectPath: Temp/bin/Debug/System.Collections.Concurrent.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Collections.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Collections.dll
-    projectPath: Temp/bin/Debug/System.Collections.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Collections.NonGeneric.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Collections.NonGeneric.dll
-    projectPath: Temp/bin/Debug/System.Collections.NonGeneric.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Collections.Specialized.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Collections.Specialized.dll
-    projectPath: Temp/bin/Debug/System.Collections.Specialized.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.ComponentModel.Annotations.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.ComponentModel.Annotations.dll
-    projectPath: Temp/bin/Debug/System.ComponentModel.Annotations.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.ComponentModel.Composition.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.ComponentModel.Composition.dll
-    projectPath: Temp/bin/Debug/System.ComponentModel.Composition.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.ComponentModel.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.ComponentModel.dll
-    projectPath: Temp/bin/Debug/System.ComponentModel.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.ComponentModel.EventBasedAsync.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.ComponentModel.EventBasedAsync.dll
-    projectPath: Temp/bin/Debug/System.ComponentModel.EventBasedAsync.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.ComponentModel.Primitives.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.ComponentModel.Primitives.dll
-    projectPath: Temp/bin/Debug/System.ComponentModel.Primitives.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.ComponentModel.TypeConverter.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.ComponentModel.TypeConverter.dll
-    projectPath: Temp/bin/Debug/System.ComponentModel.TypeConverter.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Configuration.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Configuration.dll
-    projectPath: Temp/bin/Debug/System.Configuration.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Console.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Console.dll
-    projectPath: Temp/bin/Debug/System.Console.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Core.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Core.dll
-    projectPath: Temp/bin/Debug/System.Core.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Data.Common.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Data.Common.dll
-    projectPath: Temp/bin/Debug/System.Data.Common.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Data.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Data.dll
-    projectPath: Temp/bin/Debug/System.Data.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Diagnostics.Contracts.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Diagnostics.Contracts.dll
-    projectPath: Temp/bin/Debug/System.Diagnostics.Contracts.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Diagnostics.Debug.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Diagnostics.Debug.dll
-    projectPath: Temp/bin/Debug/System.Diagnostics.Debug.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Diagnostics.FileVersionInfo.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Diagnostics.FileVersionInfo.dll
-    projectPath: Temp/bin/Debug/System.Diagnostics.FileVersionInfo.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Diagnostics.Process.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Diagnostics.Process.dll
-    projectPath: Temp/bin/Debug/System.Diagnostics.Process.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Diagnostics.StackTrace.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Diagnostics.StackTrace.dll
-    projectPath: Temp/bin/Debug/System.Diagnostics.StackTrace.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Diagnostics.TextWriterTraceListener.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Diagnostics.TextWriterTraceListener.dll
-    projectPath: Temp/bin/Debug/System.Diagnostics.TextWriterTraceListener.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Diagnostics.Tools.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Diagnostics.Tools.dll
-    projectPath: Temp/bin/Debug/System.Diagnostics.Tools.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Diagnostics.TraceSource.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Diagnostics.TraceSource.dll
-    projectPath: Temp/bin/Debug/System.Diagnostics.TraceSource.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Diagnostics.Tracing.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Diagnostics.Tracing.dll
-    projectPath: Temp/bin/Debug/System.Diagnostics.Tracing.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.dll
-    projectPath: Temp/bin/Debug/System.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Drawing.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Drawing.dll
-    projectPath: Temp/bin/Debug/System.Drawing.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Drawing.Primitives.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Drawing.Primitives.dll
-    projectPath: Temp/bin/Debug/System.Drawing.Primitives.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Dynamic.Runtime.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Dynamic.Runtime.dll
-    projectPath: Temp/bin/Debug/System.Dynamic.Runtime.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.EnterpriseServices.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.EnterpriseServices.dll
-    projectPath: Temp/bin/Debug/System.EnterpriseServices.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Globalization.Calendars.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Globalization.Calendars.dll
-    projectPath: Temp/bin/Debug/System.Globalization.Calendars.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Globalization.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Globalization.dll
-    projectPath: Temp/bin/Debug/System.Globalization.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Globalization.Extensions.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Globalization.Extensions.dll
-    projectPath: Temp/bin/Debug/System.Globalization.Extensions.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.IO.Compression.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.IO.Compression.dll
-    projectPath: Temp/bin/Debug/System.IO.Compression.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.IO.Compression.FileSystem.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.IO.Compression.FileSystem.dll
-    projectPath: Temp/bin/Debug/System.IO.Compression.FileSystem.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.IO.Compression.ZipFile.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.IO.Compression.ZipFile.dll
-    projectPath: Temp/bin/Debug/System.IO.Compression.ZipFile.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.IO.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.IO.dll
-    projectPath: Temp/bin/Debug/System.IO.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.IO.FileSystem.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.IO.FileSystem.dll
-    projectPath: Temp/bin/Debug/System.IO.FileSystem.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.IO.FileSystem.DriveInfo.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.IO.FileSystem.DriveInfo.dll
-    projectPath: Temp/bin/Debug/System.IO.FileSystem.DriveInfo.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.IO.FileSystem.Primitives.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.IO.FileSystem.Primitives.dll
-    projectPath: Temp/bin/Debug/System.IO.FileSystem.Primitives.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.IO.FileSystem.Watcher.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.IO.FileSystem.Watcher.dll
-    projectPath: Temp/bin/Debug/System.IO.FileSystem.Watcher.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.IO.IsolatedStorage.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.IO.IsolatedStorage.dll
-    projectPath: Temp/bin/Debug/System.IO.IsolatedStorage.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.IO.MemoryMappedFiles.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.IO.MemoryMappedFiles.dll
-    projectPath: Temp/bin/Debug/System.IO.MemoryMappedFiles.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.IO.Pipes.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.IO.Pipes.dll
-    projectPath: Temp/bin/Debug/System.IO.Pipes.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.IO.UnmanagedMemoryStream.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.IO.UnmanagedMemoryStream.dll
-    projectPath: Temp/bin/Debug/System.IO.UnmanagedMemoryStream.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Linq.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Linq.dll
-    projectPath: Temp/bin/Debug/System.Linq.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Linq.Expressions.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Linq.Expressions.dll
-    projectPath: Temp/bin/Debug/System.Linq.Expressions.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Linq.Parallel.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Linq.Parallel.dll
-    projectPath: Temp/bin/Debug/System.Linq.Parallel.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Linq.Queryable.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Linq.Queryable.dll
-    projectPath: Temp/bin/Debug/System.Linq.Queryable.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Net.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Net.dll
-    projectPath: Temp/bin/Debug/System.Net.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Net.Http.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Net.Http.dll
-    projectPath: Temp/bin/Debug/System.Net.Http.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Net.Http.Rtc.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Net.Http.Rtc.dll
-    projectPath: Temp/bin/Debug/System.Net.Http.Rtc.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Net.NameResolution.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Net.NameResolution.dll
-    projectPath: Temp/bin/Debug/System.Net.NameResolution.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Net.NetworkInformation.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Net.NetworkInformation.dll
-    projectPath: Temp/bin/Debug/System.Net.NetworkInformation.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Net.Ping.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Net.Ping.dll
-    projectPath: Temp/bin/Debug/System.Net.Ping.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Net.Primitives.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Net.Primitives.dll
-    projectPath: Temp/bin/Debug/System.Net.Primitives.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Net.Requests.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Net.Requests.dll
-    projectPath: Temp/bin/Debug/System.Net.Requests.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Net.Security.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Net.Security.dll
-    projectPath: Temp/bin/Debug/System.Net.Security.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Net.Sockets.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Net.Sockets.dll
-    projectPath: Temp/bin/Debug/System.Net.Sockets.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Net.WebHeaderCollection.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Net.WebHeaderCollection.dll
-    projectPath: Temp/bin/Debug/System.Net.WebHeaderCollection.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Net.WebSockets.Client.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Net.WebSockets.Client.dll
-    projectPath: Temp/bin/Debug/System.Net.WebSockets.Client.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Net.WebSockets.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Net.WebSockets.dll
-    projectPath: Temp/bin/Debug/System.Net.WebSockets.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Numerics.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Numerics.dll
-    projectPath: Temp/bin/Debug/System.Numerics.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Numerics.Vectors.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Numerics.Vectors.dll
-    projectPath: Temp/bin/Debug/System.Numerics.Vectors.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.ObjectModel.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.ObjectModel.dll
-    projectPath: Temp/bin/Debug/System.ObjectModel.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Reflection.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Reflection.dll
-    projectPath: Temp/bin/Debug/System.Reflection.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Reflection.Emit.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Reflection.Emit.dll
-    projectPath: Temp/bin/Debug/System.Reflection.Emit.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Reflection.Emit.ILGeneration.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Reflection.Emit.ILGeneration.dll
-    projectPath: Temp/bin/Debug/System.Reflection.Emit.ILGeneration.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Reflection.Emit.Lightweight.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Reflection.Emit.Lightweight.dll
-    projectPath: Temp/bin/Debug/System.Reflection.Emit.Lightweight.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Reflection.Extensions.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Reflection.Extensions.dll
-    projectPath: Temp/bin/Debug/System.Reflection.Extensions.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Reflection.Primitives.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Reflection.Primitives.dll
-    projectPath: Temp/bin/Debug/System.Reflection.Primitives.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Resources.Reader.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Resources.Reader.dll
-    projectPath: Temp/bin/Debug/System.Resources.Reader.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Resources.ResourceManager.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Resources.ResourceManager.dll
-    projectPath: Temp/bin/Debug/System.Resources.ResourceManager.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Resources.Writer.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Resources.Writer.dll
-    projectPath: Temp/bin/Debug/System.Resources.Writer.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Runtime.CompilerServices.VisualC.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Runtime.CompilerServices.VisualC.dll
-    projectPath: Temp/bin/Debug/System.Runtime.CompilerServices.VisualC.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Runtime.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Runtime.dll
-    projectPath: Temp/bin/Debug/System.Runtime.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Runtime.Extensions.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Runtime.Extensions.dll
-    projectPath: Temp/bin/Debug/System.Runtime.Extensions.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Runtime.Handles.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Runtime.Handles.dll
-    projectPath: Temp/bin/Debug/System.Runtime.Handles.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Runtime.InteropServices.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Runtime.InteropServices.dll
-    projectPath: Temp/bin/Debug/System.Runtime.InteropServices.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
-    projectPath: Temp/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Runtime.InteropServices.WindowsRuntime.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Runtime.InteropServices.WindowsRuntime.dll
-    projectPath: Temp/bin/Debug/System.Runtime.InteropServices.WindowsRuntime.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Runtime.Numerics.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Runtime.Numerics.dll
-    projectPath: Temp/bin/Debug/System.Runtime.Numerics.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Runtime.Serialization.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Runtime.Serialization.dll
-    projectPath: Temp/bin/Debug/System.Runtime.Serialization.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Runtime.Serialization.Formatters.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Runtime.Serialization.Formatters.dll
-    projectPath: Temp/bin/Debug/System.Runtime.Serialization.Formatters.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Runtime.Serialization.Json.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Runtime.Serialization.Json.dll
-    projectPath: Temp/bin/Debug/System.Runtime.Serialization.Json.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Runtime.Serialization.Primitives.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Runtime.Serialization.Primitives.dll
-    projectPath: Temp/bin/Debug/System.Runtime.Serialization.Primitives.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Runtime.Serialization.Xml.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Runtime.Serialization.Xml.dll
-    projectPath: Temp/bin/Debug/System.Runtime.Serialization.Xml.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Security.Claims.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Security.Claims.dll
-    projectPath: Temp/bin/Debug/System.Security.Claims.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Security.Cryptography.Algorithms.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Security.Cryptography.Algorithms.dll
-    projectPath: Temp/bin/Debug/System.Security.Cryptography.Algorithms.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Security.Cryptography.Csp.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Security.Cryptography.Csp.dll
-    projectPath: Temp/bin/Debug/System.Security.Cryptography.Csp.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Security.Cryptography.Encoding.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Security.Cryptography.Encoding.dll
-    projectPath: Temp/bin/Debug/System.Security.Cryptography.Encoding.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Security.Cryptography.Primitives.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Security.Cryptography.Primitives.dll
-    projectPath: Temp/bin/Debug/System.Security.Cryptography.Primitives.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Security.Cryptography.X509Certificates.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Security.Cryptography.X509Certificates.dll
-    projectPath: Temp/bin/Debug/System.Security.Cryptography.X509Certificates.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Security.Principal.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Security.Principal.dll
-    projectPath: Temp/bin/Debug/System.Security.Principal.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Security.SecureString.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Security.SecureString.dll
-    projectPath: Temp/bin/Debug/System.Security.SecureString.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.ServiceModel.Duplex.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.ServiceModel.Duplex.dll
-    projectPath: Temp/bin/Debug/System.ServiceModel.Duplex.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.ServiceModel.Http.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.ServiceModel.Http.dll
-    projectPath: Temp/bin/Debug/System.ServiceModel.Http.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.ServiceModel.NetTcp.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.ServiceModel.NetTcp.dll
-    projectPath: Temp/bin/Debug/System.ServiceModel.NetTcp.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.ServiceModel.Primitives.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.ServiceModel.Primitives.dll
-    projectPath: Temp/bin/Debug/System.ServiceModel.Primitives.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.ServiceModel.Security.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.ServiceModel.Security.dll
-    projectPath: Temp/bin/Debug/System.ServiceModel.Security.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.ServiceModel.Web.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.ServiceModel.Web.dll
-    projectPath: Temp/bin/Debug/System.ServiceModel.Web.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Text.Encoding.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Text.Encoding.dll
-    projectPath: Temp/bin/Debug/System.Text.Encoding.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Text.Encoding.Extensions.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Text.Encoding.Extensions.dll
-    projectPath: Temp/bin/Debug/System.Text.Encoding.Extensions.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Text.RegularExpressions.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Text.RegularExpressions.dll
-    projectPath: Temp/bin/Debug/System.Text.RegularExpressions.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Threading.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Threading.dll
-    projectPath: Temp/bin/Debug/System.Threading.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Threading.Overlapped.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Threading.Overlapped.dll
-    projectPath: Temp/bin/Debug/System.Threading.Overlapped.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Threading.Tasks.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Threading.Tasks.dll
-    projectPath: Temp/bin/Debug/System.Threading.Tasks.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Threading.Tasks.Parallel.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Threading.Tasks.Parallel.dll
-    projectPath: Temp/bin/Debug/System.Threading.Tasks.Parallel.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Threading.Thread.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Threading.Thread.dll
-    projectPath: Temp/bin/Debug/System.Threading.Thread.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Threading.ThreadPool.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Threading.ThreadPool.dll
-    projectPath: Temp/bin/Debug/System.Threading.ThreadPool.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Threading.Timer.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Threading.Timer.dll
-    projectPath: Temp/bin/Debug/System.Threading.Timer.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Transactions.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Transactions.dll
-    projectPath: Temp/bin/Debug/System.Transactions.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.ValueTuple.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.ValueTuple.dll
-    projectPath: Temp/bin/Debug/System.ValueTuple.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Web.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Web.dll
-    projectPath: Temp/bin/Debug/System.Web.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Windows.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Windows.dll
-    projectPath: Temp/bin/Debug/System.Windows.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Xml.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Xml.dll
-    projectPath: Temp/bin/Debug/System.Xml.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Xml.Linq.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Xml.Linq.dll
-    projectPath: Temp/bin/Debug/System.Xml.Linq.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Xml.ReaderWriter.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Xml.ReaderWriter.dll
-    projectPath: Temp/bin/Debug/System.Xml.ReaderWriter.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Xml.Serialization.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Xml.Serialization.dll
-    projectPath: Temp/bin/Debug/System.Xml.Serialization.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Xml.XDocument.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Xml.XDocument.dll
-    projectPath: Temp/bin/Debug/System.Xml.XDocument.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Xml.XmlDocument.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Xml.XmlDocument.dll
-    projectPath: Temp/bin/Debug/System.Xml.XmlDocument.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Xml.XmlSerializer.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Xml.XmlSerializer.dll
-    projectPath: Temp/bin/Debug/System.Xml.XmlSerializer.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Xml.XPath.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Xml.XPath.dll
-    projectPath: Temp/bin/Debug/System.Xml.XPath.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/System.Xml.XPath.XDocument.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Xml.XPath.XDocument.dll
-    projectPath: Temp/bin/Debug/System.Xml.XPath.XDocument.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Animation.Editor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Animation.Editor.dll
-    projectPath: Temp/bin/Debug/Unity.2D.Animation.Editor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Animation.Editor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Animation.Editor.pdb
-    projectPath: Temp/bin/Debug/Unity.2D.Animation.Editor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Animation.Runtime.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Animation.Runtime.dll
-    projectPath: Temp/bin/Debug/Unity.2D.Animation.Runtime.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Animation.Runtime.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Animation.Runtime.pdb
-    projectPath: Temp/bin/Debug/Unity.2D.Animation.Runtime.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Animation.Triangle.Runtime.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Animation.Triangle.Runtime.dll
-    projectPath: Temp/bin/Debug/Unity.2D.Animation.Triangle.Runtime.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Animation.Triangle.Runtime.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Animation.Triangle.Runtime.pdb
-    projectPath: Temp/bin/Debug/Unity.2D.Animation.Triangle.Runtime.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Common.Editor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Common.Editor.dll
-    projectPath: Temp/bin/Debug/Unity.2D.Common.Editor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Common.Editor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Common.Editor.pdb
-    projectPath: Temp/bin/Debug/Unity.2D.Common.Editor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Common.Runtime.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Common.Runtime.dll
-    projectPath: Temp/bin/Debug/Unity.2D.Common.Runtime.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Common.Runtime.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Common.Runtime.pdb
-    projectPath: Temp/bin/Debug/Unity.2D.Common.Runtime.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Path.Editor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Path.Editor.dll
-    projectPath: Temp/bin/Debug/Unity.2D.Path.Editor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Path.Editor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Path.Editor.pdb
-    projectPath: Temp/bin/Debug/Unity.2D.Path.Editor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.PixelPerfect.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.PixelPerfect.dll
-    projectPath: Temp/bin/Debug/Unity.2D.PixelPerfect.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.PixelPerfect.Editor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.PixelPerfect.Editor.dll
-    projectPath: Temp/bin/Debug/Unity.2D.PixelPerfect.Editor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.PixelPerfect.Editor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.PixelPerfect.Editor.pdb
-    projectPath: Temp/bin/Debug/Unity.2D.PixelPerfect.Editor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.PixelPerfect.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.PixelPerfect.pdb
-    projectPath: Temp/bin/Debug/Unity.2D.PixelPerfect.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Psdimporter.Editor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Psdimporter.Editor.dll
-    projectPath: Temp/bin/Debug/Unity.2D.Psdimporter.Editor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Psdimporter.Editor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Psdimporter.Editor.pdb
-    projectPath: Temp/bin/Debug/Unity.2D.Psdimporter.Editor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Sprite.Editor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Sprite.Editor.dll
-    projectPath: Temp/bin/Debug/Unity.2D.Sprite.Editor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Sprite.Editor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Sprite.Editor.pdb
-    projectPath: Temp/bin/Debug/Unity.2D.Sprite.Editor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.SpriteShape.Editor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.SpriteShape.Editor.dll
-    projectPath: Temp/bin/Debug/Unity.2D.SpriteShape.Editor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.SpriteShape.Editor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.SpriteShape.Editor.pdb
-    projectPath: Temp/bin/Debug/Unity.2D.SpriteShape.Editor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.SpriteShape.Runtime.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.SpriteShape.Runtime.dll
-    projectPath: Temp/bin/Debug/Unity.2D.SpriteShape.Runtime.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.SpriteShape.Runtime.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.SpriteShape.Runtime.pdb
-    projectPath: Temp/bin/Debug/Unity.2D.SpriteShape.Runtime.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Tilemap.Editor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Tilemap.Editor.dll
-    projectPath: Temp/bin/Debug/Unity.2D.Tilemap.Editor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.2D.Tilemap.Editor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Tilemap.Editor.pdb
-    projectPath: Temp/bin/Debug/Unity.2D.Tilemap.Editor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.Cecil.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.Cecil.dll
-    projectPath: Temp/bin/Debug/Unity.Cecil.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.CecilTools.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.CecilTools.dll
-    projectPath: Temp/bin/Debug/Unity.CecilTools.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.CompilationPipeline.Common.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.CompilationPipeline.Common.dll
-    projectPath: Temp/bin/Debug/Unity.CompilationPipeline.Common.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.InputSystem.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.InputSystem.dll
-    projectPath: Temp/bin/Debug/Unity.InputSystem.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.InputSystem.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.InputSystem.pdb
-    projectPath: Temp/bin/Debug/Unity.InputSystem.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.InternalAPIEditorBridge.001.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.InternalAPIEditorBridge.001.dll
-    projectPath: Temp/bin/Debug/Unity.InternalAPIEditorBridge.001.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.InternalAPIEditorBridge.001.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.InternalAPIEditorBridge.001.pdb
-    projectPath: Temp/bin/Debug/Unity.InternalAPIEditorBridge.001.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.InternalAPIEngineBridge.001.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.InternalAPIEngineBridge.001.dll
-    projectPath: Temp/bin/Debug/Unity.InternalAPIEngineBridge.001.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.InternalAPIEngineBridge.001.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.InternalAPIEngineBridge.001.pdb
-    projectPath: Temp/bin/Debug/Unity.InternalAPIEngineBridge.001.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.Legacy.NRefactory.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
-    projectPath: Temp/bin/Debug/Unity.Legacy.NRefactory.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.Mathematics.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.Mathematics.dll
-    projectPath: Temp/bin/Debug/Unity.Mathematics.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.Mathematics.Editor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.Mathematics.Editor.dll
-    projectPath: Temp/bin/Debug/Unity.Mathematics.Editor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.Mathematics.Editor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.Mathematics.Editor.pdb
-    projectPath: Temp/bin/Debug/Unity.Mathematics.Editor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.Mathematics.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.Mathematics.pdb
-    projectPath: Temp/bin/Debug/Unity.Mathematics.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.Rider.Editor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.Rider.Editor.dll
-    projectPath: Temp/bin/Debug/Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.Rider.Editor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.Rider.Editor.pdb
-    projectPath: Temp/bin/Debug/Unity.Rider.Editor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.SerializationLogic.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.SerializationLogic.dll
-    projectPath: Temp/bin/Debug/Unity.SerializationLogic.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.TextMeshPro.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.TextMeshPro.dll
-    projectPath: Temp/bin/Debug/Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
-    projectPath: Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.TextMeshPro.Editor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.TextMeshPro.Editor.pdb
-    projectPath: Temp/bin/Debug/Unity.TextMeshPro.Editor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.TextMeshPro.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.TextMeshPro.pdb
-    projectPath: Temp/bin/Debug/Unity.TextMeshPro.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.Timeline.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.Timeline.dll
-    projectPath: Temp/bin/Debug/Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.Timeline.Editor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.Timeline.Editor.dll
-    projectPath: Temp/bin/Debug/Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.Timeline.Editor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.Timeline.Editor.pdb
-    projectPath: Temp/bin/Debug/Unity.Timeline.Editor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.Timeline.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.Timeline.pdb
-    projectPath: Temp/bin/Debug/Unity.Timeline.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.VisualStudio.Editor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.VisualStudio.Editor.dll
-    projectPath: Temp/bin/Debug/Unity.VisualStudio.Editor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.VisualStudio.Editor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.VisualStudio.Editor.pdb
-    projectPath: Temp/bin/Debug/Unity.VisualStudio.Editor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.VSCode.Editor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.VSCode.Editor.dll
-    projectPath: Temp/bin/Debug/Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/Unity.VSCode.Editor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.VSCode.Editor.pdb
-    projectPath: Temp/bin/Debug/Unity.VSCode.Editor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.Android.Extensions.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.Android.Extensions.dll
-    projectPath: Temp/bin/Debug/UnityEditor.Android.Extensions.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.dll
-    projectPath: Temp/bin/Debug/UnityEditor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.Graphs.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.Graphs.dll
-    projectPath: Temp/bin/Debug/UnityEditor.Graphs.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.Graphs.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.Graphs.pdb
-    projectPath: Temp/bin/Debug/UnityEditor.Graphs.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
-    projectPath: Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.pdb
-    projectPath: Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.iOS.Extensions.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.iOS.Extensions.dll
-    projectPath: Temp/bin/Debug/UnityEditor.iOS.Extensions.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.iOS.Extensions.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.iOS.Extensions.pdb
-    projectPath: Temp/bin/Debug/UnityEditor.iOS.Extensions.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
-    projectPath: Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.pdb
-    projectPath: Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
-    projectPath: Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.pdb
-    projectPath: Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.pdb
-    projectPath: Temp/bin/Debug/UnityEditor.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.TestRunner.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.TestRunner.dll
-    projectPath: Temp/bin/Debug/UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.TestRunner.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.TestRunner.pdb
-    projectPath: Temp/bin/Debug/UnityEditor.TestRunner.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.UI.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.UI.dll
-    projectPath: Temp/bin/Debug/UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.UI.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.UI.pdb
-    projectPath: Temp/bin/Debug/UnityEditor.UI.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.WebGL.Extensions.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.WebGL.Extensions.dll
-    projectPath: Temp/bin/Debug/UnityEditor.WebGL.Extensions.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.WebGL.Extensions.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.WebGL.Extensions.pdb
-    projectPath: Temp/bin/Debug/UnityEditor.WebGL.Extensions.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll
-    projectPath: Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.pdb
-    projectPath: Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEditor.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEditor.xml
-    projectPath: Temp/bin/Debug/UnityEditor.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AccessibilityModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AccessibilityModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.AccessibilityModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AIModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AIModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.AIModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AIModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AIModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.AIModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AIModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AIModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.AIModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AndroidJNIModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AndroidJNIModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.AndroidJNIModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AndroidJNIModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AndroidJNIModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.AndroidJNIModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AndroidJNIModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AndroidJNIModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.AndroidJNIModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AnimationModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AnimationModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.AnimationModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AnimationModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AnimationModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.AnimationModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AnimationModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AnimationModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.AnimationModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ARModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ARModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.ARModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ARModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ARModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.ARModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ARModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ARModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.ARModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AssetBundleModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AssetBundleModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.AssetBundleModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AudioModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AudioModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.AudioModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AudioModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AudioModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.AudioModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.AudioModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AudioModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.AudioModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ClothModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ClothModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.ClothModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ClothModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ClothModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.ClothModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ClothModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ClothModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.ClothModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ClusterInputModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ClusterInputModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.ClusterInputModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ClusterRendererModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ClusterRendererModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.ClusterRendererModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.CoreModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.CoreModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.CoreModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.CoreModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.CoreModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.CoreModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.CoreModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.CoreModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.CoreModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.CrashReportingModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.CrashReportingModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.CrashReportingModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.DirectorModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.DirectorModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.DirectorModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.DirectorModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.DirectorModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.DirectorModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.DirectorModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.DirectorModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.DirectorModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.dll
-    projectPath: Temp/bin/Debug/UnityEngine.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.DSPGraphModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.DSPGraphModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.DSPGraphModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.DSPGraphModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.DSPGraphModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.DSPGraphModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.DSPGraphModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.DSPGraphModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.DSPGraphModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.GameCenterModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.GameCenterModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.GameCenterModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.GameCenterModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.GameCenterModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.GameCenterModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.GameCenterModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.GridModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.GridModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.GridModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.GridModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.GridModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.GridModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.GridModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.GridModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.GridModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.HotReloadModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.HotReloadModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.HotReloadModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.HotReloadModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.HotReloadModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.HotReloadModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.HotReloadModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ImageConversionModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ImageConversionModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.ImageConversionModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.IMGUIModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.IMGUIModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.IMGUIModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.IMGUIModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.IMGUIModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.IMGUIModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.IMGUIModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.InputLegacyModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.InputLegacyModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.InputLegacyModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.InputLegacyModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.InputLegacyModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.InputLegacyModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.InputLegacyModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.InputLegacyModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.InputLegacyModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.InputModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.InputModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.InputModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.InputModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.InputModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.InputModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.InputModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.InputModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.InputModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.JSONSerializeModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.JSONSerializeModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.JSONSerializeModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.LocalizationModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.LocalizationModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.LocalizationModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.LocalizationModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.LocalizationModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.LocalizationModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.LocalizationModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ParticleSystemModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ParticleSystemModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.ParticleSystemModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.PerformanceReportingModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.PerformanceReportingModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.Physics2DModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.Physics2DModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.Physics2DModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.Physics2DModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.Physics2DModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.Physics2DModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.Physics2DModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.PhysicsModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.PhysicsModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.PhysicsModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.PhysicsModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.PhysicsModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.PhysicsModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.PhysicsModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ProfilerModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.ProfilerModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ProfilerModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ProfilerModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.ProfilerModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ProfilerModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.ProfilerModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ScreenCaptureModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.ScreenCaptureModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.SharedInternalsModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SharedInternalsModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.SharedInternalsModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.SpriteMaskModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SpriteMaskModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.SpriteMaskModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.SpriteShapeModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SpriteShapeModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.SpriteShapeModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.StreamingModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.StreamingModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.StreamingModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.StreamingModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.StreamingModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.StreamingModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.StreamingModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.StreamingModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.StreamingModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.SubstanceModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.SubstanceModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.SubstanceModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SubstanceModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.SubstanceModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.SubstanceModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.SubstanceModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.SubsystemsModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SubsystemsModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.SubsystemsModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.SubsystemsModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SubsystemsModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.SubsystemsModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.SubsystemsModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SubsystemsModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.SubsystemsModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TerrainModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TerrainModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.TerrainModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TerrainModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TerrainModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.TerrainModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TerrainModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TerrainModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.TerrainModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TestRunner.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TestRunner.dll
-    projectPath: Temp/bin/Debug/UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TestRunner.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TestRunner.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.TestRunner.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TextCoreModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TextCoreModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.TextCoreModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TextCoreModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TextCoreModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.TextCoreModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TextCoreModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TextCoreModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.TextCoreModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TextRenderingModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TextRenderingModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.TextRenderingModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TilemapModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TilemapModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.TilemapModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TilemapModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TilemapModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.TilemapModule.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TilemapModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TilemapModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.TilemapModule.xml
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/bin/Debug/Assembly-CSharp-Editor-firstpass 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Assembly-CSharp-Editor-firstpass
+      2.pdb
+    projectPath: Temp/bin/Debug/Assembly-CSharp-Editor-firstpass 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TLSModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TLSModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.TLSModule.dll
+  - path: Temp/bin/Debug/GitHub.UnityShim 2.dll
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/GitHub.UnityShim
+      2.dll
+    projectPath: Temp/bin/Debug/GitHub.UnityShim 2.dll
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TLSModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TLSModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.TLSModule.pdb
+  - path: Temp/bin/Debug/System.AppContext 2.dll
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.AppContext
+      2.dll
+    projectPath: Temp/bin/Debug/System.AppContext 2.dll
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.TLSModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TLSModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.TLSModule.xml
+  - path: Temp/bin/Debug/System.ComponentModel.Composition 2.dll
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.ComponentModel.Composition
+      2.dll
+    projectPath: Temp/bin/Debug/System.ComponentModel.Composition 2.dll
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UI.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UI.dll
-    projectPath: Temp/bin/Debug/UnityEngine.UI.dll
+  - path: Temp/bin/Debug/System.Net.Http.Rtc 2.dll
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Net.Http.Rtc
+      2.dll
+    projectPath: Temp/bin/Debug/System.Net.Http.Rtc 2.dll
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UI.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UI.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.UI.pdb
+  - path: Temp/bin/Debug/Unity.2D.Common.Runtime 2.dll
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Common.Runtime
+      2.dll
+    projectPath: Temp/bin/Debug/Unity.2D.Common.Runtime 2.dll
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UIElementsModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+  - path: Temp/bin/Debug/Unity.2D.Common.Runtime 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.Common.Runtime
+      2.pdb
+    projectPath: Temp/bin/Debug/Unity.2D.Common.Runtime 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UIElementsModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UIElementsModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.UIElementsModule.pdb
+  - path: Temp/bin/Debug/Unity.2D.PixelPerfect 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.PixelPerfect
+      2.pdb
+    projectPath: Temp/bin/Debug/Unity.2D.PixelPerfect 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UIElementsModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+  - path: Temp/bin/Debug/Unity.2D.PixelPerfect.Editor 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.2D.PixelPerfect.Editor
+      2.pdb
+    projectPath: Temp/bin/Debug/Unity.2D.PixelPerfect.Editor 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UIElementsNativeModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UIElementsNativeModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.UIElementsNativeModule.dll
+  - path: Temp/bin/Debug/Unity.InternalAPIEditorBridge.001 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.InternalAPIEditorBridge.001
+      2.pdb
+    projectPath: Temp/bin/Debug/Unity.InternalAPIEditorBridge.001 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UIElementsNativeModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UIElementsNativeModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.UIElementsNativeModule.pdb
+  - path: Temp/bin/Debug/Unity.InternalAPIEngineBridge.001 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/Unity.InternalAPIEngineBridge.001
+      2.pdb
+    projectPath: Temp/bin/Debug/Unity.InternalAPIEngineBridge.001 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UIElementsNativeModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UIElementsNativeModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.UIElementsNativeModule.xml
+  - path: Temp/bin/Debug/UnityEngine 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UIModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UIModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.UIModule.dll
+  - path: Temp/bin/Debug/UnityEngine 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UIModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UIModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.UIModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.AccessibilityModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AccessibilityModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.AccessibilityModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UIModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UIModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.UIModule.xml
+  - path: Temp/bin/Debug/UnityEngine.AccessibilityModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.AccessibilityModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.AccessibilityModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UmbraModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UmbraModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.UmbraModule.dll
+  - path: Temp/bin/Debug/UnityEngine.ARModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ARModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.ARModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UmbraModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UmbraModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.UmbraModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.ARModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ARModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.ARModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UmbraModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UmbraModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.UmbraModule.xml
+  - path: Temp/bin/Debug/UnityEngine.ClothModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ClothModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.ClothModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UNETModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UNETModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.UNETModule.dll
+  - path: Temp/bin/Debug/UnityEngine.ClusterInputModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ClusterInputModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.ClusterInputModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UNETModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UNETModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.UNETModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.ClusterRendererModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ClusterRendererModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.ClusterRendererModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UNETModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UNETModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.UNETModule.xml
+  - path: Temp/bin/Debug/UnityEngine.ClusterRendererModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ClusterRendererModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.ClusterRendererModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+  - path: Temp/bin/Debug/UnityEngine.CrashReportingModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.CrashReportingModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.CrashReportingModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.CrashReportingModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.CrashReportingModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.CrashReportingModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+  - path: Temp/bin/Debug/UnityEngine.DirectorModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.DirectorModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.DirectorModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+  - path: Temp/bin/Debug/UnityEngine.DSPGraphModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.DSPGraphModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.DSPGraphModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityConnectModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityConnectModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.UnityConnectModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.DSPGraphModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.DSPGraphModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.DSPGraphModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+  - path: Temp/bin/Debug/UnityEngine.GridModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.GridModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.GridModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll
+  - path: Temp/bin/Debug/UnityEngine.HotReloadModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.HotReloadModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.HotReloadModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.HotReloadModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.HotReloadModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.HotReloadModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.xml
+  - path: Temp/bin/Debug/UnityEngine.ImageConversionModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ImageConversionModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.ImageConversionModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+  - path: Temp/bin/Debug/UnityEngine.InputModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.InputModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.InputModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.InputModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.InputModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.InputModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+  - path: Temp/bin/Debug/UnityEngine.JSONSerializeModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.JSONSerializeModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.JSONSerializeModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+  - path: Temp/bin/Debug/UnityEngine.LocalizationModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.LocalizationModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.LocalizationModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.LocalizationModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.LocalizationModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.LocalizationModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+  - path: Temp/bin/Debug/UnityEngine.PerformanceReportingModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.PerformanceReportingModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.PerformanceReportingModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+  - path: Temp/bin/Debug/UnityEngine.PerformanceReportingModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.PerformanceReportingModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.PerformanceReportingModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.ProfilerModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ProfilerModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.ProfilerModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+  - path: Temp/bin/Debug/UnityEngine.ProfilerModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ProfilerModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.ProfilerModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+  - path: Temp/bin/Debug/UnityEngine.ScreenCaptureModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.ScreenCaptureModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.ScreenCaptureModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.SharedInternalsModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SharedInternalsModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.SharedInternalsModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+  - path: Temp/bin/Debug/UnityEngine.SharedInternalsModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SharedInternalsModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.SharedInternalsModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+  - path: Temp/bin/Debug/UnityEngine.SpriteMaskModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SpriteMaskModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.SpriteMaskModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.SpriteShapeModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SpriteShapeModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.SpriteShapeModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+  - path: Temp/bin/Debug/UnityEngine.StreamingModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.StreamingModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.StreamingModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.VehiclesModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+  - path: Temp/bin/Debug/UnityEngine.StreamingModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.StreamingModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.StreamingModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.VehiclesModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VehiclesModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.VehiclesModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.SubstanceModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SubstanceModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.SubstanceModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.VehiclesModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+  - path: Temp/bin/Debug/UnityEngine.SubsystemsModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.SubsystemsModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.SubsystemsModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.VFXModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VFXModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.VFXModule.dll
+  - path: Temp/bin/Debug/UnityEngine.TerrainPhysicsModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.TerrainPhysicsModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.VFXModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VFXModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.VFXModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.TerrainPhysicsModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.TerrainPhysicsModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.VFXModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VFXModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.VFXModule.xml
+  - path: Temp/bin/Debug/UnityEngine.TLSModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TLSModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.TLSModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.VideoModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VideoModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.VideoModule.dll
+  - path: Temp/bin/Debug/UnityEngine.TLSModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.TLSModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.TLSModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.VideoModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VideoModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.VideoModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.UIElementsNativeModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UIElementsNativeModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.UIElementsNativeModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.VideoModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VideoModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.VideoModule.xml
+  - path: Temp/bin/Debug/UnityEngine.UmbraModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UmbraModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.UmbraModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.VirtualTexturingModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VirtualTexturingModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.VirtualTexturingModule.dll
+  - path: Temp/bin/Debug/UnityEngine.UmbraModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UmbraModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.UmbraModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.VirtualTexturingModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VirtualTexturingModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.VirtualTexturingModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.UnityConnectModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityConnectModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.UnityConnectModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.VirtualTexturingModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VirtualTexturingModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.VirtualTexturingModule.xml
+  - path: Temp/bin/Debug/UnityEngine.UnityConnectModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityConnectModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.UnityConnectModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.VRModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VRModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.VRModule.dll
+  - path: Temp/bin/Debug/UnityEngine.UnityTestProtocolModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.UnityTestProtocolModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.VRModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VRModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.VRModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.UnityTestProtocolModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.UnityTestProtocolModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.VRModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VRModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.VRModule.xml
+  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.WindModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.WindModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.WindModule.dll
+  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.WindModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.WindModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.WindModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.WindModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.WindModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.WindModule.xml
+  - path: Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.xml
-    projectPath: Temp/bin/Debug/UnityEngine.xml
+  - path: Temp/bin/Debug/UnityEngine.VehiclesModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VehiclesModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.VehiclesModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.XRModule.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.XRModule.dll
-    projectPath: Temp/bin/Debug/UnityEngine.XRModule.dll
+  - path: Temp/bin/Debug/UnityEngine.VideoModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.VideoModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.VideoModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.XRModule.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.XRModule.pdb
-    projectPath: Temp/bin/Debug/UnityEngine.XRModule.pdb
+  - path: Temp/bin/Debug/UnityEngine.WindModule 2.pdb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.WindModule
+      2.pdb
+    projectPath: Temp/bin/Debug/UnityEngine.WindModule 2.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/bin/Debug/UnityEngine.XRModule.xml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.XRModule.xml
-    projectPath: Temp/bin/Debug/UnityEngine.XRModule.xml
+  - path: Temp/bin/Debug/UnityEngine.WindModule 2.xml
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/UnityEngine.WindModule
+      2.xml
+    projectPath: Temp/bin/Debug/UnityEngine.WindModule 2.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2807,11 +1015,30 @@ MonoBehaviour:
       2
     projectPath: Temp/UnityLockfile 2
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityLockfile 3
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityLockfile
+      3
+    projectPath: Temp/UnityLockfile 3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-02fba556b46ba4c2fb797833caeefe37
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-02fba556b46ba4c2fb797833caeefe37
+    projectPath: Temp/UnityTempFile-02fba556b46ba4c2fb797833caeefe37
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Temp/UnityTempFile-04e21c5c6f86e4055b989cd8c088ff04
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-04e21c5c6f86e4055b989cd8c088ff04
     projectPath: Temp/UnityTempFile-04e21c5c6f86e4055b989cd8c088ff04
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-097d9430e3d4b41619205680f1b5c41f
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-097d9430e3d4b41619205680f1b5c41f
+    projectPath: Temp/UnityTempFile-097d9430e3d4b41619205680f1b5c41f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2819,17 +1046,23 @@ MonoBehaviour:
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-0b3568c0e3930464a9b2e64f06b244f6
     projectPath: Temp/UnityTempFile-0b3568c0e3930464a9b2e64f06b244f6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-0bfbcce243ef546708a383bec098697c
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-0bfbcce243ef546708a383bec098697c
     projectPath: Temp/UnityTempFile-0bfbcce243ef546708a383bec098697c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-0ce03b5841ca944edb2c4a17139eeae5
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-0ce03b5841ca944edb2c4a17139eeae5
     projectPath: Temp/UnityTempFile-0ce03b5841ca944edb2c4a17139eeae5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-11202087b79ec4481b530853c91824d7
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-11202087b79ec4481b530853c91824d7
+    projectPath: Temp/UnityTempFile-11202087b79ec4481b530853c91824d7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2837,11 +1070,53 @@ MonoBehaviour:
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-1d62a00cce9dd419ea8b1e0f74908239
     projectPath: Temp/UnityTempFile-1d62a00cce9dd419ea8b1e0f74908239
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-2398af8d7e8b541e0b5f128680cca99b
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-2398af8d7e8b541e0b5f128680cca99b
+    projectPath: Temp/UnityTempFile-2398af8d7e8b541e0b5f128680cca99b
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Temp/UnityTempFile-322e1c77fa6924aa488b63585679c16d
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-322e1c77fa6924aa488b63585679c16d
     projectPath: Temp/UnityTempFile-322e1c77fa6924aa488b63585679c16d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-3ba835fc8d50949a48f3cb09b642a9d0
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-3ba835fc8d50949a48f3cb09b642a9d0
+    projectPath: Temp/UnityTempFile-3ba835fc8d50949a48f3cb09b642a9d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-46900a66c24904abda8e15c6b2b9fb98
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-46900a66c24904abda8e15c6b2b9fb98
+    projectPath: Temp/UnityTempFile-46900a66c24904abda8e15c6b2b9fb98
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-495f5afa3890b4468b98b1546d42b2ec
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-495f5afa3890b4468b98b1546d42b2ec
+    projectPath: Temp/UnityTempFile-495f5afa3890b4468b98b1546d42b2ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-5473946e155d446d0ba83ca108830713
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-5473946e155d446d0ba83ca108830713
+    projectPath: Temp/UnityTempFile-5473946e155d446d0ba83ca108830713
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-634b6335574d4461a9fd10d377af9ab9
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-634b6335574d4461a9fd10d377af9ab9
+    projectPath: Temp/UnityTempFile-634b6335574d4461a9fd10d377af9ab9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6cb203a27ce0645c0b52e3eee6131dab
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-6cb203a27ce0645c0b52e3eee6131dab
+    projectPath: Temp/UnityTempFile-6cb203a27ce0645c0b52e3eee6131dab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2849,11 +1124,17 @@ MonoBehaviour:
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-6d5bdcb77e3a2429d9e75ee30b948192
     projectPath: Temp/UnityTempFile-6d5bdcb77e3a2429d9e75ee30b948192
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-6f91da886985f4c1a8ca3cbf5d88d7ed
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-6f91da886985f4c1a8ca3cbf5d88d7ed
     projectPath: Temp/UnityTempFile-6f91da886985f4c1a8ca3cbf5d88d7ed
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-7a32761255b2a4fb3b590a3886adac46
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-7a32761255b2a4fb3b590a3886adac46
+    projectPath: Temp/UnityTempFile-7a32761255b2a4fb3b590a3886adac46
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2861,17 +1142,23 @@ MonoBehaviour:
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-85162826091364993b6cfc463abd2bde
     projectPath: Temp/UnityTempFile-85162826091364993b6cfc463abd2bde
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-94d2ea18282c74d118cfef904aad0685
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-94d2ea18282c74d118cfef904aad0685
     projectPath: Temp/UnityTempFile-94d2ea18282c74d118cfef904aad0685
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-9948a4ac5ec104e41a32881f8dd9cae3
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-9948a4ac5ec104e41a32881f8dd9cae3
     projectPath: Temp/UnityTempFile-9948a4ac5ec104e41a32881f8dd9cae3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-aa99875d2c18b4e65962bee5faad3a3c
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-aa99875d2c18b4e65962bee5faad3a3c
+    projectPath: Temp/UnityTempFile-aa99875d2c18b4e65962bee5faad3a3c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2879,41 +1166,54 @@ MonoBehaviour:
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-acf3bde470484434f9aa9c649b575422
     projectPath: Temp/UnityTempFile-acf3bde470484434f9aa9c649b575422
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-cbfb8b55859a54a7b87153baedf82359
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-cbfb8b55859a54a7b87153baedf82359
     projectPath: Temp/UnityTempFile-cbfb8b55859a54a7b87153baedf82359
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-cc0e29875fb2342ad89abf5303953d2f
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-cc0e29875fb2342ad89abf5303953d2f
     projectPath: Temp/UnityTempFile-cc0e29875fb2342ad89abf5303953d2f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-ed36588c21e0743aea9a04aaf3c43257
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-ed36588c21e0743aea9a04aaf3c43257
     projectPath: Temp/UnityTempFile-ed36588c21e0743aea9a04aaf3c43257
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-eea8c38313c4c46a784286f398cf86ae
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-eea8c38313c4c46a784286f398cf86ae
     projectPath: Temp/UnityTempFile-eea8c38313c4c46a784286f398cf86ae
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-f104675f6573649b3a1e812a101186ae
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-f104675f6573649b3a1e812a101186ae
     projectPath: Temp/UnityTempFile-f104675f6573649b3a1e812a101186ae
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-f789030d0a65d441a93e9cfc536d7171
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-f789030d0a65d441a93e9cfc536d7171
     projectPath: Temp/UnityTempFile-f789030d0a65d441a93e9cfc536d7171
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Upload/Assets/Scenes/Level 1.unity
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/Upload/Assets/Scenes/Level
+      1.unity
+    projectPath: Temp/Upload/Assets/Scenes/Level 1.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Upload/Assets/Scripts/BaseObjectController.cs
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/Upload/Assets/Scripts/BaseObjectController.cs
+    projectPath: Temp/Upload/Assets/Scripts/BaseObjectController.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

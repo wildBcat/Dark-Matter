@@ -66,14 +66,17 @@ TagManager:
   - name: Player Projectiles
     uniqueID: 2883584529
     locked: 0
-  - name: Enemy Ships
-    uniqueID: 3800043555
-    locked: 0
   - name: Asteroids
     uniqueID: 3060568053
     locked: 0
+  - name: Enemy Ships
+    uniqueID: 3800043555
+    locked: 0
   - name: Player Ships
     uniqueID: 2567058603
+    locked: 0
+  - name: Explosions
+    uniqueID: 830871721
     locked: 0
   - name: Space Dust Close
     uniqueID: 1179652399

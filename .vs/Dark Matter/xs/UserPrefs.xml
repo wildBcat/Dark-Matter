@@ -12,7 +12,7 @@
       <File FileName="Assets/Asset Store/PathCreator/Examples/Scripts/PathFollower.cs" />
       <File FileName="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/BaseShipController.cs" />
       <File FileName="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/ExplosionController.cs" />
-      <File FileName="Assets/Scripts/BaseObjectController.cs" Line="26" Column="132" />
+      <File FileName="Assets/Scripts/BaseObjectController.cs" Line="24" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
