@@ -1,32 +1,29 @@
-﻿<Properties StartupConfiguration="{97523C28-2D04-E105-9D1B-383266DB5E1E}|">
+﻿<Properties>
   <MonoDevelop.Ide.ItemProperties.PathCreatorEditor PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BaseObjectController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My Stuff/Scripts/BaseObjectController.cs">
     <Files>
-      <File FileName="Assets/Scripts/Boundary.cs" Line="34" Column="48" />
-      <File FileName="Assets/Scripts/ColorLerp.cs" />
-      <File FileName="Assets/Scripts/CelestialBodies.cs" />
-      <File FileName="Assets/Scripts/DirectMoving.cs" />
-      <File FileName="Assets/Scripts/ScreenBounds.cs" />
-      <File FileName="Assets/Scripts/Scrolling.cs" />
-      <File FileName="Assets/Scripts/RepeatingBackground.cs" />
-      <File FileName="Assets/Asset Store/PathCreator/Examples/Scripts/PathFollower.cs" />
-      <File FileName="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/BaseShipController.cs" />
-      <File FileName="Assets/Asset Store/2D Pixel Spaceship Constructor/Scripts/ExplosionController.cs" />
-      <File FileName="Assets/Scripts/BaseObjectController.cs" Line="118" Column="14" />
-      <File FileName="Assets/Asset Store/ND_VariaBULLET/Scripts/Shot/GlobalShotManager.cs" Line="23" Column="30" />
+      <File FileName="Assets/My Stuff/Scripts/BaseObjectController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Dark Matter" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Asset Store" expanded="True">
-                <Node name="ND_VariaBULLET" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="2D Pixel Spaceship Constructor" expanded="True">
                   <Node name="Scripts" expanded="True" />
                 </Node>
-              </Node>
-              <Node name="Scripts" expanded="True">
-                <Node name="BaseObjectController.cs" selected="True" />
+                <Node name="My Stuff" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="BaseObjectController.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="ND_VariaBULLET" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Collision" expanded="True" />
+                    <Node name="Pattern" expanded="True" />
+                  </Node>
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -36,7 +33,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a1bbd41c-162a-45c4-9a00-e5f5659d004d" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dae39ee3-69a6-477e-bea1-40737d2ac81c" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

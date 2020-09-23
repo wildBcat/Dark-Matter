@@ -385,6 +385,3 @@
 /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/obj/Debug/Assembly-CSharp.pdb
 /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/PathCreator.pdb
 /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/PathCreatorEditor.pdb
-/Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Configuration.dll
-/Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.EnterpriseServices.dll
-/Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/bin/Debug/System.Transactions.dll

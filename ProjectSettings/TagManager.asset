@@ -4,10 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Bullet
-  - Planet
+  - Enemy
+  - Projectile
+  - ExplosionWall
   - Asteroid
-  - Player Ship
+  - Planet
   layers:
   - Default
   - TransparentFX
@@ -17,21 +18,21 @@ TagManager:
   - UI
   - 
   - 
-  - Player Ships
-  - Player Projectiles
-  - Enemy Ships
-  - Enemy Projectiles
-  - Powerups
-  - Asteroids
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - ND_PlayerBullet
+  - ND_EnemyBullet
+  - ND_SelfColliding
+  - ND_UserBullet1
+  - ND_UserBullet2
+  - ND_UserBullet3
+  - ND_UserBullet4
+  - ND_UserBullet5
+  - ND_UserBullet6
+  - ND_UserBullet7
+  - ND_UserBullet8
+  - Terrain
+  - Asteroid
   - 
   - 
   - 
@@ -45,39 +46,48 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Stars Far
-    uniqueID: 3264372247
+  - name: Player
+    uniqueID: 3730908983
     locked: 0
-  - name: Stars Near
-    uniqueID: 3667675095
+  - name: Enemy
+    uniqueID: 504374363
     locked: 0
-  - name: Planets
-    uniqueID: 4152348401
+  - name: Asteroid
+    uniqueID: 2071840545
     locked: 0
-  - name: Space Dust
-    uniqueID: 515788839
+  - name: ND_PlayerBullet
+    uniqueID: 3774943725
     locked: 0
-  - name: Powerups
-    uniqueID: 1507375845
+  - name: ND_EnemyBullet
+    uniqueID: 950124507
     locked: 0
-  - name: Player Projectiles
-    uniqueID: 2883584529
+  - name: ND_SelfColliding
+    uniqueID: 1111588345
     locked: 0
-  - name: Enemy Projectiles
-    uniqueID: 1227093315
+  - name: ND_UserBullet1
+    uniqueID: 185888327
     locked: 0
-  - name: Asteroids
-    uniqueID: 3060568053
+  - name: ND_UserBullet2
+    uniqueID: 2482187171
     locked: 0
-  - name: Enemy Ships
-    uniqueID: 3800043555
+  - name: ND_UserBullet3
+    uniqueID: 3303269499
     locked: 0
-  - name: Player Ships
-    uniqueID: 2567058603
+  - name: ND_UserBullet4
+    uniqueID: 494732335
     locked: 0
-  - name: Explosions
-    uniqueID: 830871721
+  - name: ND_UserBullet5
+    uniqueID: 3909735587
     locked: 0
-  - name: Space Dust Close
-    uniqueID: 1179652399
+  - name: ND_UserBullet6
+    uniqueID: 2286396549
+    locked: 0
+  - name: ND_UserBullet7
+    uniqueID: 1746234637
+    locked: 0
+  - name: ND_UserBullet8
+    uniqueID: 2208419025
+    locked: 0
+  - name: Terrain
+    uniqueID: 104308043
     locked: 0

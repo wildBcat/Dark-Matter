@@ -55,7 +55,7 @@ MonoBehaviour:
   LockRateToSpeed: 0
   ExplosionPrefabs: []
   PoolSize: 10
-  EmulateCPUThrottle: 0
+  EmulateCPUThrottle: 1
   ThrottlePerBullet: 0.0008
   MaxThrottle: 0.68
   MaxBulletUntilThrottle: 280
