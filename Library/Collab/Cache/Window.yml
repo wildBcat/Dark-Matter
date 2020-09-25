@@ -14,9 +14,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/My Stuff/Scripts/BaseObjectController.cs
+    - Assets/My Stuff/Prefabs/Path-01.prefab
+    - Assets/My Stuff/Prefabs/Path-01.prefab.meta
+    - Assets/My Stuff/Prefabs/Ships/Enemy Ship (kamikaze) 1.prefab
+    - Assets/My Stuff/Prefabs/Ships/Enemy Ship (kamikaze) 1.prefab.meta
+    - Assets/My Stuff/Prefabs/Ships/Enemy Ship (kamikaze).prefab
+    - Assets/My Stuff/Prefabs/Ships/Enemy Ship (kamikaze).prefab.meta
+    - Assets/My Stuff/Scenes/Level 1.unity
+    - Assets/My Stuff/Scripts/Follower.cs
+    - Assets/My Stuff/Scripts/Follower.cs.meta
+    - Assets/ND_VariaBULLET/Demo/Images/General/BulletHellBaby_BG.png
+    - Assets/ND_VariaBULLET/Demo/Images/General/BulletHellBaby_BG.png.meta
+    - Assets/PathCreator/Examples/Scripts/GeneratePathExample.cs
+    - Assets/PathCreator/Examples/Scripts/PathSpawner.cs
     - 
-    m_Values: 0101
+    m_Values: 0000000000000000000101010100
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

@@ -33,7 +33,6 @@ public class ColorLerp : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(colors);
         //Changes the gameobject's color from its current one to the next one in the index by the speed set
         colorMeshRenderer.material.color = Color.Lerp(colorMeshRenderer.material.color, colors[colorIndex], lerpTime * Time.deltaTime);
 

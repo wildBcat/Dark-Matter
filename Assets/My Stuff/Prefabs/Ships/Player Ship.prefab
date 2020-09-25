@@ -70,7 +70,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -520023571
-  m_SortingLayer: 3
+  m_SortingLayer: 4
   m_SortingOrder: 10009
   m_Sprite: {fileID: 21300000, guid: 0028a729cfda88245aba79c93755b4e5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 0.51}
@@ -160,7 +160,7 @@ GameObject:
   - component: {fileID: 2320082406257429288}
   m_Layer: 8
   m_Name: Cockpit
-  m_TagString: Player
+  m_TagString: Parts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -218,10 +218,10 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 3
   m_Sprite: {fileID: 21300106, guid: a1cac17b964ce4e47bf7870ec851a996, type: 3}
-  m_Color: {r: 0.7019608, g: 0.17254902, b: 0.14901961, a: 1}
+  m_Color: {r: 0.14901961, g: 0.5019608, b: 0.7019608, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -301,7 +301,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300206, guid: a1cac17b964ce4e47bf7870ec851a996, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -345,7 +345,7 @@ GameObject:
   - component: {fileID: 6912808894954589789}
   m_Layer: 8
   m_Name: RightWing
-  m_TagString: Player
+  m_TagString: Parts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -402,10 +402,10 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 2
   m_Sprite: {fileID: 21300650, guid: a1cac17b964ce4e47bf7870ec851a996, type: 3}
-  m_Color: {r: 0.7019608, g: 0.17254902, b: 0.14901961, a: 1}
+  m_Color: {r: 0.14901958, g: 0.50104594, b: 0.7019608, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -427,7 +427,7 @@ GameObject:
   - component: {fileID: 6912808894972147895}
   m_Layer: 8
   m_Name: LeftWing
-  m_TagString: Player
+  m_TagString: Parts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -484,10 +484,10 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 2
   m_Sprite: {fileID: 21300650, guid: a1cac17b964ce4e47bf7870ec851a996, type: 3}
-  m_Color: {r: 0.6981132, g: 0.16877, b: 0.14818443, a: 1}
+  m_Color: {r: 0.14901961, g: 0.5019608, b: 0.7019608, a: 1}
   m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
@@ -509,7 +509,7 @@ GameObject:
   - component: {fileID: 3025808782935029021}
   m_Layer: 8
   m_Name: NozzleSmall-02
-  m_TagString: Player
+  m_TagString: Parts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -566,7 +566,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300236, guid: a1cac17b964ce4e47bf7870ec851a996, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -591,7 +591,7 @@ GameObject:
   - component: {fileID: 1907721748874497300}
   m_Layer: 8
   m_Name: FCHolder
-  m_TagString: Player
+  m_TagString: Parts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -648,7 +648,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 7
   m_Sprite: {fileID: 21300446, guid: a1cac17b964ce4e47bf7870ec851a996, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -673,7 +673,7 @@ GameObject:
   - component: {fileID: 3763693663311640558}
   m_Layer: 8
   m_Name: Antenna
-  m_TagString: Player
+  m_TagString: Parts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -730,7 +730,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 3
   m_Sprite: {fileID: 21300338, guid: a1cac17b964ce4e47bf7870ec851a996, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -755,7 +755,7 @@ GameObject:
   - component: {fileID: 2580184716130368141}
   m_Layer: 8
   m_Name: CenterPiece
-  m_TagString: Player
+  m_TagString: Parts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -812,10 +812,10 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 4
   m_Sprite: {fileID: 21300352, guid: a1cac17b964ce4e47bf7870ec851a996, type: 3}
-  m_Color: {r: 0.7019608, g: 0.17254902, b: 0.14901961, a: 1}
+  m_Color: {r: 0.14901961, g: 0.5019608, b: 0.7019608, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -837,7 +837,7 @@ GameObject:
   - component: {fileID: 7466250935434227945}
   m_Layer: 8
   m_Name: TopWingConnector
-  m_TagString: Player
+  m_TagString: Parts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -894,7 +894,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300036, guid: a1cac17b964ce4e47bf7870ec851a996, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -919,7 +919,7 @@ GameObject:
   - component: {fileID: 2983081702575164714}
   m_Layer: 8
   m_Name: Engine
-  m_TagString: Player
+  m_TagString: Parts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -976,7 +976,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 2
   m_Sprite: {fileID: 21300492, guid: a1cac17b964ce4e47bf7870ec851a996, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1001,7 +1001,7 @@ GameObject:
   - component: {fileID: 5979047525781691309}
   m_Layer: 8
   m_Name: FuelCell
-  m_TagString: Player
+  m_TagString: Parts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1058,7 +1058,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 6
   m_Sprite: {fileID: 21300630, guid: a1cac17b964ce4e47bf7870ec851a996, type: 3}
   m_Color: {r: 0.18910436, g: 0.9716981, b: 0, a: 1}
@@ -1218,7 +1218,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 8
   m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1273,13 +1273,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6223951554411553659}
-  - component: {fileID: 6223951554411553658}
   - component: {fileID: 6223951554411553639}
   - component: {fileID: 6223951554411553656}
   - component: {fileID: 6223951554411553657}
   - component: {fileID: 579527977}
   - component: {fileID: 579527971}
   - component: {fileID: 6390915769532311066}
+  - component: {fileID: 1061018817}
   m_Layer: 8
   m_Name: Player Ship
   m_TagString: Player
@@ -1304,50 +1304,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
---- !u!60 &6223951554411553658
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6223951554411553660}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.6114155, y: 0.6705632}
-      - {x: 0.21916258, y: 0.54406357}
-      - {x: 0.1462789, y: 0.7927718}
-      - {x: -0.15866435, y: 0.7960768}
-      - {x: -0.22613087, y: 0.55751276}
-      - {x: -0.54932785, y: 0.67546797}
-      - {x: -0.8291576, y: 0.5101502}
-      - {x: -0.80279016, y: 0.19715309}
-      - {x: -0.7181935, y: -0.038343906}
-      - {x: -0.59327257, y: -0.34985733}
-      - {x: -0.42587644, y: -0.56927013}
-      - {x: -0.23397571, y: -0.5590596}
-      - {x: -0.19770831, y: -0.7175931}
-      - {x: 0.15504378, y: -0.7175925}
-      - {x: 0.25120613, y: -0.560596}
-      - {x: 0.44717783, y: -0.6029906}
-      - {x: 0.5832728, y: -0.35854435}
-      - {x: 0.8090225, y: 0.21621275}
-      - {x: 0.83525234, y: 0.48577064}
 --- !u!50 &6223951554411553639
 Rigidbody2D:
   serializedVersion: 4
@@ -1510,7 +1466,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damage: 300
   health: 3000
-  collideColor: {r: 1, g: 1, b: 1, a: 1}
+  damageFlicker: 1
+  FlickerDuration: 18
+  flickerColor: {r: 1, g: 0, b: 0, a: 1}
+  explosions:
+  - {fileID: 6223951553813584281}
 --- !u!210 &6390915769532311066
 SortingGroup:
   m_ObjectHideFlags: 0
@@ -1520,8 +1480,34 @@ SortingGroup:
   m_GameObject: {fileID: 6223951554411553660}
   m_Enabled: 1
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 1
+--- !u!61 &1061018817
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6223951554411553660}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0029916987, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.3358397, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &6797600288731690553
 GameObject:
   m_ObjectHideFlags: 0
@@ -1534,7 +1520,7 @@ GameObject:
   - component: {fileID: 2988265979083271338}
   m_Layer: 8
   m_Name: RWIndent
-  m_TagString: Player
+  m_TagString: Parts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1591,7 +1577,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 3
   m_Sprite: {fileID: 21300628, guid: a1cac17b964ce4e47bf7870ec851a996, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1616,7 +1602,7 @@ GameObject:
   - component: {fileID: 642968893495779941}
   m_Layer: 8
   m_Name: StructuralBrace
-  m_TagString: Player
+  m_TagString: Parts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1673,7 +1659,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 6
   m_Sprite: {fileID: 21300622, guid: a1cac17b964ce4e47bf7870ec851a996, type: 3}
   m_Color: {r: 0.5188679, g: 0.4968405, b: 0.4968405, a: 1}
@@ -1698,7 +1684,7 @@ GameObject:
   - component: {fileID: 4777912305906232747}
   m_Layer: 8
   m_Name: LBWingConnector
-  m_TagString: Player
+  m_TagString: Parts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1755,7 +1741,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 5
   m_Sprite: {fileID: 21300632, guid: a1cac17b964ce4e47bf7870ec851a996, type: 3}
   m_Color: {r: 0.5372549, g: 0.5058824, b: 0.5058824, a: 1}
@@ -1780,7 +1766,7 @@ GameObject:
   - component: {fileID: 4777912307887122936}
   m_Layer: 8
   m_Name: RBWingConnector
-  m_TagString: Player
+  m_TagString: Parts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1837,7 +1823,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 5
   m_Sprite: {fileID: 21300632, guid: a1cac17b964ce4e47bf7870ec851a996, type: 3}
   m_Color: {r: 0.5372549, g: 0.5058824, b: 0.5058824, a: 1}
@@ -1862,7 +1848,7 @@ GameObject:
   - component: {fileID: 8416236646086226927}
   m_Layer: 8
   m_Name: GlassCabinMed-02
-  m_TagString: Player
+  m_TagString: Parts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1919,7 +1905,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -564058313
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 4
   m_Sprite: {fileID: 21300146, guid: a1cac17b964ce4e47bf7870ec851a996, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1987,6 +1973,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4000012973986434, guid: 5d5a70f9bf23cff40b76aa2464691e73, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.000008670491
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012973986434, guid: 5d5a70f9bf23cff40b76aa2464691e73, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 114000012688441186, guid: 5d5a70f9bf23cff40b76aa2464691e73, type: 3}
       propertyPath: ParentRotation
       value: -180
@@ -1994,6 +1988,14 @@ PrefabInstance:
     - target: {fileID: 114000012688441186, guid: 5d5a70f9bf23cff40b76aa2464691e73, type: 3}
       propertyPath: Pitch
       value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 114000012688441186, guid: 5d5a70f9bf23cff40b76aa2464691e73, type: 3}
+      propertyPath: CenterRotation
+      value: 360.001
+      objectReference: {fileID: 0}
+    - target: {fileID: 114000012688441186, guid: 5d5a70f9bf23cff40b76aa2464691e73, type: 3}
+      propertyPath: autoCenter
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d5a70f9bf23cff40b76aa2464691e73, type: 3}
