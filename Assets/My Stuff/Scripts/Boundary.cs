@@ -19,8 +19,6 @@ public class Boundary : MonoBehaviour
     void ResizeCollider()
     {
         Vector2 viewportSize = Camera.main.ViewportToWorldPoint(new Vector2(1, 1)) * 2;
-        viewportSize.x *= 1.5f;
-        viewportSize.y *= 1.5f;
         boundareCollider.size = viewportSize;
     }
 

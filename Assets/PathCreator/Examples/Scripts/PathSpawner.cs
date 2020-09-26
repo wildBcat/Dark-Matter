@@ -12,7 +12,7 @@ namespace PathCreation.Examples {
         public int numberOfEnemies = default;
         public Transform[] spawnPoints;
 
-        public PathCreator path;
+        private PathCreator path;
 
         private void Start()
         {
