@@ -20,7 +20,7 @@ namespace ND_VariaBULLET
 
         [SerializeField]
         [Tooltip("Sets anchor transform position relative to sprite in parent Origin. Manual requires setting in Origin parent transform directly.")]
-        private AutoSetOrigin origin;
+        private AutoSetOrigin origin = default;
         private AutoSetOrigin prevOrigin;
 
 

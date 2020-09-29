@@ -20,11 +20,11 @@ namespace ND_VariaBULLET
 
         [SerializeField]
         [Tooltip("Sets the method by which static collider object is found in the scene. [Object becomes the collision source for shots with CollFlux enabled].")]
-        private StaticCollRef FindStaticCollBy;
+        private StaticCollRef FindStaticCollBy = default;
 
         [SerializeField]
         [Tooltip("Sets the name of the static collider object that FindStaticCollBy looks for.")]
-        private string StaticColl;
+        private string StaticColl = default;
 
         [Range(0.5f, 99)]
         [Tooltip("Sets the radius in units within which the static collider object dynamically enables colliders of surrounding shots that have CollFlux enabled.")]

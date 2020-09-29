@@ -57,9 +57,9 @@ namespace ND_VariaBULLET
         {
             base.OnCollisionEnter2D(collision);
             
-            if (CollisionFilter.collisionAccepted(collision.gameObject.layer, CollisionList))
+            if (CollisionFilter.CollisionAccepted(collision.gameObject.layer, CollisionList))
             {
-                CollisionFilter.setExplosion(Explosion, ParentExplosion, collision.gameObject.transform, collision.contacts[0].point, AngleDirection, this);
+                CollisionFilter.SetExplosion(Explosion, ParentExplosion, collision.gameObject.transform, collision.contacts[0].point, AngleDirection, this);
             }
         }
 

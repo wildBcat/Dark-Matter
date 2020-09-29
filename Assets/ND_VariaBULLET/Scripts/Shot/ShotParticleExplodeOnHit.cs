@@ -38,7 +38,7 @@ namespace ND_VariaBULLET
 
         protected override void OnCollisionEnter2D(Collision2D collision)
         {
-            if (IgnoreCollisionFilter || CollisionFilter.collisionAccepted(collision.gameObject.layer, CollisionList))
+            if (IgnoreCollisionFilter || CollisionFilter.CollisionAccepted(collision.gameObject.layer, CollisionList))
             {
                 childController.TriggerAutoFire = true;
                 rend.enabled = false;

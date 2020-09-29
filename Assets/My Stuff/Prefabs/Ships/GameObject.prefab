@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9206751703224210850}
   - component: {fileID: 3194559793873680849}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: CabinWithGlassSmall-04
   m_TagString: Parts
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4108649982357922410}
   - component: {fileID: 3167388251523765502}
   - component: {fileID: 3487277769571447037}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: TankCircleMed
   m_TagString: Parts
   m_Icon: {fileID: 0}
@@ -192,7 +192,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7400176320564769469}
   - component: {fileID: 2831370831890986537}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: GlassCabinSmall-04
   m_TagString: Parts
   m_Icon: {fileID: 0}
@@ -274,7 +274,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5302655132679996696}
   - component: {fileID: 453049065189863288}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: MainSmall-05
   m_TagString: Parts
   m_Icon: {fileID: 0}
@@ -356,7 +356,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5302655133620504769}
   - component: {fileID: 453049064249352865}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: MainSmall-05 (1)
   m_TagString: Parts
   m_Icon: {fileID: 0}
@@ -437,7 +437,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3053405767994343204}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: Engine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -470,7 +470,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1264947471147468828}
   - component: {fileID: 4860013170884093876}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: Pattern-02-TiledHor
   m_TagString: Parts
   m_Icon: {fileID: 0}
@@ -553,7 +553,7 @@ GameObject:
   - component: {fileID: 4184692376617325019}
   - component: {fileID: 4184692376617325018}
   - component: {fileID: 4184692376617325017}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: FlameRedTiny-02
   m_TagString: Parts
   m_Icon: {fileID: 0}
@@ -655,8 +655,10 @@ GameObject:
   - component: {fileID: 4690536073275781136}
   - component: {fileID: 5464769704436623492}
   - component: {fileID: 4786519516131115332}
-  - component: {fileID: 6847839044342131123}
-  m_Layer: 0
+  - component: {fileID: -7033075380019956016}
+  - component: {fileID: -173860380910196942}
+  - component: {fileID: 5320489817600567419}
+  m_Layer: 9
   m_Name: GameObject
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -675,6 +677,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 31349276424756499}
+  - {fileID: 3653367254335252103}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -688,7 +691,7 @@ Rigidbody2D:
   m_GameObject: {fileID: 4690536073275781138}
   m_BodyType: 1
   m_Simulated: 1
-  m_UseFullKinematicContacts: 0
+  m_UseFullKinematicContacts: 1
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
@@ -725,7 +728,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.75, y: 0.75}
   m_EdgeRadius: 0
---- !u!114 &6847839044342131123
+--- !u!114 &-7033075380019956016
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -734,9 +737,45 @@ MonoBehaviour:
   m_GameObject: {fileID: 4690536073275781138}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc6558bd894b44b3984783dc8e9bf0e6, type: 3}
+  m_Script: {fileID: 11500000, guid: 33aabe1a2dec93349b06e6e5dc51bc06, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pathCreator: {fileID: 0}
+  endOfPathInstruction: 0
+  speed: 5
+--- !u!210 &-173860380910196942
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4690536073275781138}
+  m_Enabled: 1
+  m_SortingLayerID: 504374363
+  m_SortingLayer: 3
+  m_SortingOrder: 1
+--- !u!114 &5320489817600567419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4690536073275781138}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 510ad303b4990472182e14ed4f16baba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CollisionList:
+  - ND_PlayerBullet
+  LaserExplosion: ExplosionWallHit
+  BulletExplosion: ExplosionWallHit
+  ParentExplosion: 1
+  FlickerDuration: 2
+  flickerColor: {r: 1, g: 0, b: 0, a: 1}
+  HP: 2
+  explosions:
+  - {fileID: 3653367254462186490}
 --- !u!1 &4705882088806402782
 GameObject:
   m_ObjectHideFlags: 0
@@ -747,7 +786,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1251511608496498828}
   - component: {fileID: 2007519362140662119}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: TubeMed
   m_TagString: Parts
   m_Icon: {fileID: 0}
@@ -829,7 +868,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1251511607024605685}
   - component: {fileID: 2007519362815105054}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: TubeMed (1)
   m_TagString: Parts
   m_Icon: {fileID: 0}
@@ -910,7 +949,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 31349276424756499}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: Main Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -952,7 +991,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5511059192635257488}
   - component: {fileID: 7405657301627489927}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: MainSmall-38 (1)
   m_TagString: Parts
   m_Icon: {fileID: 0}
@@ -1034,7 +1073,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5511059193503610706}
   - component: {fileID: 7405657300725844805}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: MainSmall-38
   m_TagString: Parts
   m_Icon: {fileID: 0}
@@ -1116,7 +1155,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7535805258627518510}
   - component: {fileID: 204313905251190618}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: NozzleTiny
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1198,7 +1237,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3682868889755885387}
   - component: {fileID: 6288645696243650117}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: CenterPartTiny-03
   m_TagString: Parts
   m_Icon: {fileID: 0}
@@ -1270,3 +1309,88 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &3653367253643937788
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4690536073275781136}
+    m_Modifications:
+    - target: {fileID: 2000585734, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+      propertyPath: mainBody
+      value: 
+      objectReference: {fileID: 5397636107692250194}
+    - target: {fileID: 2000585734, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+      propertyPath: mainContainer
+      value: 
+      objectReference: {fileID: 4690536073275781138}
+    - target: {fileID: 2144313720, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+      propertyPath: m_Name
+      value: ExplosionSmall
+      objectReference: {fileID: 0}
+    - target: {fileID: 2144313722, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2144313723, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2144313723, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2144313723, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2144313723, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2144313723, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2144313723, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2144313723, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2144313723, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2144313723, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2144313723, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2144313723, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+--- !u!4 &3653367254335252103 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2144313723, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+  m_PrefabInstance: {fileID: 3653367253643937788}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3653367254462186490 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2000585734, guid: 5a5f9bbd261f061488f3df4446e7703b, type: 3}
+  m_PrefabInstance: {fileID: 3653367253643937788}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52c195e5a6fc1414aa9a0cfd531e39ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

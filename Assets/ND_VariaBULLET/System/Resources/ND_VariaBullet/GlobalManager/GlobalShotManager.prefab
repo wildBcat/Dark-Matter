@@ -53,7 +53,8 @@ MonoBehaviour:
   SpeedScale: 1
   RateScale: 1
   LockRateToSpeed: 0
-  ExplosionPrefabs: []
+  ExplosionPrefabs:
+  - {fileID: 1000011190994258, guid: d7f19057edd436f409ae575f8d1b7569, type: 3}
   PoolSize: 10
   EmulateCPUThrottle: 0
   ThrottlePerBullet: 0.0008

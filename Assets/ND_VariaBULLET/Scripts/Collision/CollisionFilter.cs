@@ -10,19 +10,21 @@ namespace ND_VariaBULLET
 {
     public static class CollisionFilter
     {
-        public static bool collisionAccepted(int layer, string[] collisionList)
+        public static bool CollisionAccepted(int layer, string[] collisionList)
         {
             if (collisionList.Length == 0)
                 return false;
 
             foreach (string item in collisionList)
                 if (LayerMask.LayerToName(layer) == item)
+                {
                     return true;
+                }
 
             return false;
         }
 
-        public static void setExplosion(string type, bool parentExplosion, Transform parent, Vector2 position, float rotation, object sender)
+        public static void SetExplosion(string type, bool parentExplosion, Transform parent, Vector2 position, float rotation, object sender)
         {
             if (type == "")
                 return;

@@ -25,18 +25,18 @@ namespace ND_VariaBULLET
 
         public IEnumerator OnLaserCollision(CollisionArgs sender)
         {
-            if (CollisionFilter.collisionAccepted(sender.gameObject.layer, CollisionList))
+            if (CollisionFilter.CollisionAccepted(sender.gameObject.layer, CollisionList))
             {
-                CollisionFilter.setExplosion(LaserExplosion, ParentExplosion, this.transform, new Vector2(sender.point.x, sender.point.y), 0, this);
+                CollisionFilter.SetExplosion(LaserExplosion, ParentExplosion, this.transform, new Vector2(sender.point.x, sender.point.y), 0, this);
                 yield return null;
             }
         }
 
         public IEnumerator OnCollisionEnter2D(Collision2D collision)
         {
-            if (CollisionFilter.collisionAccepted(collision.gameObject.layer, CollisionList))
+            if (CollisionFilter.CollisionAccepted(collision.gameObject.layer, CollisionList))
             {
-                CollisionFilter.setExplosion(BulletExplosion, ParentExplosion, this.transform, collision.contacts[0].point, 0, this);
+                CollisionFilter.SetExplosion(BulletExplosion, ParentExplosion, this.transform, collision.contacts[0].point, 0, this);
                 yield return null;
             }
         }

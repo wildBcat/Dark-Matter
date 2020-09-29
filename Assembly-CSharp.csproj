@@ -132,6 +132,7 @@
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/FireBase.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotReAngle.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Demo/Scripts/CantroGunBlastAnim.cs" />
+    <Compile Include="Assets/My Stuff/Scripts/WaveConfig.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Collision/ShotCollidable.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/GlobalShotBank.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotNonPhysics.cs" />
@@ -158,8 +159,7 @@
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotAccelerating.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotBase.cs" />
     <Compile Include="Assets/My Stuff/Scripts/Inputs/Inputs Actions.cs" />
-    <Compile Include="Assets/My Stuff/Scripts/WaveConfig.cs" />
-    <Compile Include="Assets/My Stuff/Scripts/EnemyPathing.cs" />
+    <Compile Include="Assets/My Stuff/Scripts/BaseObjectController1.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/ND_VariaBULLET/System/UserBackup/do_not_delete.txt" />

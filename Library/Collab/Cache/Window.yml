@@ -14,39 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/My Stuff/Prefabs/New Sprite.prefab
-    - Assets/My Stuff/Prefabs/New Sprite.prefab.meta
-    - Assets/My Stuff/Prefabs/Path (1).prefab
-    - Assets/My Stuff/Prefabs/Path (1).prefab.meta
-    - Assets/My Stuff/Prefabs/Path.prefab
-    - Assets/My Stuff/Prefabs/Path.prefab.meta
     - Assets/My Stuff/Prefabs/Ships/GameObject.prefab
-    - Assets/My Stuff/Prefabs/Wave 01.asset
-    - Assets/My Stuff/Prefabs/Wave 01.asset.meta
-    - Assets/My Stuff/Prefabs/path spawn.prefab
-    - Assets/My Stuff/Prefabs/path spawn.prefab.meta
     - Assets/My Stuff/Scenes/Level 1.unity
-    - Assets/My Stuff/Scripts/Boundary.cs
-    - Assets/My Stuff/Scripts/EnemyPathing.cs
-    - Assets/My Stuff/Scripts/EnemyPathing.cs.meta
-    - Assets/My Stuff/Scripts/EnemySpawner.cs
-    - Assets/My Stuff/Scripts/EnemySpawner.cs.meta
-    - Assets/My Stuff/Scripts/Follower.cs
-    - Assets/My Stuff/Scripts/Follower.cs.meta
-    - Assets/My Stuff/Scripts/WaveConfig.cs
-    - Assets/My Stuff/Scripts/WaveConfig.cs.meta
-    - Assets/My Stuff/Scripts/Waves.cs
-    - Assets/My Stuff/Scripts/Waves.cs.meta
-    - Assets/PathCreator/Examples/Scripts/PathSpawner.cs
-    - Assets/TurboRename.meta
-    - Assets/TurboRename/Documentation.pdf
-    - Assets/TurboRename/Documentation.pdf.meta
-    - Assets/TurboRename/Plugins.meta
-    - Assets/TurboRename/Plugins/Editor.meta
-    - Assets/TurboRename/Plugins/Editor/TurboRename.cs
-    - Assets/TurboRename/Plugins/Editor/TurboRename.cs.meta
+    - Assets/My Stuff/Scripts/BaseObjectController1.cs
+    - Assets/My Stuff/Scripts/BaseObjectController1.cs.meta
+    - Assets/ND_VariaBULLET/Scripts/Collision/CollisionFilter.cs
+    - Assets/ND_VariaBULLET/Scripts/Collision/ShotCollision.cs
+    - Assets/ND_VariaBULLET/Scripts/Collision/ShotCollisionDamage.cs
+    - Assets/ND_VariaBULLET/Scripts/Shot/ShotBullet.cs
+    - Assets/ND_VariaBULLET/Scripts/Shot/ShotParticleExplodeOnHit.cs
+    - Assets/ND_VariaBULLET/System/Resources/ND_VariaBullet/GlobalManager/GlobalShotManager.prefab
     - 
-    m_Values: 0000000000000000000000000000000000000000000000000000000000000000
+    m_Values: 0101010101010101010101
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
