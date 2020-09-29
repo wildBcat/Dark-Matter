@@ -771,9 +771,10 @@ MonoBehaviour:
   LaserExplosion: ExplosionWallHit
   BulletExplosion: ExplosionWallHit
   ParentExplosion: 1
-  FlickerDuration: 2
+  healthPoints: 2
+  DamageFlicker: 1
+  FlickerDuration: 5
   flickerColor: {r: 1, g: 0, b: 0, a: 1}
-  HP: 2
   explosions:
   - {fileID: 3653367254462186490}
 --- !u!1 &4705882088806402782

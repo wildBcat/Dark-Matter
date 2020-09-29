@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-09-29T01:07:21.005-06:00
-  initializedAtString: 2020-09-29T00:50:53.049-06:00
+  lastUpdatedAtString: 2020-09-29T13:51:19.959-06:00
+  initializedAtString: 2020-09-29T13:50:11.082-06:00
   entries:
   - path: .vs/Dark Matter/xs/project-cache/Assembly-CSharp-Debug.json
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/.vs/Dark
@@ -36,104 +36,48 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/2D pixel asteroids/Prefabs/AsterBig1.prefab
+  - path: Assets/2D pixel asteroids/Prefabs/AsterSmall1.prefab
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/2D
-      pixel asteroids/Prefabs/AsterBig1.prefab
-    projectPath: Assets/2D pixel asteroids/Prefabs/AsterBig1.prefab
+      pixel asteroids/Prefabs/AsterSmall1.prefab
+    projectPath: Assets/2D pixel asteroids/Prefabs/AsterSmall1.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/My Stuff/Prefabs/Path (1).prefab
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Prefabs/Path (1).prefab
-    projectPath: Assets/My Stuff/Prefabs/Path (1).prefab
+  - path: Assets/2D pixel asteroids/Prefabs/AsterSmall2.prefab
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/2D
+      pixel asteroids/Prefabs/AsterSmall2.prefab
+    projectPath: Assets/2D pixel asteroids/Prefabs/AsterSmall2.prefab
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/My Stuff/Prefabs/Path (1).prefab.meta
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Prefabs/Path (1).prefab.meta
-    projectPath: Assets/My Stuff/Prefabs/Path (1).prefab.meta
+    workTreeStatus: 3
+  - path: Assets/2D pixel asteroids/Prefabs/AsterSmall3.prefab
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/2D
+      pixel asteroids/Prefabs/AsterSmall3.prefab
+    projectPath: Assets/2D pixel asteroids/Prefabs/AsterSmall3.prefab
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/My Stuff/Prefabs/Paths.meta
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Prefabs/Paths.meta
-    projectPath: Assets/My Stuff/Prefabs/Paths.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Prefabs/Paths/Path (1).prefab
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Prefabs/Paths/Path (1).prefab
-    projectPath: Assets/My Stuff/Prefabs/Paths/Path (1).prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Prefabs/Paths/Path (1).prefab.meta
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Prefabs/Paths/Path (1).prefab.meta
-    projectPath: Assets/My Stuff/Prefabs/Paths/Path (1).prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Prefabs/Paths/Path (2).prefab
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Prefabs/Paths/Path (2).prefab
-    projectPath: Assets/My Stuff/Prefabs/Paths/Path (2).prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Prefabs/Paths/Path (2).prefab.meta
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Prefabs/Paths/Path (2).prefab.meta
-    projectPath: Assets/My Stuff/Prefabs/Paths/Path (2).prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Prefabs/Paths/Path (3).prefab
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Prefabs/Paths/Path (3).prefab
-    projectPath: Assets/My Stuff/Prefabs/Paths/Path (3).prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Prefabs/Paths/Path (3).prefab.meta
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Prefabs/Paths/Path (3).prefab.meta
-    projectPath: Assets/My Stuff/Prefabs/Paths/Path (3).prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Prefabs/Paths/Path (4).prefab
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Prefabs/Paths/Path (4).prefab
-    projectPath: Assets/My Stuff/Prefabs/Paths/Path (4).prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Prefabs/Paths/Path (4).prefab.meta
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Prefabs/Paths/Path (4).prefab.meta
-    projectPath: Assets/My Stuff/Prefabs/Paths/Path (4).prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Prefabs/Ships/Enemy Ship (kamikaze) 1.prefab
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Prefabs/Ships/Enemy Ship (kamikaze) 1.prefab
-    projectPath: Assets/My Stuff/Prefabs/Ships/Enemy Ship (kamikaze) 1.prefab
+    workTreeStatus: 3
+  - path: Assets/2D pixel asteroids/Prefabs/AsterSmall4.prefab
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/2D
+      pixel asteroids/Prefabs/AsterSmall4.prefab
+    projectPath: Assets/2D pixel asteroids/Prefabs/AsterSmall4.prefab
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/My Stuff/Prefabs/Ships/Enemy Ship (kamikaze) 1.prefab.meta
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Prefabs/Ships/Enemy Ship (kamikaze) 1.prefab.meta
-    projectPath: Assets/My Stuff/Prefabs/Ships/Enemy Ship (kamikaze) 1.prefab.meta
+    workTreeStatus: 3
+  - path: Assets/2D pixel asteroids/Prefabs/AsterSmall5.prefab
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/2D
+      pixel asteroids/Prefabs/AsterSmall5.prefab
+    projectPath: Assets/2D pixel asteroids/Prefabs/AsterSmall5.prefab
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
+  - path: Assets/2D pixel asteroids/Prefabs/AsterSmall6.prefab
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/2D
+      pixel asteroids/Prefabs/AsterSmall6.prefab
+    projectPath: Assets/2D pixel asteroids/Prefabs/AsterSmall6.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets/My Stuff/Prefabs/Ships/GameObject.prefab
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
       Stuff/Prefabs/Ships/GameObject.prefab
@@ -148,20 +92,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/My Stuff/Prefabs/Wave 01.asset
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Prefabs/Wave 01.asset
-    projectPath: Assets/My Stuff/Prefabs/Wave 01.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/My Stuff/Prefabs/Wave 01.asset.meta
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Prefabs/Wave 01.asset.meta
-    projectPath: Assets/My Stuff/Prefabs/Wave 01.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Assets/My Stuff/Scenes/Level 1.unity
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
       Stuff/Scenes/Level 1.unity
@@ -174,223 +104,32 @@ MonoBehaviour:
       Stuff/Scripts/BaseObjectController1.cs
     projectPath: Assets/My Stuff/Scripts/BaseObjectController1.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets/My Stuff/Scripts/BaseObjectController1.cs.meta
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
       Stuff/Scripts/BaseObjectController1.cs.meta
     projectPath: Assets/My Stuff/Scripts/BaseObjectController1.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Scripts/EnemyPathing.cs
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Scripts/EnemyPathing.cs
-    projectPath: Assets/My Stuff/Scripts/EnemyPathing.cs
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Assets/My Stuff/Scripts/EnemyPathing.cs.meta
+  - path: Assets/My Stuff/Scripts/GameObjectLifeController.cs
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Scripts/EnemyPathing.cs.meta
-    projectPath: Assets/My Stuff/Scripts/EnemyPathing.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/My Stuff/Scripts/EnemySpawner.cs
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Scripts/EnemySpawner.cs
-    projectPath: Assets/My Stuff/Scripts/EnemySpawner.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/My Stuff/Scripts/WaveConfig.cs
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Scripts/WaveConfig.cs
-    projectPath: Assets/My Stuff/Scripts/WaveConfig.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/My Stuff/Waves.meta
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Waves.meta
-    projectPath: Assets/My Stuff/Waves.meta
+      Stuff/Scripts/GameObjectLifeController.cs
+    projectPath: Assets/My Stuff/Scripts/GameObjectLifeController.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/My Stuff/Waves/Wave 01.asset
+  - path: Assets/My Stuff/Scripts/GameObjectLifeController.cs.meta
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Waves/Wave 01.asset
-    projectPath: Assets/My Stuff/Waves/Wave 01.asset
+      Stuff/Scripts/GameObjectLifeController.cs.meta
+    projectPath: Assets/My Stuff/Scripts/GameObjectLifeController.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/My Stuff/Waves/Wave 01.asset.meta
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Waves/Wave 01.asset.meta
-    projectPath: Assets/My Stuff/Waves/Wave 01.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Waves/Wave 02.asset
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Waves/Wave 02.asset
-    projectPath: Assets/My Stuff/Waves/Wave 02.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Waves/Wave 02.asset.meta
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Waves/Wave 02.asset.meta
-    projectPath: Assets/My Stuff/Waves/Wave 02.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Waves/Wave 03.asset
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Waves/Wave 03.asset
-    projectPath: Assets/My Stuff/Waves/Wave 03.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Waves/Wave 03.asset.meta
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Waves/Wave 03.asset.meta
-    projectPath: Assets/My Stuff/Waves/Wave 03.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Waves/Wave 04.asset
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Waves/Wave 04.asset
-    projectPath: Assets/My Stuff/Waves/Wave 04.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Waves/Wave 04.asset.meta
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Waves/Wave 04.asset.meta
-    projectPath: Assets/My Stuff/Waves/Wave 04.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Waves/Wave 05.asset
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Waves/Wave 05.asset
-    projectPath: Assets/My Stuff/Waves/Wave 05.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Waves/Wave 05.asset.meta
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Waves/Wave 05.asset.meta
-    projectPath: Assets/My Stuff/Waves/Wave 05.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Waves/Wave 06.asset
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Waves/Wave 06.asset
-    projectPath: Assets/My Stuff/Waves/Wave 06.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/My Stuff/Waves/Wave 06.asset.meta
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/My
-      Stuff/Waves/Wave 06.asset.meta
-    projectPath: Assets/My Stuff/Waves/Wave 06.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/ND_VariaBULLET/Demo/Images/General/.BulletHellBaby_BG 2.png.icloud
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/ND_VariaBULLET/Demo/Images/General/.BulletHellBaby_BG
-      2.png.icloud
-    projectPath: Assets/ND_VariaBULLET/Demo/Images/General/.BulletHellBaby_BG 2.png.icloud
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/ND_VariaBULLET/Demo/Images/General/.BulletHellBaby_BG.png.icloud
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/ND_VariaBULLET/Demo/Images/General/.BulletHellBaby_BG.png.icloud
-    projectPath: Assets/ND_VariaBULLET/Demo/Images/General/.BulletHellBaby_BG.png.icloud
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/ND_VariaBULLET/Prefabs/Shot/Singular/PlayerBulletLinearNonPhysics
-      Variant.prefab
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/ND_VariaBULLET/Prefabs/Shot/Singular/PlayerBulletLinearNonPhysics
-      Variant.prefab
-    projectPath: Assets/ND_VariaBULLET/Prefabs/Shot/Singular/PlayerBulletLinearNonPhysics
-      Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/ND_VariaBULLET/Prefabs/Shot/Singular/PlayerBulletLinearNonPhysics
-      Variant.prefab.meta
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/ND_VariaBULLET/Prefabs/Shot/Singular/PlayerBulletLinearNonPhysics
-      Variant.prefab.meta
-    projectPath: Assets/ND_VariaBULLET/Prefabs/Shot/Singular/PlayerBulletLinearNonPhysics
-      Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/ND_VariaBULLET/Scripts/Collision/CollisionFilter.cs
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/ND_VariaBULLET/Scripts/Collision/CollisionFilter.cs
-    projectPath: Assets/ND_VariaBULLET/Scripts/Collision/CollisionFilter.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/ND_VariaBULLET/Scripts/Collision/ShotCollision.cs
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/ND_VariaBULLET/Scripts/Collision/ShotCollision.cs
-    projectPath: Assets/ND_VariaBULLET/Scripts/Collision/ShotCollision.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/ND_VariaBULLET/Scripts/Collision/ShotCollisionDamage.cs
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/ND_VariaBULLET/Scripts/Collision/ShotCollisionDamage.cs
-    projectPath: Assets/ND_VariaBULLET/Scripts/Collision/ShotCollisionDamage.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/ND_VariaBULLET/Scripts/Pattern/BasePattern.cs
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/ND_VariaBULLET/Scripts/Pattern/BasePattern.cs
-    projectPath: Assets/ND_VariaBULLET/Scripts/Pattern/BasePattern.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/ND_VariaBULLET/Scripts/Shot/GlobalShotManager.cs
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/ND_VariaBULLET/Scripts/Shot/GlobalShotManager.cs
-    projectPath: Assets/ND_VariaBULLET/Scripts/Shot/GlobalShotManager.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/ND_VariaBULLET/Scripts/Shot/ShotBullet.cs
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/ND_VariaBULLET/Scripts/Shot/ShotBullet.cs
-    projectPath: Assets/ND_VariaBULLET/Scripts/Shot/ShotBullet.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/ND_VariaBULLET/Scripts/Shot/ShotParticleExplodeOnHit.cs
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/ND_VariaBULLET/Scripts/Shot/ShotParticleExplodeOnHit.cs
-    projectPath: Assets/ND_VariaBULLET/Scripts/Shot/ShotParticleExplodeOnHit.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assets/ND_VariaBULLET/System/Resources/ND_VariaBullet/GlobalManager/GlobalShotManager.prefab
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/ND_VariaBULLET/System/Resources/ND_VariaBullet/GlobalManager/GlobalShotManager.prefab
     projectPath: Assets/ND_VariaBULLET/System/Resources/ND_VariaBullet/GlobalManager/GlobalShotManager.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/ND_VariaBULLET/System/UserBackup/.Physics2DSettings 2.asset_backup.icloud
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/ND_VariaBULLET/System/UserBackup/.Physics2DSettings
-      2.asset_backup.icloud
-    projectPath: Assets/ND_VariaBULLET/System/UserBackup/.Physics2DSettings 2.asset_backup.icloud
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/TurboRename/Plugins/Editor/TurboRename.cs
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Assets/TurboRename/Plugins/Editor/TurboRename.cs
-    projectPath: Assets/TurboRename/Plugins/Editor/TurboRename.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -400,153 +139,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/Artifacts/00/0003ed88f207217e15f670b809a3b80c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/00/0003ed88f207217e15f670b809a3b80c
-    projectPath: Library/Artifacts/00/0003ed88f207217e15f670b809a3b80c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/00/00a2c36ae071f283ca18ac6df93fd4d6
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/00/00a2c36ae071f283ca18ac6df93fd4d6
-    projectPath: Library/Artifacts/00/00a2c36ae071f283ca18ac6df93fd4d6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/00/00c4aad1b69ecce06329f18849ff4514
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/00/00c4aad1b69ecce06329f18849ff4514
-    projectPath: Library/Artifacts/00/00c4aad1b69ecce06329f18849ff4514
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/01/0151076e547c17d2e6b234e01832f03c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/01/0151076e547c17d2e6b234e01832f03c
-    projectPath: Library/Artifacts/01/0151076e547c17d2e6b234e01832f03c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/01/019690e2ebb9b748dac37fa65e33239e
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/01/019690e2ebb9b748dac37fa65e33239e
-    projectPath: Library/Artifacts/01/019690e2ebb9b748dac37fa65e33239e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/01/01a88783fcce3d6757a7aa5bc5207abc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/01/01a88783fcce3d6757a7aa5bc5207abc
-    projectPath: Library/Artifacts/01/01a88783fcce3d6757a7aa5bc5207abc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/02/0281492be6b697f83746970759653a37
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/02/0281492be6b697f83746970759653a37
-    projectPath: Library/Artifacts/02/0281492be6b697f83746970759653a37
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/03/0304771fdf4716662bd62d51722493f6
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/03/0304771fdf4716662bd62d51722493f6
-    projectPath: Library/Artifacts/03/0304771fdf4716662bd62d51722493f6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/03/03e67eb8edad8677d856c6bd627e0fcc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/03/03e67eb8edad8677d856c6bd627e0fcc
-    projectPath: Library/Artifacts/03/03e67eb8edad8677d856c6bd627e0fcc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/04/0472580d58d940705f63769deb33aaba
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/04/0472580d58d940705f63769deb33aaba
-    projectPath: Library/Artifacts/04/0472580d58d940705f63769deb33aaba
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/04/04b6655c53080572c7f963a8a415a332
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/04/04b6655c53080572c7f963a8a415a332
-    projectPath: Library/Artifacts/04/04b6655c53080572c7f963a8a415a332
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/05/058de7bfab51ad2d7364da4ea40f4a4c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/05/058de7bfab51ad2d7364da4ea40f4a4c
-    projectPath: Library/Artifacts/05/058de7bfab51ad2d7364da4ea40f4a4c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/05/05cc1b222723ad73b4546af94c72cc0a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/05/05cc1b222723ad73b4546af94c72cc0a
-    projectPath: Library/Artifacts/05/05cc1b222723ad73b4546af94c72cc0a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/06/065104077326ff03464517226acbf4f1
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/06/065104077326ff03464517226acbf4f1
-    projectPath: Library/Artifacts/06/065104077326ff03464517226acbf4f1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/06/066e475dc920f10f494911492da88041
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/06/066e475dc920f10f494911492da88041
-    projectPath: Library/Artifacts/06/066e475dc920f10f494911492da88041
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/06/0684c2cf079ff341b971646b3b9e8051
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/06/0684c2cf079ff341b971646b3b9e8051
-    projectPath: Library/Artifacts/06/0684c2cf079ff341b971646b3b9e8051
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/07/0711e0e3352815602ee2fb9914fd919a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/07/0711e0e3352815602ee2fb9914fd919a
-    projectPath: Library/Artifacts/07/0711e0e3352815602ee2fb9914fd919a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/08/080e97b5579a1545a3fc43502edb15c6
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/08/080e97b5579a1545a3fc43502edb15c6
-    projectPath: Library/Artifacts/08/080e97b5579a1545a3fc43502edb15c6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/08/083b6df80eea7ef1a15e505cf8c548fc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/08/083b6df80eea7ef1a15e505cf8c548fc
-    projectPath: Library/Artifacts/08/083b6df80eea7ef1a15e505cf8c548fc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/0b/0b2acb03ee4a629c152b8f633a3568c6
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/0b/0b2acb03ee4a629c152b8f633a3568c6
-    projectPath: Library/Artifacts/0b/0b2acb03ee4a629c152b8f633a3568c6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/0b/0b5db81d438d93dd6e06aec9c64da596
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/0b/0b5db81d438d93dd6e06aec9c64da596
-    projectPath: Library/Artifacts/0b/0b5db81d438d93dd6e06aec9c64da596
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/0c/0c011e14e6e137b6ab549b036c173d15
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/0c/0c011e14e6e137b6ab549b036c173d15
-    projectPath: Library/Artifacts/0c/0c011e14e6e137b6ab549b036c173d15
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/0c/0cbcb81dca2b155fb60ee2b4b565e715
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/0c/0cbcb81dca2b155fb60ee2b4b565e715
-    projectPath: Library/Artifacts/0c/0cbcb81dca2b155fb60ee2b4b565e715
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/0c/0ce410d0c37fcef9bbab018d5b4d2b7d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/0c/0ce410d0c37fcef9bbab018d5b4d2b7d
-    projectPath: Library/Artifacts/0c/0ce410d0c37fcef9bbab018d5b4d2b7d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/0e/0e48642b9b43c6c22ccffaf6973a8ab6
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/0e/0e48642b9b43c6c22ccffaf6973a8ab6
-    projectPath: Library/Artifacts/0e/0e48642b9b43c6c22ccffaf6973a8ab6
+  - path: Library/Artifacts/09/09c379e34eff46df3ff37631e461a072
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/09/09c379e34eff46df3ff37631e461a072
+    projectPath: Library/Artifacts/09/09c379e34eff46df3ff37631e461a072
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -554,611 +149,41 @@ MonoBehaviour:
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/0f/0f26e668fdc7ad7234bc1bccd83ed662
     projectPath: Library/Artifacts/0f/0f26e668fdc7ad7234bc1bccd83ed662
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/0f/0ff6b63627798330b63e7588eafe8be4
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/0f/0ff6b63627798330b63e7588eafe8be4
-    projectPath: Library/Artifacts/0f/0ff6b63627798330b63e7588eafe8be4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/10/10884838d341c1ab71159330b5572a99
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/10/10884838d341c1ab71159330b5572a99
-    projectPath: Library/Artifacts/10/10884838d341c1ab71159330b5572a99
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/10/10f317ad89b2d37639be7fb155f59588
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/10/10f317ad89b2d37639be7fb155f59588
-    projectPath: Library/Artifacts/10/10f317ad89b2d37639be7fb155f59588
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/11/11187bf2d960ace076ecfbeed8ea4122
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/11/11187bf2d960ace076ecfbeed8ea4122
-    projectPath: Library/Artifacts/11/11187bf2d960ace076ecfbeed8ea4122
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/12/123158aba5d31071fa52681fa3256d99
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/12/123158aba5d31071fa52681fa3256d99
-    projectPath: Library/Artifacts/12/123158aba5d31071fa52681fa3256d99
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/13/1340b636b57aace647868be28bebc15e
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/13/1340b636b57aace647868be28bebc15e
-    projectPath: Library/Artifacts/13/1340b636b57aace647868be28bebc15e
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/16/16098f387b56919c38a89a4c9959d0f2
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/16/16098f387b56919c38a89a4c9959d0f2
+    projectPath: Library/Artifacts/16/16098f387b56919c38a89a4c9959d0f2
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library/Artifacts/13/13dee73ed8cb5eec7f59256599ee10ff
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/13/13dee73ed8cb5eec7f59256599ee10ff
-    projectPath: Library/Artifacts/13/13dee73ed8cb5eec7f59256599ee10ff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/15/152537790691ebc12ad7c4689d9c1725
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/15/152537790691ebc12ad7c4689d9c1725
-    projectPath: Library/Artifacts/15/152537790691ebc12ad7c4689d9c1725
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/15/15385e0ea915bdcbf3d167afd0638916
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/15/15385e0ea915bdcbf3d167afd0638916
-    projectPath: Library/Artifacts/15/15385e0ea915bdcbf3d167afd0638916
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/15/154e1f3963f4e6e8be5799f14e3afef2
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/15/154e1f3963f4e6e8be5799f14e3afef2
-    projectPath: Library/Artifacts/15/154e1f3963f4e6e8be5799f14e3afef2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/15/1583751c9dc68f99ef2f27cb769a6127
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/15/1583751c9dc68f99ef2f27cb769a6127
-    projectPath: Library/Artifacts/15/1583751c9dc68f99ef2f27cb769a6127
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/15/15af891766da8bc460199aceb6aa33d4
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/15/15af891766da8bc460199aceb6aa33d4
-    projectPath: Library/Artifacts/15/15af891766da8bc460199aceb6aa33d4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/16/160b4342aef31b12cd8be6719626ceb1
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/16/160b4342aef31b12cd8be6719626ceb1
-    projectPath: Library/Artifacts/16/160b4342aef31b12cd8be6719626ceb1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/16/16bd818d392fba31a72998728af39674
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/16/16bd818d392fba31a72998728af39674
-    projectPath: Library/Artifacts/16/16bd818d392fba31a72998728af39674
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/16/16c002840a7864109ad301bb985324f2
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/16/16c002840a7864109ad301bb985324f2
-    projectPath: Library/Artifacts/16/16c002840a7864109ad301bb985324f2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/17/17294c909020bffd8854d3d9e626e476
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/17/17294c909020bffd8854d3d9e626e476
-    projectPath: Library/Artifacts/17/17294c909020bffd8854d3d9e626e476
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/17/172fba8850dd924fc004020c7c5e6712
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/17/172fba8850dd924fc004020c7c5e6712
-    projectPath: Library/Artifacts/17/172fba8850dd924fc004020c7c5e6712
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/18/1803c3df23c8df920baf8b0b859d884d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/18/1803c3df23c8df920baf8b0b859d884d
-    projectPath: Library/Artifacts/18/1803c3df23c8df920baf8b0b859d884d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/18/1818e0e75a3634370f3ab273e66328fb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/18/1818e0e75a3634370f3ab273e66328fb
-    projectPath: Library/Artifacts/18/1818e0e75a3634370f3ab273e66328fb
+  - path: Library/Artifacts/18/185f2aa85957ed1c2c7e26b73dff73d0
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/18/185f2aa85957ed1c2c7e26b73dff73d0
+    projectPath: Library/Artifacts/18/185f2aa85957ed1c2c7e26b73dff73d0
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library/Artifacts/18/18472cef0cff5b3ace1c58f11b76f9e8
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/18/18472cef0cff5b3ace1c58f11b76f9e8
-    projectPath: Library/Artifacts/18/18472cef0cff5b3ace1c58f11b76f9e8
+  - path: Library/Artifacts/1b/1b6aa3368cec3f4df743b98c98838abd
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/1b/1b6aa3368cec3f4df743b98c98838abd
+    projectPath: Library/Artifacts/1b/1b6aa3368cec3f4df743b98c98838abd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/19/19e52bba9f64b323e4061740586b3976
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/19/19e52bba9f64b323e4061740586b3976
-    projectPath: Library/Artifacts/19/19e52bba9f64b323e4061740586b3976
+  - path: Library/Artifacts/1e/1e992208d02ab9d67e44d58eddc51cf4
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/1e/1e992208d02ab9d67e44d58eddc51cf4
+    projectPath: Library/Artifacts/1e/1e992208d02ab9d67e44d58eddc51cf4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/1b/1b77584e2323835d93f4c4d2a30802a1
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/1b/1b77584e2323835d93f4c4d2a30802a1
-    projectPath: Library/Artifacts/1b/1b77584e2323835d93f4c4d2a30802a1
+  - path: Library/Artifacts/3e/3e4e58df119f2271345b65e1b46ef249
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/3e/3e4e58df119f2271345b65e1b46ef249
+    projectPath: Library/Artifacts/3e/3e4e58df119f2271345b65e1b46ef249
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/1b/1b91c7939159f8c504daa6af6493839d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/1b/1b91c7939159f8c504daa6af6493839d
-    projectPath: Library/Artifacts/1b/1b91c7939159f8c504daa6af6493839d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/1b/1b9fbcbf7da161a782ec851b4b1fba09
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/1b/1b9fbcbf7da161a782ec851b4b1fba09
-    projectPath: Library/Artifacts/1b/1b9fbcbf7da161a782ec851b4b1fba09
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/1c/1cd136a8b6118d48f714cda37c01c939
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/1c/1cd136a8b6118d48f714cda37c01c939
-    projectPath: Library/Artifacts/1c/1cd136a8b6118d48f714cda37c01c939
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/1d/1d94a915a3cfca9ec7cf848ec2d77d93
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/1d/1d94a915a3cfca9ec7cf848ec2d77d93
-    projectPath: Library/Artifacts/1d/1d94a915a3cfca9ec7cf848ec2d77d93
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/1e/1ede70a55d76f28c663097dfffd00400
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/1e/1ede70a55d76f28c663097dfffd00400
-    projectPath: Library/Artifacts/1e/1ede70a55d76f28c663097dfffd00400
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/1f/1f58090506702b468206b62d5344d523
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/1f/1f58090506702b468206b62d5344d523
-    projectPath: Library/Artifacts/1f/1f58090506702b468206b62d5344d523
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/1f/1fac2f88b1cdb3fcf6a056d76a11eec3
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/1f/1fac2f88b1cdb3fcf6a056d76a11eec3
-    projectPath: Library/Artifacts/1f/1fac2f88b1cdb3fcf6a056d76a11eec3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/1f/1fe2b6f00392e934ff7d5b3dbbbb8a63
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/1f/1fe2b6f00392e934ff7d5b3dbbbb8a63
-    projectPath: Library/Artifacts/1f/1fe2b6f00392e934ff7d5b3dbbbb8a63
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/21/21cbbd4d0f2ccd48c89fcf14496a6b5d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/21/21cbbd4d0f2ccd48c89fcf14496a6b5d
-    projectPath: Library/Artifacts/21/21cbbd4d0f2ccd48c89fcf14496a6b5d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/22/22345f2080db36351569917f05ff465c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/22/22345f2080db36351569917f05ff465c
-    projectPath: Library/Artifacts/22/22345f2080db36351569917f05ff465c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/22/22a433de1de6fc41f81f8b169844b24d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/22/22a433de1de6fc41f81f8b169844b24d
-    projectPath: Library/Artifacts/22/22a433de1de6fc41f81f8b169844b24d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/23/23162e7b9fdce7e00c1ae91a6ea0db9d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/23/23162e7b9fdce7e00c1ae91a6ea0db9d
-    projectPath: Library/Artifacts/23/23162e7b9fdce7e00c1ae91a6ea0db9d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/24/245fabf23b4c512c213bd0370b1a6e41
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/24/245fabf23b4c512c213bd0370b1a6e41
-    projectPath: Library/Artifacts/24/245fabf23b4c512c213bd0370b1a6e41
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/24/246be5584d09adda1e1c595bce173e51
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/24/246be5584d09adda1e1c595bce173e51
-    projectPath: Library/Artifacts/24/246be5584d09adda1e1c595bce173e51
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/24/249267b218b2b94aae97e31f206c1b8c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/24/249267b218b2b94aae97e31f206c1b8c
-    projectPath: Library/Artifacts/24/249267b218b2b94aae97e31f206c1b8c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/25/255b77cc8ed63630a053a6a6dcc08a58
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/25/255b77cc8ed63630a053a6a6dcc08a58
-    projectPath: Library/Artifacts/25/255b77cc8ed63630a053a6a6dcc08a58
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/26/26e564da72641aaa16af06fe26d19763
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/26/26e564da72641aaa16af06fe26d19763
-    projectPath: Library/Artifacts/26/26e564da72641aaa16af06fe26d19763
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/28/283b444d555f9c031954649d52c1b9c9
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/28/283b444d555f9c031954649d52c1b9c9
-    projectPath: Library/Artifacts/28/283b444d555f9c031954649d52c1b9c9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/29/2924c196c15eb082b0a3f894a867245f
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/29/2924c196c15eb082b0a3f894a867245f
-    projectPath: Library/Artifacts/29/2924c196c15eb082b0a3f894a867245f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/29/2937bbd151686b7ffa74663df5337cbc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/29/2937bbd151686b7ffa74663df5337cbc
-    projectPath: Library/Artifacts/29/2937bbd151686b7ffa74663df5337cbc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/29/298662ccd446d9202a8168df53ef0a31
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/29/298662ccd446d9202a8168df53ef0a31
-    projectPath: Library/Artifacts/29/298662ccd446d9202a8168df53ef0a31
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/2b/2b68425d8cc5cd3b49eafaefca22287b
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/2b/2b68425d8cc5cd3b49eafaefca22287b
-    projectPath: Library/Artifacts/2b/2b68425d8cc5cd3b49eafaefca22287b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/2b/2bec54322499288dbec7a0bc0669092f
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/2b/2bec54322499288dbec7a0bc0669092f
-    projectPath: Library/Artifacts/2b/2bec54322499288dbec7a0bc0669092f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/2d/2d87496cf9c0b146eb42c206ecb10ed5
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/2d/2d87496cf9c0b146eb42c206ecb10ed5
-    projectPath: Library/Artifacts/2d/2d87496cf9c0b146eb42c206ecb10ed5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/2e/2e6c8d65b423582feed6a313c9132359
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/2e/2e6c8d65b423582feed6a313c9132359
-    projectPath: Library/Artifacts/2e/2e6c8d65b423582feed6a313c9132359
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/2f/2f1c358b3ba9071c51b24a2235af86ee
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/2f/2f1c358b3ba9071c51b24a2235af86ee
-    projectPath: Library/Artifacts/2f/2f1c358b3ba9071c51b24a2235af86ee
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/30/301b5fecc445d55f13d04e8dfa361838
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/30/301b5fecc445d55f13d04e8dfa361838
-    projectPath: Library/Artifacts/30/301b5fecc445d55f13d04e8dfa361838
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/31/31074441ca500c1b256bcbdee7e6085b
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/31/31074441ca500c1b256bcbdee7e6085b
-    projectPath: Library/Artifacts/31/31074441ca500c1b256bcbdee7e6085b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/31/31c448bb6b2071a750c5a5e4621f0eae
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/31/31c448bb6b2071a750c5a5e4621f0eae
-    projectPath: Library/Artifacts/31/31c448bb6b2071a750c5a5e4621f0eae
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/31/31ee65350aefb25a1e49ac5362ff1acf
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/31/31ee65350aefb25a1e49ac5362ff1acf
-    projectPath: Library/Artifacts/31/31ee65350aefb25a1e49ac5362ff1acf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/32/322405f4488bebd14b2e594c2b8257bb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/32/322405f4488bebd14b2e594c2b8257bb
-    projectPath: Library/Artifacts/32/322405f4488bebd14b2e594c2b8257bb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/33/337cd99c29a1b2156bb996f5f6b4e7a4
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/33/337cd99c29a1b2156bb996f5f6b4e7a4
-    projectPath: Library/Artifacts/33/337cd99c29a1b2156bb996f5f6b4e7a4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/34/34830120db2315febb0c63e8966b58df
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/34/34830120db2315febb0c63e8966b58df
-    projectPath: Library/Artifacts/34/34830120db2315febb0c63e8966b58df
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/35/3531a2ca3ee6604a9c7a3e3d9592e43a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/35/3531a2ca3ee6604a9c7a3e3d9592e43a
-    projectPath: Library/Artifacts/35/3531a2ca3ee6604a9c7a3e3d9592e43a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/36/360322b9049c27e28e10d6210fcc3303
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/36/360322b9049c27e28e10d6210fcc3303
-    projectPath: Library/Artifacts/36/360322b9049c27e28e10d6210fcc3303
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/36/36b5279afc4828d6e964b1092af80fef
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/36/36b5279afc4828d6e964b1092af80fef
-    projectPath: Library/Artifacts/36/36b5279afc4828d6e964b1092af80fef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/36/36d3a70fbee9892143b263e6069c018e
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/36/36d3a70fbee9892143b263e6069c018e
-    projectPath: Library/Artifacts/36/36d3a70fbee9892143b263e6069c018e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/37/37b77748e2869bcde70b88bd0e6a3dcc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/37/37b77748e2869bcde70b88bd0e6a3dcc
-    projectPath: Library/Artifacts/37/37b77748e2869bcde70b88bd0e6a3dcc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/37/37bb19e58002d61673dd261cc08151f1
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/37/37bb19e58002d61673dd261cc08151f1
-    projectPath: Library/Artifacts/37/37bb19e58002d61673dd261cc08151f1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/37/37c1f17dc02b1149fffe82e3fef2a2bc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/37/37c1f17dc02b1149fffe82e3fef2a2bc
-    projectPath: Library/Artifacts/37/37c1f17dc02b1149fffe82e3fef2a2bc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/38/38c4447f3e7da5bd4027060535cc8de1
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/38/38c4447f3e7da5bd4027060535cc8de1
-    projectPath: Library/Artifacts/38/38c4447f3e7da5bd4027060535cc8de1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/3b/3bdfa557f38cab30fd7501c5cfe7572b
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/3b/3bdfa557f38cab30fd7501c5cfe7572b
-    projectPath: Library/Artifacts/3b/3bdfa557f38cab30fd7501c5cfe7572b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/3c/3c7c075628d1206a559aafb1adb88b2e
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/3c/3c7c075628d1206a559aafb1adb88b2e
-    projectPath: Library/Artifacts/3c/3c7c075628d1206a559aafb1adb88b2e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/3d/3d3620fda4c7197fd12737d45d744038
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/3d/3d3620fda4c7197fd12737d45d744038
-    projectPath: Library/Artifacts/3d/3d3620fda4c7197fd12737d45d744038
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/3d/3d79c6dd4a4afb831e361e276af73ec2
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/3d/3d79c6dd4a4afb831e361e276af73ec2
-    projectPath: Library/Artifacts/3d/3d79c6dd4a4afb831e361e276af73ec2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/3f/3f015b2a6fefc31f41d68468df0ef1a2
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/3f/3f015b2a6fefc31f41d68468df0ef1a2
-    projectPath: Library/Artifacts/3f/3f015b2a6fefc31f41d68468df0ef1a2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/3f/3f33eabb3ddc7e0843b12ac81dff0020
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/3f/3f33eabb3ddc7e0843b12ac81dff0020
-    projectPath: Library/Artifacts/3f/3f33eabb3ddc7e0843b12ac81dff0020
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/40/409fd05b52752252c8c6527ed9c341a6
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/40/409fd05b52752252c8c6527ed9c341a6
-    projectPath: Library/Artifacts/40/409fd05b52752252c8c6527ed9c341a6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/41/4117759e4ab798b5f560fc446630a7a5
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/41/4117759e4ab798b5f560fc446630a7a5
-    projectPath: Library/Artifacts/41/4117759e4ab798b5f560fc446630a7a5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/41/4127b89cd430772cbffc2a2f6ebd24f2
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/41/4127b89cd430772cbffc2a2f6ebd24f2
-    projectPath: Library/Artifacts/41/4127b89cd430772cbffc2a2f6ebd24f2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/41/4159fdb1f762d1f2f3e330ba6ec2626d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/41/4159fdb1f762d1f2f3e330ba6ec2626d
-    projectPath: Library/Artifacts/41/4159fdb1f762d1f2f3e330ba6ec2626d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/42/4289c97a11e8993a4f1cd1d8f0555b86
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/42/4289c97a11e8993a4f1cd1d8f0555b86
-    projectPath: Library/Artifacts/42/4289c97a11e8993a4f1cd1d8f0555b86
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/42/42de754bdfd40acc6a1e7c26fc655321
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/42/42de754bdfd40acc6a1e7c26fc655321
-    projectPath: Library/Artifacts/42/42de754bdfd40acc6a1e7c26fc655321
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/44/449c0273faacc86c0ce907d972c038cc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/44/449c0273faacc86c0ce907d972c038cc
-    projectPath: Library/Artifacts/44/449c0273faacc86c0ce907d972c038cc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/45/45256417af2a10e5946a5784bafb4977
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/45/45256417af2a10e5946a5784bafb4977
-    projectPath: Library/Artifacts/45/45256417af2a10e5946a5784bafb4977
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/47/4724a0464ed413ada6f1df211deb5784
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/47/4724a0464ed413ada6f1df211deb5784
-    projectPath: Library/Artifacts/47/4724a0464ed413ada6f1df211deb5784
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/47/478d3ca44e2490eeb9038392fc7c13cd
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/47/478d3ca44e2490eeb9038392fc7c13cd
-    projectPath: Library/Artifacts/47/478d3ca44e2490eeb9038392fc7c13cd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/48/482f3fc39fead5d03899f208a855912a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/48/482f3fc39fead5d03899f208a855912a
-    projectPath: Library/Artifacts/48/482f3fc39fead5d03899f208a855912a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/49/490da264af3a1b266d0164f0664b4592
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/49/490da264af3a1b266d0164f0664b4592
-    projectPath: Library/Artifacts/49/490da264af3a1b266d0164f0664b4592
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/49/4942c6d7a34967ae5dc91cbdf0842edd
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/49/4942c6d7a34967ae5dc91cbdf0842edd
-    projectPath: Library/Artifacts/49/4942c6d7a34967ae5dc91cbdf0842edd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/49/494a4bc5b5aac674dc4ac300578218a7
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/49/494a4bc5b5aac674dc4ac300578218a7
-    projectPath: Library/Artifacts/49/494a4bc5b5aac674dc4ac300578218a7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4a/4a290ef9cf80b98a77adf53fe15a932a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/4a/4a290ef9cf80b98a77adf53fe15a932a
-    projectPath: Library/Artifacts/4a/4a290ef9cf80b98a77adf53fe15a932a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4a/4a97865ed2de63288b44d896ee2db2e9
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/4a/4a97865ed2de63288b44d896ee2db2e9
-    projectPath: Library/Artifacts/4a/4a97865ed2de63288b44d896ee2db2e9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4b/4b2af16cf839ef0e22ff2aa6d7d341d3
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/4b/4b2af16cf839ef0e22ff2aa6d7d341d3
-    projectPath: Library/Artifacts/4b/4b2af16cf839ef0e22ff2aa6d7d341d3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4b/4b31b534adcd4f27963d3b2ca237c479
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/4b/4b31b534adcd4f27963d3b2ca237c479
-    projectPath: Library/Artifacts/4b/4b31b534adcd4f27963d3b2ca237c479
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4c/4c08f7863108aa5c17fb768654d7ba15
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/4c/4c08f7863108aa5c17fb768654d7ba15
-    projectPath: Library/Artifacts/4c/4c08f7863108aa5c17fb768654d7ba15
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4c/4cc75d25a1e23280da42d72d9a9e8a7b
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/4c/4cc75d25a1e23280da42d72d9a9e8a7b
-    projectPath: Library/Artifacts/4c/4cc75d25a1e23280da42d72d9a9e8a7b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/4c/4cdb24c35dedeb7814ac9837f1d132de
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/4c/4cdb24c35dedeb7814ac9837f1d132de
-    projectPath: Library/Artifacts/4c/4cdb24c35dedeb7814ac9837f1d132de
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4d/4d0d1cc09c23e1860454bebe74928c72
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/4d/4d0d1cc09c23e1860454bebe74928c72
-    projectPath: Library/Artifacts/4d/4d0d1cc09c23e1860454bebe74928c72
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4f/4f0a2f11833e2afdb036b1294b677b25
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/4f/4f0a2f11833e2afdb036b1294b677b25
-    projectPath: Library/Artifacts/4f/4f0a2f11833e2afdb036b1294b677b25
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4f/4f30b72c73e703d11c2c88c7158b1847
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/4f/4f30b72c73e703d11c2c88c7158b1847
-    projectPath: Library/Artifacts/4f/4f30b72c73e703d11c2c88c7158b1847
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4f/4f6a64802909faa52f065aebf0458539
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/4f/4f6a64802909faa52f065aebf0458539
-    projectPath: Library/Artifacts/4f/4f6a64802909faa52f065aebf0458539
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/51/517ea40bc24fdc3a554de4127ba618c4
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/51/517ea40bc24fdc3a554de4127ba618c4
-    projectPath: Library/Artifacts/51/517ea40bc24fdc3a554de4127ba618c4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/52/52ba6f4d6e5c319c8fdc82281ea8dbed
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/52/52ba6f4d6e5c319c8fdc82281ea8dbed
-    projectPath: Library/Artifacts/52/52ba6f4d6e5c319c8fdc82281ea8dbed
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/52/52fd2f8ce60ac1d2ee528d95259bec70
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/52/52fd2f8ce60ac1d2ee528d95259bec70
-    projectPath: Library/Artifacts/52/52fd2f8ce60ac1d2ee528d95259bec70
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/54/545d917fd2391a48ebf2ba2ddd5a948a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/54/545d917fd2391a48ebf2ba2ddd5a948a
-    projectPath: Library/Artifacts/54/545d917fd2391a48ebf2ba2ddd5a948a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/54/5482be375325261ee7a3f696d99acfdc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/54/5482be375325261ee7a3f696d99acfdc
-    projectPath: Library/Artifacts/54/5482be375325261ee7a3f696d99acfdc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/56/56bcd84c3f7e8e32dc2101944921d5e0
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/56/56bcd84c3f7e8e32dc2101944921d5e0
-    projectPath: Library/Artifacts/56/56bcd84c3f7e8e32dc2101944921d5e0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/56/56ce41fe720c9df59295476b7ed2fa81
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/56/56ce41fe720c9df59295476b7ed2fa81
-    projectPath: Library/Artifacts/56/56ce41fe720c9df59295476b7ed2fa81
+  - path: Library/Artifacts/52/5281f96f6c0232e491f3c79479820715
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/52/5281f96f6c0232e491f3c79479820715
+    projectPath: Library/Artifacts/52/5281f96f6c0232e491f3c79479820715
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1166,947 +191,71 @@ MonoBehaviour:
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/57/570cb0c4fd305e8c73c323bb15b490c6
     projectPath: Library/Artifacts/57/570cb0c4fd305e8c73c323bb15b490c6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/58/5834a07e0750bbc25aa5af0d303eb242
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/58/5834a07e0750bbc25aa5af0d303eb242
-    projectPath: Library/Artifacts/58/5834a07e0750bbc25aa5af0d303eb242
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library/Artifacts/58/58507826a418c747eb720f97425f1828
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/58/58507826a418c747eb720f97425f1828
-    projectPath: Library/Artifacts/58/58507826a418c747eb720f97425f1828
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/59/59b379e65c3cd814f6ccd69b863288a6
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/59/59b379e65c3cd814f6ccd69b863288a6
-    projectPath: Library/Artifacts/59/59b379e65c3cd814f6ccd69b863288a6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5a/5a1ec4776776966cf550b84c042d339d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/5a/5a1ec4776776966cf550b84c042d339d
-    projectPath: Library/Artifacts/5a/5a1ec4776776966cf550b84c042d339d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/5a/5a89af91ad202cefe71cf1f63629a047
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/5a/5a89af91ad202cefe71cf1f63629a047
-    projectPath: Library/Artifacts/5a/5a89af91ad202cefe71cf1f63629a047
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5b/5b1e3f4c182dbfdc144746ef33a21fd9
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/5b/5b1e3f4c182dbfdc144746ef33a21fd9
-    projectPath: Library/Artifacts/5b/5b1e3f4c182dbfdc144746ef33a21fd9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5b/5bd8a7ceab89d039c8c52b377e450071
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/5b/5bd8a7ceab89d039c8c52b377e450071
-    projectPath: Library/Artifacts/5b/5bd8a7ceab89d039c8c52b377e450071
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5c/5ccbf7b8a2ac66c756ee575693f64f6f
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/5c/5ccbf7b8a2ac66c756ee575693f64f6f
-    projectPath: Library/Artifacts/5c/5ccbf7b8a2ac66c756ee575693f64f6f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5d/5dba998c6134a17a222b712d4a9c69e4
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/5d/5dba998c6134a17a222b712d4a9c69e4
-    projectPath: Library/Artifacts/5d/5dba998c6134a17a222b712d4a9c69e4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5d/5dc3e0ccf89a40af651ced7a4dc4ce4c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/5d/5dc3e0ccf89a40af651ced7a4dc4ce4c
-    projectPath: Library/Artifacts/5d/5dc3e0ccf89a40af651ced7a4dc4ce4c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5e/5e097ef521f507692a0e2f56ba2b352a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/5e/5e097ef521f507692a0e2f56ba2b352a
-    projectPath: Library/Artifacts/5e/5e097ef521f507692a0e2f56ba2b352a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5f/5f4e935c599b1a21616d57f190f9ab98
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/5f/5f4e935c599b1a21616d57f190f9ab98
-    projectPath: Library/Artifacts/5f/5f4e935c599b1a21616d57f190f9ab98
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/5f/5fccd44c7a78c5547bfb6955c091a30e
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/5f/5fccd44c7a78c5547bfb6955c091a30e
-    projectPath: Library/Artifacts/5f/5fccd44c7a78c5547bfb6955c091a30e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5f/5ffbfd533dd1795343bcbc791a16dc70
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/5f/5ffbfd533dd1795343bcbc791a16dc70
-    projectPath: Library/Artifacts/5f/5ffbfd533dd1795343bcbc791a16dc70
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/61/6101685217db2cd6598066bc83149d9a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/61/6101685217db2cd6598066bc83149d9a
-    projectPath: Library/Artifacts/61/6101685217db2cd6598066bc83149d9a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/61/6172e157c54d9f5768a1ce8bb44254cc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/61/6172e157c54d9f5768a1ce8bb44254cc
-    projectPath: Library/Artifacts/61/6172e157c54d9f5768a1ce8bb44254cc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/61/61f389bb721b2efd6474c2f10dd7153c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/61/61f389bb721b2efd6474c2f10dd7153c
-    projectPath: Library/Artifacts/61/61f389bb721b2efd6474c2f10dd7153c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/62/625d0c39323e2856ba3e93d3e9043be4
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/62/625d0c39323e2856ba3e93d3e9043be4
-    projectPath: Library/Artifacts/62/625d0c39323e2856ba3e93d3e9043be4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/62/62cb97c437e11673671f2f541fbbbd2e
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/62/62cb97c437e11673671f2f541fbbbd2e
-    projectPath: Library/Artifacts/62/62cb97c437e11673671f2f541fbbbd2e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/63/63d1f0ebc364c0a43ddcc9bd3bf81255
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/63/63d1f0ebc364c0a43ddcc9bd3bf81255
-    projectPath: Library/Artifacts/63/63d1f0ebc364c0a43ddcc9bd3bf81255
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/64/64899176bc65d52f971c5ae16f0d460f
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/64/64899176bc65d52f971c5ae16f0d460f
-    projectPath: Library/Artifacts/64/64899176bc65d52f971c5ae16f0d460f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/64/64e1fcfad7e338870965b01ad69a90af
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/64/64e1fcfad7e338870965b01ad69a90af
-    projectPath: Library/Artifacts/64/64e1fcfad7e338870965b01ad69a90af
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/66/66623bb54be0245e04461a80eb54a1b0
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/66/66623bb54be0245e04461a80eb54a1b0
-    projectPath: Library/Artifacts/66/66623bb54be0245e04461a80eb54a1b0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/67/678a3b7491d8d65a1d75e73eb40f5ac8
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/67/678a3b7491d8d65a1d75e73eb40f5ac8
-    projectPath: Library/Artifacts/67/678a3b7491d8d65a1d75e73eb40f5ac8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/68/68171c8bc5d71383e216f04776f3f535
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/68/68171c8bc5d71383e216f04776f3f535
-    projectPath: Library/Artifacts/68/68171c8bc5d71383e216f04776f3f535
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/68/684794d40bcc5d748c71449a25de92ef
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/68/684794d40bcc5d748c71449a25de92ef
-    projectPath: Library/Artifacts/68/684794d40bcc5d748c71449a25de92ef
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/69/697320f1e3bd166ef896254d0b008851
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/69/697320f1e3bd166ef896254d0b008851
-    projectPath: Library/Artifacts/69/697320f1e3bd166ef896254d0b008851
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library/Artifacts/69/6987d70189820c21e6a3f52eb9472b1a
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/69/6987d70189820c21e6a3f52eb9472b1a
     projectPath: Library/Artifacts/69/6987d70189820c21e6a3f52eb9472b1a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/69/698993e17df26495fd69e0d427c1aaa4
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/69/698993e17df26495fd69e0d427c1aaa4
-    projectPath: Library/Artifacts/69/698993e17df26495fd69e0d427c1aaa4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/69/69d3174feba8a28f06d4be4ac9c4f43a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/69/69d3174feba8a28f06d4be4ac9c4f43a
-    projectPath: Library/Artifacts/69/69d3174feba8a28f06d4be4ac9c4f43a
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library/Artifacts/6a/6a4a57c9a7dd1e7993578ac5ad6d2948
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/6a/6a4a57c9a7dd1e7993578ac5ad6d2948
-    projectPath: Library/Artifacts/6a/6a4a57c9a7dd1e7993578ac5ad6d2948
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/6a/6ae636d2f2691d1d0de18bfb36a750c6
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/6a/6ae636d2f2691d1d0de18bfb36a750c6
-    projectPath: Library/Artifacts/6a/6ae636d2f2691d1d0de18bfb36a750c6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library/Artifacts/6b/6b644efa643b5557dbbd083a0085d29d
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/6b/6b644efa643b5557dbbd083a0085d29d
     projectPath: Library/Artifacts/6b/6b644efa643b5557dbbd083a0085d29d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/6d/6ded4e34808cbd13d624f7a28695def1
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/6d/6ded4e34808cbd13d624f7a28695def1
-    projectPath: Library/Artifacts/6d/6ded4e34808cbd13d624f7a28695def1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/6e/6e0c3234399237433f8006508dae38f3
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/6e/6e0c3234399237433f8006508dae38f3
-    projectPath: Library/Artifacts/6e/6e0c3234399237433f8006508dae38f3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/6e/6e8c2a6f01c4eacf4b465c4256811e4f
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/6e/6e8c2a6f01c4eacf4b465c4256811e4f
-    projectPath: Library/Artifacts/6e/6e8c2a6f01c4eacf4b465c4256811e4f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/6f/6ffe160e9c526a737fad139763c5eb03
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/6f/6ffe160e9c526a737fad139763c5eb03
-    projectPath: Library/Artifacts/6f/6ffe160e9c526a737fad139763c5eb03
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/6e/6ebc3a5271c4e74174d2b54eba533687
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/6e/6ebc3a5271c4e74174d2b54eba533687
+    projectPath: Library/Artifacts/6e/6ebc3a5271c4e74174d2b54eba533687
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library/Artifacts/70/70272b330d8306116466cee82cc2f743
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/70/70272b330d8306116466cee82cc2f743
-    projectPath: Library/Artifacts/70/70272b330d8306116466cee82cc2f743
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library/Artifacts/70/707ebd3d11be52ec6f7921343292a5be
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/70/707ebd3d11be52ec6f7921343292a5be
     projectPath: Library/Artifacts/70/707ebd3d11be52ec6f7921343292a5be
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/70/70b166fdabedb6636b900ba9a0c8adfe
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/70/70b166fdabedb6636b900ba9a0c8adfe
-    projectPath: Library/Artifacts/70/70b166fdabedb6636b900ba9a0c8adfe
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/73/73a8b85cb80dafe45015a1385a63e924
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/73/73a8b85cb80dafe45015a1385a63e924
+    projectPath: Library/Artifacts/73/73a8b85cb80dafe45015a1385a63e924
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/71/71f9fe26e2eb7f512e967d2734e44243
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/71/71f9fe26e2eb7f512e967d2734e44243
-    projectPath: Library/Artifacts/71/71f9fe26e2eb7f512e967d2734e44243
+  - path: Library/Artifacts/85/855c297249d8767d1c91069021f72519
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/85/855c297249d8767d1c91069021f72519
+    projectPath: Library/Artifacts/85/855c297249d8767d1c91069021f72519
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/73/7305dab24143af4282203aa65caf1fce
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/73/7305dab24143af4282203aa65caf1fce
-    projectPath: Library/Artifacts/73/7305dab24143af4282203aa65caf1fce
+  - path: Library/Artifacts/8c/8cb1d38a56377f952e9f75438a5b994c
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/8c/8cb1d38a56377f952e9f75438a5b994c
+    projectPath: Library/Artifacts/8c/8cb1d38a56377f952e9f75438a5b994c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/73/73afb570afed0091e7c6dfb1e17976cc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/73/73afb570afed0091e7c6dfb1e17976cc
-    projectPath: Library/Artifacts/73/73afb570afed0091e7c6dfb1e17976cc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/74/7401d191e490dedb803b3ad4ca0f83f8
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/74/7401d191e490dedb803b3ad4ca0f83f8
-    projectPath: Library/Artifacts/74/7401d191e490dedb803b3ad4ca0f83f8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/74/74571d2a316be6195e865cc751bf27fa
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/74/74571d2a316be6195e865cc751bf27fa
-    projectPath: Library/Artifacts/74/74571d2a316be6195e865cc751bf27fa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/74/7495c674f8ef2faafdbe216635456f7f
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/74/7495c674f8ef2faafdbe216635456f7f
-    projectPath: Library/Artifacts/74/7495c674f8ef2faafdbe216635456f7f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/75/75695a18753ee1d3d6e9cfd9ef7d1249
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/75/75695a18753ee1d3d6e9cfd9ef7d1249
-    projectPath: Library/Artifacts/75/75695a18753ee1d3d6e9cfd9ef7d1249
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/76/7699bb2e70a86c27f3bf436a3f34c2a8
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/76/7699bb2e70a86c27f3bf436a3f34c2a8
-    projectPath: Library/Artifacts/76/7699bb2e70a86c27f3bf436a3f34c2a8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/76/76af441961c0309f9183b3745cb495b0
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/76/76af441961c0309f9183b3745cb495b0
-    projectPath: Library/Artifacts/76/76af441961c0309f9183b3745cb495b0
+  - path: Library/Artifacts/99/998628ced60f655ebdbd91d465ff019d
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/99/998628ced60f655ebdbd91d465ff019d
+    projectPath: Library/Artifacts/99/998628ced60f655ebdbd91d465ff019d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library/Artifacts/76/76c53358807f248c088549888a980916
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/76/76c53358807f248c088549888a980916
-    projectPath: Library/Artifacts/76/76c53358807f248c088549888a980916
+  - path: Library/Artifacts/9b/9b946f44f0211a7c00fd8c646d17d6cb
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/9b/9b946f44f0211a7c00fd8c646d17d6cb
+    projectPath: Library/Artifacts/9b/9b946f44f0211a7c00fd8c646d17d6cb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/77/77c1c919a873cef7ce2c034d1001f959
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/77/77c1c919a873cef7ce2c034d1001f959
-    projectPath: Library/Artifacts/77/77c1c919a873cef7ce2c034d1001f959
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/78/781c9740495f8d8566267000771da3a7
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/78/781c9740495f8d8566267000771da3a7
-    projectPath: Library/Artifacts/78/781c9740495f8d8566267000771da3a7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/78/788bd54aa4524fb4e657b90915374156
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/78/788bd54aa4524fb4e657b90915374156
-    projectPath: Library/Artifacts/78/788bd54aa4524fb4e657b90915374156
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/79/795a7921e363d3cf6bbfcf8797956129
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/79/795a7921e363d3cf6bbfcf8797956129
-    projectPath: Library/Artifacts/79/795a7921e363d3cf6bbfcf8797956129
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/79/79f8447a3054c8b67b4751d0dc472d6a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/79/79f8447a3054c8b67b4751d0dc472d6a
-    projectPath: Library/Artifacts/79/79f8447a3054c8b67b4751d0dc472d6a
+  - path: Library/Artifacts/9e/9e485777dbe05edf707444ba8b2960bf
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/9e/9e485777dbe05edf707444ba8b2960bf
+    projectPath: Library/Artifacts/9e/9e485777dbe05edf707444ba8b2960bf
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library/Artifacts/7b/7b1ebb51ed4bd6f1ce1a9aa89ef2ea1a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/7b/7b1ebb51ed4bd6f1ce1a9aa89ef2ea1a
-    projectPath: Library/Artifacts/7b/7b1ebb51ed4bd6f1ce1a9aa89ef2ea1a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7c/7c7d8d061cf00dd6f0197c97a54ce8c3
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/7c/7c7d8d061cf00dd6f0197c97a54ce8c3
-    projectPath: Library/Artifacts/7c/7c7d8d061cf00dd6f0197c97a54ce8c3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7c/7cbcf4d898173c7a1c56a8f86b115fb5
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/7c/7cbcf4d898173c7a1c56a8f86b115fb5
-    projectPath: Library/Artifacts/7c/7cbcf4d898173c7a1c56a8f86b115fb5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7d/7d1dc5d673854c90043d88fdf1edd2d0
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/7d/7d1dc5d673854c90043d88fdf1edd2d0
-    projectPath: Library/Artifacts/7d/7d1dc5d673854c90043d88fdf1edd2d0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7d/7d9af5956feefc1e57586f154b100e1c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/7d/7d9af5956feefc1e57586f154b100e1c
-    projectPath: Library/Artifacts/7d/7d9af5956feefc1e57586f154b100e1c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7e/7e141fd025f7d3cb1cb5680989f4ac7e
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/7e/7e141fd025f7d3cb1cb5680989f4ac7e
-    projectPath: Library/Artifacts/7e/7e141fd025f7d3cb1cb5680989f4ac7e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7e/7eebe6bbe9e80091723f257f8b0f15d8
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/7e/7eebe6bbe9e80091723f257f8b0f15d8
-    projectPath: Library/Artifacts/7e/7eebe6bbe9e80091723f257f8b0f15d8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7f/7f15a95f77ed60f405a45b85d6c9b2fd
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/7f/7f15a95f77ed60f405a45b85d6c9b2fd
-    projectPath: Library/Artifacts/7f/7f15a95f77ed60f405a45b85d6c9b2fd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7f/7fd5638b85a7cb47317eede82d464b36
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/7f/7fd5638b85a7cb47317eede82d464b36
-    projectPath: Library/Artifacts/7f/7fd5638b85a7cb47317eede82d464b36
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7f/7fe80418a7b0706a286f87a6954ff752
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/7f/7fe80418a7b0706a286f87a6954ff752
-    projectPath: Library/Artifacts/7f/7fe80418a7b0706a286f87a6954ff752
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7f/7feb66c1521b57ad7aa684c0b7559a14
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/7f/7feb66c1521b57ad7aa684c0b7559a14
-    projectPath: Library/Artifacts/7f/7feb66c1521b57ad7aa684c0b7559a14
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/80/80c45ff23109a3e927308b278cb91ff3
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/80/80c45ff23109a3e927308b278cb91ff3
-    projectPath: Library/Artifacts/80/80c45ff23109a3e927308b278cb91ff3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/81/8155e86bde6d76e1c746486cbed293c2
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/81/8155e86bde6d76e1c746486cbed293c2
-    projectPath: Library/Artifacts/81/8155e86bde6d76e1c746486cbed293c2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/81/81af3521cd24696ebe82a8c16df21469
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/81/81af3521cd24696ebe82a8c16df21469
-    projectPath: Library/Artifacts/81/81af3521cd24696ebe82a8c16df21469
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/81/81d56171392f056e69995b563f0cb30a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/81/81d56171392f056e69995b563f0cb30a
-    projectPath: Library/Artifacts/81/81d56171392f056e69995b563f0cb30a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/81/81e75c6614a700658e500e1c5bb38a8d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/81/81e75c6614a700658e500e1c5bb38a8d
-    projectPath: Library/Artifacts/81/81e75c6614a700658e500e1c5bb38a8d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/82/828765a9d7f21f84ad38739e39aafae8
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/82/828765a9d7f21f84ad38739e39aafae8
-    projectPath: Library/Artifacts/82/828765a9d7f21f84ad38739e39aafae8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/82/82d05694478c30d381098e6e7e02da34
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/82/82d05694478c30d381098e6e7e02da34
-    projectPath: Library/Artifacts/82/82d05694478c30d381098e6e7e02da34
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/82/82dd8cbeaa6dcd7935f912ba2feb198c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/82/82dd8cbeaa6dcd7935f912ba2feb198c
-    projectPath: Library/Artifacts/82/82dd8cbeaa6dcd7935f912ba2feb198c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/84/84c11d4e49d0999f24495dceda43b3b8
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/84/84c11d4e49d0999f24495dceda43b3b8
-    projectPath: Library/Artifacts/84/84c11d4e49d0999f24495dceda43b3b8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/85/8534a48cd467b1f2a473c38bbc67cc66
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/85/8534a48cd467b1f2a473c38bbc67cc66
-    projectPath: Library/Artifacts/85/8534a48cd467b1f2a473c38bbc67cc66
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/87/874d0bf65fe9a201b24225f0be13a747
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/87/874d0bf65fe9a201b24225f0be13a747
-    projectPath: Library/Artifacts/87/874d0bf65fe9a201b24225f0be13a747
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/87/8780605b4d1034b754d8a2e2ff9909fe
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/87/8780605b4d1034b754d8a2e2ff9909fe
-    projectPath: Library/Artifacts/87/8780605b4d1034b754d8a2e2ff9909fe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/87/87e2686a1663a5b1ef2b655de8b650a5
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/87/87e2686a1663a5b1ef2b655de8b650a5
-    projectPath: Library/Artifacts/87/87e2686a1663a5b1ef2b655de8b650a5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/88/8801dbd45c4fcc4f2b8061448bceff61
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/88/8801dbd45c4fcc4f2b8061448bceff61
-    projectPath: Library/Artifacts/88/8801dbd45c4fcc4f2b8061448bceff61
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/88/887d1928ee9911b2d2d6ada322f8e248
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/88/887d1928ee9911b2d2d6ada322f8e248
-    projectPath: Library/Artifacts/88/887d1928ee9911b2d2d6ada322f8e248
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/89/897b8501f530b5c6738fa8b9e0b9bdd3
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/89/897b8501f530b5c6738fa8b9e0b9bdd3
-    projectPath: Library/Artifacts/89/897b8501f530b5c6738fa8b9e0b9bdd3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/89/89ca7a07e60c4e66dd4dbd868464f587
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/89/89ca7a07e60c4e66dd4dbd868464f587
-    projectPath: Library/Artifacts/89/89ca7a07e60c4e66dd4dbd868464f587
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/8a/8a0ed28603e894907fb16ce1cae82033
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/8a/8a0ed28603e894907fb16ce1cae82033
-    projectPath: Library/Artifacts/8a/8a0ed28603e894907fb16ce1cae82033
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/8a/8a251214b0361fffd71a5aa2cb2bb78c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/8a/8a251214b0361fffd71a5aa2cb2bb78c
-    projectPath: Library/Artifacts/8a/8a251214b0361fffd71a5aa2cb2bb78c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/8a/8a33c30779d479b7123e34eaa9b7e66a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/8a/8a33c30779d479b7123e34eaa9b7e66a
-    projectPath: Library/Artifacts/8a/8a33c30779d479b7123e34eaa9b7e66a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/8a/8a3a228971b322c45d50e3fbafbb780a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/8a/8a3a228971b322c45d50e3fbafbb780a
-    projectPath: Library/Artifacts/8a/8a3a228971b322c45d50e3fbafbb780a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/8b/8ba76a501f279e31deb8f4b86fa084a9
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/8b/8ba76a501f279e31deb8f4b86fa084a9
-    projectPath: Library/Artifacts/8b/8ba76a501f279e31deb8f4b86fa084a9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/8e/8ed2ec4e2bc474b1932fb814e8807ad2
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/8e/8ed2ec4e2bc474b1932fb814e8807ad2
-    projectPath: Library/Artifacts/8e/8ed2ec4e2bc474b1932fb814e8807ad2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/8e/8ee39fa08c866981fc40b463991676a8
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/8e/8ee39fa08c866981fc40b463991676a8
-    projectPath: Library/Artifacts/8e/8ee39fa08c866981fc40b463991676a8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/8f/8f4aaf3ad93888d53dc7c85d65fbc70c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/8f/8f4aaf3ad93888d53dc7c85d65fbc70c
-    projectPath: Library/Artifacts/8f/8f4aaf3ad93888d53dc7c85d65fbc70c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/8f/8ff3c3b230f620242a449c393019e72a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/8f/8ff3c3b230f620242a449c393019e72a
-    projectPath: Library/Artifacts/8f/8ff3c3b230f620242a449c393019e72a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/91/9117b8f5abaa68dac8de4c1342654d3a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/91/9117b8f5abaa68dac8de4c1342654d3a
-    projectPath: Library/Artifacts/91/9117b8f5abaa68dac8de4c1342654d3a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/92/92600fb7a42c1c3923eda7d6de6f7f56
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/92/92600fb7a42c1c3923eda7d6de6f7f56
-    projectPath: Library/Artifacts/92/92600fb7a42c1c3923eda7d6de6f7f56
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/92/92aaf49e0f3562adf6e31ff5c85d06c5
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/92/92aaf49e0f3562adf6e31ff5c85d06c5
-    projectPath: Library/Artifacts/92/92aaf49e0f3562adf6e31ff5c85d06c5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/93/9326c8f71bc846a03126d997cd39f3dd
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/93/9326c8f71bc846a03126d997cd39f3dd
-    projectPath: Library/Artifacts/93/9326c8f71bc846a03126d997cd39f3dd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/93/93368856e0f5fd7c79859b15f80a03b9
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/93/93368856e0f5fd7c79859b15f80a03b9
-    projectPath: Library/Artifacts/93/93368856e0f5fd7c79859b15f80a03b9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/93/93cd8f71e9301b2e1607ea577c0c68f9
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/93/93cd8f71e9301b2e1607ea577c0c68f9
-    projectPath: Library/Artifacts/93/93cd8f71e9301b2e1607ea577c0c68f9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/93/93f681adfc0a5c98e590a26a35a9f095
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/93/93f681adfc0a5c98e590a26a35a9f095
-    projectPath: Library/Artifacts/93/93f681adfc0a5c98e590a26a35a9f095
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/94/9477ede5ff32b84bf49d0cb1b3201be7
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/94/9477ede5ff32b84bf49d0cb1b3201be7
-    projectPath: Library/Artifacts/94/9477ede5ff32b84bf49d0cb1b3201be7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/94/949842d35ec983f3a86abbc0260a8cf8
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/94/949842d35ec983f3a86abbc0260a8cf8
-    projectPath: Library/Artifacts/94/949842d35ec983f3a86abbc0260a8cf8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/94/94ababdc315e824c3873830adea2e78b
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/94/94ababdc315e824c3873830adea2e78b
-    projectPath: Library/Artifacts/94/94ababdc315e824c3873830adea2e78b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/94/94d943e52350523d94f52fc9503ba0b4
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/94/94d943e52350523d94f52fc9503ba0b4
-    projectPath: Library/Artifacts/94/94d943e52350523d94f52fc9503ba0b4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/94/94eda93ed831410587ff5fcda804386c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/94/94eda93ed831410587ff5fcda804386c
-    projectPath: Library/Artifacts/94/94eda93ed831410587ff5fcda804386c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/95/95dc96b1005c6d579c6270011794f4f9
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/95/95dc96b1005c6d579c6270011794f4f9
-    projectPath: Library/Artifacts/95/95dc96b1005c6d579c6270011794f4f9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/95/95e3cd3d9f31208b6c74908262096faf
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/95/95e3cd3d9f31208b6c74908262096faf
-    projectPath: Library/Artifacts/95/95e3cd3d9f31208b6c74908262096faf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/97/97351d1245f22efdd837983d647934a4
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/97/97351d1245f22efdd837983d647934a4
-    projectPath: Library/Artifacts/97/97351d1245f22efdd837983d647934a4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/97/973f7362196e434539fde6ac341d1f58
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/97/973f7362196e434539fde6ac341d1f58
-    projectPath: Library/Artifacts/97/973f7362196e434539fde6ac341d1f58
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/97/9758a9355d5344ab67dd346bfa0dbeff
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/97/9758a9355d5344ab67dd346bfa0dbeff
-    projectPath: Library/Artifacts/97/9758a9355d5344ab67dd346bfa0dbeff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/97/9766a2c395ca8b10289e95d8e63519d9
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/97/9766a2c395ca8b10289e95d8e63519d9
-    projectPath: Library/Artifacts/97/9766a2c395ca8b10289e95d8e63519d9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/97/9784981b177203586cc5c2e3ddf378f7
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/97/9784981b177203586cc5c2e3ddf378f7
-    projectPath: Library/Artifacts/97/9784981b177203586cc5c2e3ddf378f7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/99/99ba4f2be7259fd34264cb8d18b6c17d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/99/99ba4f2be7259fd34264cb8d18b6c17d
-    projectPath: Library/Artifacts/99/99ba4f2be7259fd34264cb8d18b6c17d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/99/99fa8d6166d2a43c1967ec20ddf2a2ad
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/99/99fa8d6166d2a43c1967ec20ddf2a2ad
-    projectPath: Library/Artifacts/99/99fa8d6166d2a43c1967ec20ddf2a2ad
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/9a/9a22bd2d239b6da2df0eb60b3764f3af
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/9a/9a22bd2d239b6da2df0eb60b3764f3af
-    projectPath: Library/Artifacts/9a/9a22bd2d239b6da2df0eb60b3764f3af
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/9a/9a3c865afb9a08474cd71b28e2443da2
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/9a/9a3c865afb9a08474cd71b28e2443da2
-    projectPath: Library/Artifacts/9a/9a3c865afb9a08474cd71b28e2443da2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/9c/9c062cebc8cba18f64f144d615c41354
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/9c/9c062cebc8cba18f64f144d615c41354
-    projectPath: Library/Artifacts/9c/9c062cebc8cba18f64f144d615c41354
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/9c/9caaa9d579d2d863fec1dbf677b53189
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/9c/9caaa9d579d2d863fec1dbf677b53189
-    projectPath: Library/Artifacts/9c/9caaa9d579d2d863fec1dbf677b53189
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/9c/9cfa834eb012f97d0fb857bf526e6ddd
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/9c/9cfa834eb012f97d0fb857bf526e6ddd
-    projectPath: Library/Artifacts/9c/9cfa834eb012f97d0fb857bf526e6ddd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/9e/9e6b45e67fcca759c47b1f7f004604e0
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/9e/9e6b45e67fcca759c47b1f7f004604e0
-    projectPath: Library/Artifacts/9e/9e6b45e67fcca759c47b1f7f004604e0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a0/a005a1ac5c4c227484ac1d754b35c7ad
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a0/a005a1ac5c4c227484ac1d754b35c7ad
-    projectPath: Library/Artifacts/a0/a005a1ac5c4c227484ac1d754b35c7ad
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/a0/a08a61a3c2df1cbc13791eb2ceae3b09
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a0/a08a61a3c2df1cbc13791eb2ceae3b09
-    projectPath: Library/Artifacts/a0/a08a61a3c2df1cbc13791eb2ceae3b09
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a0/a0b0c3fe3828ebf6120feb3dd09a2778
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a0/a0b0c3fe3828ebf6120feb3dd09a2778
-    projectPath: Library/Artifacts/a0/a0b0c3fe3828ebf6120feb3dd09a2778
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a1/a13bb4186710c8cfe00719b812cbdcd1
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a1/a13bb4186710c8cfe00719b812cbdcd1
-    projectPath: Library/Artifacts/a1/a13bb4186710c8cfe00719b812cbdcd1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a1/a14f8e187cc435b292fe405d7e0366ea
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a1/a14f8e187cc435b292fe405d7e0366ea
-    projectPath: Library/Artifacts/a1/a14f8e187cc435b292fe405d7e0366ea
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a2/a25a2ca3ed3a04c9289640c3aa8c8b68
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a2/a25a2ca3ed3a04c9289640c3aa8c8b68
-    projectPath: Library/Artifacts/a2/a25a2ca3ed3a04c9289640c3aa8c8b68
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a3/a34e274b7828403295473bed930479cc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a3/a34e274b7828403295473bed930479cc
-    projectPath: Library/Artifacts/a3/a34e274b7828403295473bed930479cc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a3/a35b2771d9599d3b4d6f87d33d0c3b1f
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a3/a35b2771d9599d3b4d6f87d33d0c3b1f
-    projectPath: Library/Artifacts/a3/a35b2771d9599d3b4d6f87d33d0c3b1f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a3/a3925ef01d7f0ec22b6e233b4240e4ed
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a3/a3925ef01d7f0ec22b6e233b4240e4ed
-    projectPath: Library/Artifacts/a3/a3925ef01d7f0ec22b6e233b4240e4ed
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a4/a450c633ae5d299ff292b34c82f290b3
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a4/a450c633ae5d299ff292b34c82f290b3
-    projectPath: Library/Artifacts/a4/a450c633ae5d299ff292b34c82f290b3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a4/a45f8425ac57f9a56339982ea239a0f7
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a4/a45f8425ac57f9a56339982ea239a0f7
-    projectPath: Library/Artifacts/a4/a45f8425ac57f9a56339982ea239a0f7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/a6/a6dcd35ab5fe8e674603f554099de951
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a6/a6dcd35ab5fe8e674603f554099de951
-    projectPath: Library/Artifacts/a6/a6dcd35ab5fe8e674603f554099de951
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a8/a809df16790e06400607f01d0e5e0a84
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a8/a809df16790e06400607f01d0e5e0a84
-    projectPath: Library/Artifacts/a8/a809df16790e06400607f01d0e5e0a84
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/a8/a82384c207ff6301a197926a1b415920
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a8/a82384c207ff6301a197926a1b415920
-    projectPath: Library/Artifacts/a8/a82384c207ff6301a197926a1b415920
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a8/a83438e4acb020e0da508e2b6cb30254
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a8/a83438e4acb020e0da508e2b6cb30254
-    projectPath: Library/Artifacts/a8/a83438e4acb020e0da508e2b6cb30254
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a9/a93588d9e2e87b4fe761962c19885f73
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a9/a93588d9e2e87b4fe761962c19885f73
-    projectPath: Library/Artifacts/a9/a93588d9e2e87b4fe761962c19885f73
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a9/a95b65dcaa7e9446b4c24e27a01870e5
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a9/a95b65dcaa7e9446b4c24e27a01870e5
-    projectPath: Library/Artifacts/a9/a95b65dcaa7e9446b4c24e27a01870e5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a9/a9d72a86d78ee197c9dfa3daa6446ec0
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a9/a9d72a86d78ee197c9dfa3daa6446ec0
-    projectPath: Library/Artifacts/a9/a9d72a86d78ee197c9dfa3daa6446ec0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a9/a9eb7688cccb7e5321455a294fdaeb5f
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a9/a9eb7688cccb7e5321455a294fdaeb5f
-    projectPath: Library/Artifacts/a9/a9eb7688cccb7e5321455a294fdaeb5f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/a9/a9f8814894b644b624e40a48a5e467ec
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a9/a9f8814894b644b624e40a48a5e467ec
-    projectPath: Library/Artifacts/a9/a9f8814894b644b624e40a48a5e467ec
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/aa/aa0ecf4227741ca772e63a037660f6d0
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/aa/aa0ecf4227741ca772e63a037660f6d0
-    projectPath: Library/Artifacts/aa/aa0ecf4227741ca772e63a037660f6d0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/aa/aaa51ba7d7d1cb86fcd753b10ef774c9
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/aa/aaa51ba7d7d1cb86fcd753b10ef774c9
-    projectPath: Library/Artifacts/aa/aaa51ba7d7d1cb86fcd753b10ef774c9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ab/ab2acaf5854a074868f5898737048bae
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ab/ab2acaf5854a074868f5898737048bae
-    projectPath: Library/Artifacts/ab/ab2acaf5854a074868f5898737048bae
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ab/ab5cfab191ecb222733d398c062d386d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ab/ab5cfab191ecb222733d398c062d386d
-    projectPath: Library/Artifacts/ab/ab5cfab191ecb222733d398c062d386d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ab/ab8b7e95b8607c112b3949365e8ebd03
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ab/ab8b7e95b8607c112b3949365e8ebd03
-    projectPath: Library/Artifacts/ab/ab8b7e95b8607c112b3949365e8ebd03
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/ab/abb3a90e79515a932567579b8c6066a4
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ab/abb3a90e79515a932567579b8c6066a4
-    projectPath: Library/Artifacts/ab/abb3a90e79515a932567579b8c6066a4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ad/ad9bc4ca3897f6703014f81bd5b7af4c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ad/ad9bc4ca3897f6703014f81bd5b7af4c
-    projectPath: Library/Artifacts/ad/ad9bc4ca3897f6703014f81bd5b7af4c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/ae/ae3f4cb34d1645ef18c736c8fa476069
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ae/ae3f4cb34d1645ef18c736c8fa476069
-    projectPath: Library/Artifacts/ae/ae3f4cb34d1645ef18c736c8fa476069
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ae/aebf82bdd5f55c72a5e7bae4b4ca1f06
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ae/aebf82bdd5f55c72a5e7bae4b4ca1f06
-    projectPath: Library/Artifacts/ae/aebf82bdd5f55c72a5e7bae4b4ca1f06
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ae/aed2616575829cf9acc51f50eacb4cea
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ae/aed2616575829cf9acc51f50eacb4cea
-    projectPath: Library/Artifacts/ae/aed2616575829cf9acc51f50eacb4cea
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/af/af7084c15cb98053832609f28fe3b25e
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/af/af7084c15cb98053832609f28fe3b25e
-    projectPath: Library/Artifacts/af/af7084c15cb98053832609f28fe3b25e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/af/afaa2175fe86f1802b80cad40d243da8
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/af/afaa2175fe86f1802b80cad40d243da8
-    projectPath: Library/Artifacts/af/afaa2175fe86f1802b80cad40d243da8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b0/b0766299c81e76a8e8fe840c70b989ef
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b0/b0766299c81e76a8e8fe840c70b989ef
-    projectPath: Library/Artifacts/b0/b0766299c81e76a8e8fe840c70b989ef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b1/b1226b8492bfd54e995dfe3b12349c42
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b1/b1226b8492bfd54e995dfe3b12349c42
-    projectPath: Library/Artifacts/b1/b1226b8492bfd54e995dfe3b12349c42
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b2/b28fc854951c0fd2b43118be643d8d1f
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b2/b28fc854951c0fd2b43118be643d8d1f
-    projectPath: Library/Artifacts/b2/b28fc854951c0fd2b43118be643d8d1f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/b2/b2b5d12709e9fd12287e7755d22fb2a7
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b2/b2b5d12709e9fd12287e7755d22fb2a7
-    projectPath: Library/Artifacts/b2/b2b5d12709e9fd12287e7755d22fb2a7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b3/b3cb268dcbbd97067a33f95590fe0e52
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b3/b3cb268dcbbd97067a33f95590fe0e52
-    projectPath: Library/Artifacts/b3/b3cb268dcbbd97067a33f95590fe0e52
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/b4/b4926b49a01c109ea98011b59c4305d5
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b4/b4926b49a01c109ea98011b59c4305d5
-    projectPath: Library/Artifacts/b4/b4926b49a01c109ea98011b59c4305d5
+  - path: Library/Artifacts/a7/a717ed0fe9467eb33bf8af394a371861
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/a7/a717ed0fe9467eb33bf8af394a371861
+    projectPath: Library/Artifacts/a7/a717ed0fe9467eb33bf8af394a371861
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2114,239 +263,17 @@ MonoBehaviour:
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b4/b49ee6e17086e4df5aa6fad7599608e7
     projectPath: Library/Artifacts/b4/b49ee6e17086e4df5aa6fad7599608e7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b5/b54f375404925cb3f5881f7f71bf21e9
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b5/b54f375404925cb3f5881f7f71bf21e9
-    projectPath: Library/Artifacts/b5/b54f375404925cb3f5881f7f71bf21e9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b5/b5b1bc29ee1cf7db3d0c7b5019ba84e7
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b5/b5b1bc29ee1cf7db3d0c7b5019ba84e7
-    projectPath: Library/Artifacts/b5/b5b1bc29ee1cf7db3d0c7b5019ba84e7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b5/b5c1043397b943413a3c81b6e6ba9621
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b5/b5c1043397b943413a3c81b6e6ba9621
-    projectPath: Library/Artifacts/b5/b5c1043397b943413a3c81b6e6ba9621
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b7/b71f562b7272ba26b0c522a02fed73f5
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b7/b71f562b7272ba26b0c522a02fed73f5
-    projectPath: Library/Artifacts/b7/b71f562b7272ba26b0c522a02fed73f5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b7/b768c4acaea77a974ae3f6af23961a68
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b7/b768c4acaea77a974ae3f6af23961a68
-    projectPath: Library/Artifacts/b7/b768c4acaea77a974ae3f6af23961a68
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b8/b8878afc66c947958e0691924dc009e9
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b8/b8878afc66c947958e0691924dc009e9
-    projectPath: Library/Artifacts/b8/b8878afc66c947958e0691924dc009e9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b9/b95f0234b18f7074e10d5b9697b8dca4
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b9/b95f0234b18f7074e10d5b9697b8dca4
-    projectPath: Library/Artifacts/b9/b95f0234b18f7074e10d5b9697b8dca4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b9/b9be042dcf59e94adaa0493a7c94a772
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b9/b9be042dcf59e94adaa0493a7c94a772
-    projectPath: Library/Artifacts/b9/b9be042dcf59e94adaa0493a7c94a772
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b9/b9cb8f12ab8519557c1b8e73d5bb5acc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/b9/b9cb8f12ab8519557c1b8e73d5bb5acc
-    projectPath: Library/Artifacts/b9/b9cb8f12ab8519557c1b8e73d5bb5acc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ba/ba2d907fdf0d52c19577f6de7cc6b4f0
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ba/ba2d907fdf0d52c19577f6de7cc6b4f0
-    projectPath: Library/Artifacts/ba/ba2d907fdf0d52c19577f6de7cc6b4f0
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library/Artifacts/ba/ba69504b344794ecb5c6af10374bf7c3
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ba/ba69504b344794ecb5c6af10374bf7c3
-    projectPath: Library/Artifacts/ba/ba69504b344794ecb5c6af10374bf7c3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/bb/bbc46f9c99ca9be94437c40b775ff8a2
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/bb/bbc46f9c99ca9be94437c40b775ff8a2
-    projectPath: Library/Artifacts/bb/bbc46f9c99ca9be94437c40b775ff8a2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/bc/bc8d61799ab866af921947df8b149228
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/bc/bc8d61799ab866af921947df8b149228
-    projectPath: Library/Artifacts/bc/bc8d61799ab866af921947df8b149228
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/bc/bcb4bc7fda0029fd770a53b8a7450c6b
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/bc/bcb4bc7fda0029fd770a53b8a7450c6b
-    projectPath: Library/Artifacts/bc/bcb4bc7fda0029fd770a53b8a7450c6b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library/Artifacts/bc/bcfc44e61fe256097f5224fe7d9fb56f
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/bc/bcfc44e61fe256097f5224fe7d9fb56f
     projectPath: Library/Artifacts/bc/bcfc44e61fe256097f5224fe7d9fb56f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/bd/bd157869c13d258a989730622973d448
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/bd/bd157869c13d258a989730622973d448
-    projectPath: Library/Artifacts/bd/bd157869c13d258a989730622973d448
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/bd/bd87ce1f4d48ccbd9b51e5df60200a2e
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/bd/bd87ce1f4d48ccbd9b51e5df60200a2e
-    projectPath: Library/Artifacts/bd/bd87ce1f4d48ccbd9b51e5df60200a2e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/be/be3ef01b4c061ac405276e5056b443ac
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/be/be3ef01b4c061ac405276e5056b443ac
-    projectPath: Library/Artifacts/be/be3ef01b4c061ac405276e5056b443ac
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/be/be41f115099f5c855793167a44860c87
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/be/be41f115099f5c855793167a44860c87
-    projectPath: Library/Artifacts/be/be41f115099f5c855793167a44860c87
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/be/be509493714498b8d05cc5534fbf3cf6
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/be/be509493714498b8d05cc5534fbf3cf6
-    projectPath: Library/Artifacts/be/be509493714498b8d05cc5534fbf3cf6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/be/be80fca4cc728b9009fec137b200aaa9
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/be/be80fca4cc728b9009fec137b200aaa9
-    projectPath: Library/Artifacts/be/be80fca4cc728b9009fec137b200aaa9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/be/be9697c9446f90f14f518b2036c1fb69
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/be/be9697c9446f90f14f518b2036c1fb69
-    projectPath: Library/Artifacts/be/be9697c9446f90f14f518b2036c1fb69
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/be/beb612bf8a44aefa9b87de9b19cbcb04
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/be/beb612bf8a44aefa9b87de9b19cbcb04
-    projectPath: Library/Artifacts/be/beb612bf8a44aefa9b87de9b19cbcb04
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/bf/bfd260479d6aec057d3fda29cf514d88
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/bf/bfd260479d6aec057d3fda29cf514d88
-    projectPath: Library/Artifacts/bf/bfd260479d6aec057d3fda29cf514d88
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c0/c06c1937f99b35657ba144e4a4ca015e
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c0/c06c1937f99b35657ba144e4a4ca015e
-    projectPath: Library/Artifacts/c0/c06c1937f99b35657ba144e4a4ca015e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c0/c079e79884e03f26b6f107b691c66aaf
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c0/c079e79884e03f26b6f107b691c66aaf
-    projectPath: Library/Artifacts/c0/c079e79884e03f26b6f107b691c66aaf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c2/c25fa57a9a1245bd904611a94ab5faed
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c2/c25fa57a9a1245bd904611a94ab5faed
-    projectPath: Library/Artifacts/c2/c25fa57a9a1245bd904611a94ab5faed
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c2/c2ec7fc8f5182c37b983de6680995b0b
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c2/c2ec7fc8f5182c37b983de6680995b0b
-    projectPath: Library/Artifacts/c2/c2ec7fc8f5182c37b983de6680995b0b
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library/Artifacts/c2/c2fe7589def9738a6cf7caa9f48c930d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c2/c2fe7589def9738a6cf7caa9f48c930d
-    projectPath: Library/Artifacts/c2/c2fe7589def9738a6cf7caa9f48c930d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c3/c347666f7e4b9519335505eb8d4d9a6d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c3/c347666f7e4b9519335505eb8d4d9a6d
-    projectPath: Library/Artifacts/c3/c347666f7e4b9519335505eb8d4d9a6d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/c3/c39fb773536ec8c3ce91d4fae533a72a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c3/c39fb773536ec8c3ce91d4fae533a72a
-    projectPath: Library/Artifacts/c3/c39fb773536ec8c3ce91d4fae533a72a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c4/c45b03c6a2837a06f322d851091d0be0
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c4/c45b03c6a2837a06f322d851091d0be0
-    projectPath: Library/Artifacts/c4/c45b03c6a2837a06f322d851091d0be0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c4/c473c62d3221dd2e12c36e17b508a466
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c4/c473c62d3221dd2e12c36e17b508a466
-    projectPath: Library/Artifacts/c4/c473c62d3221dd2e12c36e17b508a466
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c4/c480bac4942f4cc5e4443af86ecce345
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c4/c480bac4942f4cc5e4443af86ecce345
-    projectPath: Library/Artifacts/c4/c480bac4942f4cc5e4443af86ecce345
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/c5/c539e1f5d587f50408302b1b19c822f4
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c5/c539e1f5d587f50408302b1b19c822f4
-    projectPath: Library/Artifacts/c5/c539e1f5d587f50408302b1b19c822f4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c6/c66e6fc55452b9b23298654eaae1570d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c6/c66e6fc55452b9b23298654eaae1570d
-    projectPath: Library/Artifacts/c6/c66e6fc55452b9b23298654eaae1570d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c6/c67c546fb2f3451ddb6d5e4c93e88d03
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c6/c67c546fb2f3451ddb6d5e4c93e88d03
-    projectPath: Library/Artifacts/c6/c67c546fb2f3451ddb6d5e4c93e88d03
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/c6/c6a93fa77b36919330505790ccb34038
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c6/c6a93fa77b36919330505790ccb34038
-    projectPath: Library/Artifacts/c6/c6a93fa77b36919330505790ccb34038
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c6/c6b55a0d88485e8af4326fe7902e776c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c6/c6b55a0d88485e8af4326fe7902e776c
-    projectPath: Library/Artifacts/c6/c6b55a0d88485e8af4326fe7902e776c
+  - path: Library/Artifacts/bd/bd1b11d525e33abb22e6d8b5bb05ec4d
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/bd/bd1b11d525e33abb22e6d8b5bb05ec4d
+    projectPath: Library/Artifacts/bd/bd1b11d525e33abb22e6d8b5bb05ec4d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2354,383 +281,41 @@ MonoBehaviour:
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c7/c7bc075ae0f21ba2e6f84f7c6643e38a
     projectPath: Library/Artifacts/c7/c7bc075ae0f21ba2e6f84f7c6643e38a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c7/c7d21543ce7a90059a5684d97f3f5e0a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c7/c7d21543ce7a90059a5684d97f3f5e0a
-    projectPath: Library/Artifacts/c7/c7d21543ce7a90059a5684d97f3f5e0a
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c9/c9554071db416172a1511c638d9c6583
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c9/c9554071db416172a1511c638d9c6583
+    projectPath: Library/Artifacts/c9/c9554071db416172a1511c638d9c6583
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c7/c7ff8f2e4b76f5660cbc430b9425c593
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c7/c7ff8f2e4b76f5660cbc430b9425c593
-    projectPath: Library/Artifacts/c7/c7ff8f2e4b76f5660cbc430b9425c593
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c8/c856352392cb2a89757ef0ce1bf26220
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c8/c856352392cb2a89757ef0ce1bf26220
-    projectPath: Library/Artifacts/c8/c856352392cb2a89757ef0ce1bf26220
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c8/c8e006bcf91bc95ed6c7ac77b6b5f5fc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/c8/c8e006bcf91bc95ed6c7ac77b6b5f5fc
-    projectPath: Library/Artifacts/c8/c8e006bcf91bc95ed6c7ac77b6b5f5fc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/cd/cdeeb8d1864889cceda1b79e1681004e
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/cd/cdeeb8d1864889cceda1b79e1681004e
     projectPath: Library/Artifacts/cd/cdeeb8d1864889cceda1b79e1681004e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/cd/cdf23510a341c860eae6b1a69a791612
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/cd/cdf23510a341c860eae6b1a69a791612
-    projectPath: Library/Artifacts/cd/cdf23510a341c860eae6b1a69a791612
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/df/df0f2639a6209396f3ec3d8bb9f4a80d
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/df/df0f2639a6209396f3ec3d8bb9f4a80d
+    projectPath: Library/Artifacts/df/df0f2639a6209396f3ec3d8bb9f4a80d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/ce/ce4c0a9688c9cbfc0c1b9ddccc0c848e
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ce/ce4c0a9688c9cbfc0c1b9ddccc0c848e
-    projectPath: Library/Artifacts/ce/ce4c0a9688c9cbfc0c1b9ddccc0c848e
+  - path: Library/Artifacts/e5/e58ab36066190a9011a6c116204c82a2
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e5/e58ab36066190a9011a6c116204c82a2
+    projectPath: Library/Artifacts/e5/e58ab36066190a9011a6c116204c82a2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/cf/cfc08d93995387665762c9fc12dada03
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/cf/cfc08d93995387665762c9fc12dada03
-    projectPath: Library/Artifacts/cf/cfc08d93995387665762c9fc12dada03
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d0/d0334b14591de2437a0a503c78a3eb7f
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d0/d0334b14591de2437a0a503c78a3eb7f
-    projectPath: Library/Artifacts/d0/d0334b14591de2437a0a503c78a3eb7f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d0/d07334d146649ea423cf448f29d4e8bd
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d0/d07334d146649ea423cf448f29d4e8bd
-    projectPath: Library/Artifacts/d0/d07334d146649ea423cf448f29d4e8bd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d1/d1d0be992b0abd305bd7556fe29e5a20
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d1/d1d0be992b0abd305bd7556fe29e5a20
-    projectPath: Library/Artifacts/d1/d1d0be992b0abd305bd7556fe29e5a20
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d3/d36231fa498f09b098c77776c0f1a5da
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d3/d36231fa498f09b098c77776c0f1a5da
-    projectPath: Library/Artifacts/d3/d36231fa498f09b098c77776c0f1a5da
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d3/d39e3e67d8a711b86001037103322373
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d3/d39e3e67d8a711b86001037103322373
-    projectPath: Library/Artifacts/d3/d39e3e67d8a711b86001037103322373
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d3/d3f2163ceed490dd154126c052a54439
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d3/d3f2163ceed490dd154126c052a54439
-    projectPath: Library/Artifacts/d3/d3f2163ceed490dd154126c052a54439
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d5/d504e8422599bb6830af8e154851a152
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d5/d504e8422599bb6830af8e154851a152
-    projectPath: Library/Artifacts/d5/d504e8422599bb6830af8e154851a152
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d6/d626781dc043fc3efe0897d8f49b8683
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d6/d626781dc043fc3efe0897d8f49b8683
-    projectPath: Library/Artifacts/d6/d626781dc043fc3efe0897d8f49b8683
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d6/d684cad775662bb50d5fd53876364d7e
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d6/d684cad775662bb50d5fd53876364d7e
-    projectPath: Library/Artifacts/d6/d684cad775662bb50d5fd53876364d7e
+  - path: Library/Artifacts/f1/f1257bb5cc01ed8cf7b1fd300b052c46
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/f1/f1257bb5cc01ed8cf7b1fd300b052c46
+    projectPath: Library/Artifacts/f1/f1257bb5cc01ed8cf7b1fd300b052c46
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library/Artifacts/d6/d6986d58629c9609d27a16d691906e91
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d6/d6986d58629c9609d27a16d691906e91
-    projectPath: Library/Artifacts/d6/d6986d58629c9609d27a16d691906e91
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/d6/d6dd531115be211d6a1f7513ff46f38b
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d6/d6dd531115be211d6a1f7513ff46f38b
-    projectPath: Library/Artifacts/d6/d6dd531115be211d6a1f7513ff46f38b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d8/d810cdcba3dd726abfd3c918c5fcf6b5
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d8/d810cdcba3dd726abfd3c918c5fcf6b5
-    projectPath: Library/Artifacts/d8/d810cdcba3dd726abfd3c918c5fcf6b5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d8/d87f22527bfbdd091b0cd59c082ef6e9
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d8/d87f22527bfbdd091b0cd59c082ef6e9
-    projectPath: Library/Artifacts/d8/d87f22527bfbdd091b0cd59c082ef6e9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d9/d9b0e6d07e6bbd80338b8011b6bbeb0b
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d9/d9b0e6d07e6bbd80338b8011b6bbeb0b
-    projectPath: Library/Artifacts/d9/d9b0e6d07e6bbd80338b8011b6bbeb0b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d9/d9bfaf519c0df5c5c46e958a8b39a840
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/d9/d9bfaf519c0df5c5c46e958a8b39a840
-    projectPath: Library/Artifacts/d9/d9bfaf519c0df5c5c46e958a8b39a840
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/db/db512dfdd6ca4bff606a32a73489adbc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/db/db512dfdd6ca4bff606a32a73489adbc
-    projectPath: Library/Artifacts/db/db512dfdd6ca4bff606a32a73489adbc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/db/db97cfbe6a28fec488993ea2a2810c6e
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/db/db97cfbe6a28fec488993ea2a2810c6e
-    projectPath: Library/Artifacts/db/db97cfbe6a28fec488993ea2a2810c6e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/db/dbb825580196dbb30438c3427007a669
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/db/dbb825580196dbb30438c3427007a669
-    projectPath: Library/Artifacts/db/dbb825580196dbb30438c3427007a669
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/dc/dc2e2c044b6d818804d7f4a7aafa472d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/dc/dc2e2c044b6d818804d7f4a7aafa472d
-    projectPath: Library/Artifacts/dc/dc2e2c044b6d818804d7f4a7aafa472d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/dd/dd83e8fbba055afaab2010ade7714772
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/dd/dd83e8fbba055afaab2010ade7714772
-    projectPath: Library/Artifacts/dd/dd83e8fbba055afaab2010ade7714772
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/dd/dd8843fdd6158a59fd121a3859d16b70
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/dd/dd8843fdd6158a59fd121a3859d16b70
-    projectPath: Library/Artifacts/dd/dd8843fdd6158a59fd121a3859d16b70
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/de/de943a92ef02b27482d921380afcec6e
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/de/de943a92ef02b27482d921380afcec6e
-    projectPath: Library/Artifacts/de/de943a92ef02b27482d921380afcec6e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/de/dec806a611f0d683b893a8ae8d17ed4b
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/de/dec806a611f0d683b893a8ae8d17ed4b
-    projectPath: Library/Artifacts/de/dec806a611f0d683b893a8ae8d17ed4b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/de/defe1fee088ca9a0789a54e369169661
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/de/defe1fee088ca9a0789a54e369169661
-    projectPath: Library/Artifacts/de/defe1fee088ca9a0789a54e369169661
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e0/e07f522f7d5c80c1958e1daedd8b7732
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e0/e07f522f7d5c80c1958e1daedd8b7732
-    projectPath: Library/Artifacts/e0/e07f522f7d5c80c1958e1daedd8b7732
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e1/e13c0e224ae92adeaabcf232f59de21b
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e1/e13c0e224ae92adeaabcf232f59de21b
-    projectPath: Library/Artifacts/e1/e13c0e224ae92adeaabcf232f59de21b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e1/e14581492f016ebc30c5601c6f2d3573
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e1/e14581492f016ebc30c5601c6f2d3573
-    projectPath: Library/Artifacts/e1/e14581492f016ebc30c5601c6f2d3573
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e1/e1890833d8b21d47342f7c9ab238d5d0
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e1/e1890833d8b21d47342f7c9ab238d5d0
-    projectPath: Library/Artifacts/e1/e1890833d8b21d47342f7c9ab238d5d0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/e1/e1a7e014930e95c14c713f3bd19a3624
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e1/e1a7e014930e95c14c713f3bd19a3624
-    projectPath: Library/Artifacts/e1/e1a7e014930e95c14c713f3bd19a3624
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e1/e1e0d49fb120ea9702be24aa6fbfdec5
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e1/e1e0d49fb120ea9702be24aa6fbfdec5
-    projectPath: Library/Artifacts/e1/e1e0d49fb120ea9702be24aa6fbfdec5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e2/e21bb1c1c665ff178fca77960a8cf6a9
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e2/e21bb1c1c665ff178fca77960a8cf6a9
-    projectPath: Library/Artifacts/e2/e21bb1c1c665ff178fca77960a8cf6a9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e2/e29b16e09e32026996b43f33342c2951
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e2/e29b16e09e32026996b43f33342c2951
-    projectPath: Library/Artifacts/e2/e29b16e09e32026996b43f33342c2951
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e2/e2b72d3dba7f414308cb016ea1f083d5
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e2/e2b72d3dba7f414308cb016ea1f083d5
-    projectPath: Library/Artifacts/e2/e2b72d3dba7f414308cb016ea1f083d5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e4/e4780b43d9cf35ed10a16c516a9f0314
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e4/e4780b43d9cf35ed10a16c516a9f0314
-    projectPath: Library/Artifacts/e4/e4780b43d9cf35ed10a16c516a9f0314
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e5/e513bfa24db269bee16bc97cb65bf255
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e5/e513bfa24db269bee16bc97cb65bf255
-    projectPath: Library/Artifacts/e5/e513bfa24db269bee16bc97cb65bf255
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e5/e5aa9c5fd18f9b2005708cdcca819409
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e5/e5aa9c5fd18f9b2005708cdcca819409
-    projectPath: Library/Artifacts/e5/e5aa9c5fd18f9b2005708cdcca819409
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e6/e6184d4966cfe998729e7c65cd273ac7
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e6/e6184d4966cfe998729e7c65cd273ac7
-    projectPath: Library/Artifacts/e6/e6184d4966cfe998729e7c65cd273ac7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e6/e66c0ca378f3cdf8574c9f43a4b166c3
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e6/e66c0ca378f3cdf8574c9f43a4b166c3
-    projectPath: Library/Artifacts/e6/e66c0ca378f3cdf8574c9f43a4b166c3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e6/e68e2a5510b45a3a1ddfc55f0da857df
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e6/e68e2a5510b45a3a1ddfc55f0da857df
-    projectPath: Library/Artifacts/e6/e68e2a5510b45a3a1ddfc55f0da857df
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e7/e793152befaa5e703603076d76f01977
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e7/e793152befaa5e703603076d76f01977
-    projectPath: Library/Artifacts/e7/e793152befaa5e703603076d76f01977
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e7/e7cd9e42b32ff3c6b6ced5e143cb3aa0
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/e7/e7cd9e42b32ff3c6b6ced5e143cb3aa0
-    projectPath: Library/Artifacts/e7/e7cd9e42b32ff3c6b6ced5e143cb3aa0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/eb/eb758c117d8cdc9feea83c0b3bb2945c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/eb/eb758c117d8cdc9feea83c0b3bb2945c
-    projectPath: Library/Artifacts/eb/eb758c117d8cdc9feea83c0b3bb2945c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/eb/eb973043ce45e5dea58b8f1cbe313fe2
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/eb/eb973043ce45e5dea58b8f1cbe313fe2
-    projectPath: Library/Artifacts/eb/eb973043ce45e5dea58b8f1cbe313fe2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ec/ec37630e8c53a170f5901295efb3f544
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ec/ec37630e8c53a170f5901295efb3f544
-    projectPath: Library/Artifacts/ec/ec37630e8c53a170f5901295efb3f544
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ed/eda7ba5040358dc4cd1195a0c21a25fb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ed/eda7ba5040358dc4cd1195a0c21a25fb
-    projectPath: Library/Artifacts/ed/eda7ba5040358dc4cd1195a0c21a25fb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ee/ee5ae401213c48f8bcf03ad550962e54
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ee/ee5ae401213c48f8bcf03ad550962e54
-    projectPath: Library/Artifacts/ee/ee5ae401213c48f8bcf03ad550962e54
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ef/ef5911b00f36b909eabd73b3e3532e98
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ef/ef5911b00f36b909eabd73b3e3532e98
-    projectPath: Library/Artifacts/ef/ef5911b00f36b909eabd73b3e3532e98
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ef/ef5e0209953956b9a5292c8754602415
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ef/ef5e0209953956b9a5292c8754602415
-    projectPath: Library/Artifacts/ef/ef5e0209953956b9a5292c8754602415
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ef/ef87ff4d7bd86c06c6960a0999e642f2
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ef/ef87ff4d7bd86c06c6960a0999e642f2
-    projectPath: Library/Artifacts/ef/ef87ff4d7bd86c06c6960a0999e642f2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ef/ef910c11228a3ce23b2c4ea9196a2f59
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ef/ef910c11228a3ce23b2c4ea9196a2f59
-    projectPath: Library/Artifacts/ef/ef910c11228a3ce23b2c4ea9196a2f59
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ef/efaeba8afee8392fc911e34d8c1a86d6
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/ef/efaeba8afee8392fc911e34d8c1a86d6
-    projectPath: Library/Artifacts/ef/efaeba8afee8392fc911e34d8c1a86d6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/f1/f1d2a55de27aefad0a32b4a02b31f5e6
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/f1/f1d2a55de27aefad0a32b4a02b31f5e6
-    projectPath: Library/Artifacts/f1/f1d2a55de27aefad0a32b4a02b31f5e6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/f2/f2c65db457c4b508cf1819c4b14e8a0d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/f2/f2c65db457c4b508cf1819c4b14e8a0d
-    projectPath: Library/Artifacts/f2/f2c65db457c4b508cf1819c4b14e8a0d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/f3/f3c7e3027d97ddb1e072172e94785942
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/f3/f3c7e3027d97ddb1e072172e94785942
-    projectPath: Library/Artifacts/f3/f3c7e3027d97ddb1e072172e94785942
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/f4/f4a527a717238c328baf5b139c363534
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/f4/f4a527a717238c328baf5b139c363534
-    projectPath: Library/Artifacts/f4/f4a527a717238c328baf5b139c363534
+  - path: Library/Artifacts/f2/f2364f527334ad4c75c9ab2b0e9be111
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/f2/f2364f527334ad4c75c9ab2b0e9be111
+    projectPath: Library/Artifacts/f2/f2364f527334ad4c75c9ab2b0e9be111
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -2738,95 +323,11 @@ MonoBehaviour:
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/f4/f4cdb617464e60e553c4d3575fee2e8b
     projectPath: Library/Artifacts/f4/f4cdb617464e60e553c4d3575fee2e8b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/f5/f520b25c6697f35998ca4c2af40bc07b
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/f5/f520b25c6697f35998ca4c2af40bc07b
-    projectPath: Library/Artifacts/f5/f520b25c6697f35998ca4c2af40bc07b
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library/Artifacts/f5/f5d0730359adb0c2e8b4be1e69431d8f
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/f5/f5d0730359adb0c2e8b4be1e69431d8f
-    projectPath: Library/Artifacts/f5/f5d0730359adb0c2e8b4be1e69431d8f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/f6/f6b9fc1111872ffce2a7599b6b4a497a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/f6/f6b9fc1111872ffce2a7599b6b4a497a
-    projectPath: Library/Artifacts/f6/f6b9fc1111872ffce2a7599b6b4a497a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/f7/f7c4d05f119c72da8254319a4751ff72
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/f7/f7c4d05f119c72da8254319a4751ff72
-    projectPath: Library/Artifacts/f7/f7c4d05f119c72da8254319a4751ff72
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/f8/f83d025ca2404db9220b6b1592724685
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/f8/f83d025ca2404db9220b6b1592724685
-    projectPath: Library/Artifacts/f8/f83d025ca2404db9220b6b1592724685
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/f8/f8de98fa2379a7465ae7650c0b3cfb31
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/f8/f8de98fa2379a7465ae7650c0b3cfb31
-    projectPath: Library/Artifacts/f8/f8de98fa2379a7465ae7650c0b3cfb31
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/f9/f9ed77dae007150f89662d0b0f1ede4f
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/f9/f9ed77dae007150f89662d0b0f1ede4f
-    projectPath: Library/Artifacts/f9/f9ed77dae007150f89662d0b0f1ede4f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/fa/faeb74bf5d153af355ac1c4f4fc07932
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/fa/faeb74bf5d153af355ac1c4f4fc07932
-    projectPath: Library/Artifacts/fa/faeb74bf5d153af355ac1c4f4fc07932
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/fb/fb1c22d67162c449276a07b551abc7c5
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/fb/fb1c22d67162c449276a07b551abc7c5
-    projectPath: Library/Artifacts/fb/fb1c22d67162c449276a07b551abc7c5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/fb/fb7bbe2c0e2d44a59ade165a0d749a1f
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/fb/fb7bbe2c0e2d44a59ade165a0d749a1f
-    projectPath: Library/Artifacts/fb/fb7bbe2c0e2d44a59ade165a0d749a1f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/fd/fd6cd3ce1bb246bcdfa19c11aa8e1e28
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/fd/fd6cd3ce1bb246bcdfa19c11aa8e1e28
-    projectPath: Library/Artifacts/fd/fd6cd3ce1bb246bcdfa19c11aa8e1e28
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/fd/fd823277e90e06d24e41a759513d13e9
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/fd/fd823277e90e06d24e41a759513d13e9
-    projectPath: Library/Artifacts/fd/fd823277e90e06d24e41a759513d13e9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/fe/fe756efcd4aecfe3109ef791d1a51fc0
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/fe/fe756efcd4aecfe3109ef791d1a51fc0
-    projectPath: Library/Artifacts/fe/fe756efcd4aecfe3109ef791d1a51fc0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/fe/fed1f7e1424eeaa05bde1566908c647e
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/fe/fed1f7e1424eeaa05bde1566908c647e
-    projectPath: Library/Artifacts/fe/fed1f7e1424eeaa05bde1566908c647e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/fe/fef0123f25f4c2a6a7e8e9e25a683264
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/fe/fef0123f25f4c2a6a7e8e9e25a683264
-    projectPath: Library/Artifacts/fe/fef0123f25f4c2a6a7e8e9e25a683264
+  - path: Library/Artifacts/fe/fe14abda32702a0cd173f93a9b25de22
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/Artifacts/fe/fe14abda32702a0cd173f93a9b25de22
+    projectPath: Library/Artifacts/fe/fe14abda32702a0cd173f93a9b25de22
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2848,21 +349,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/CurrentMaximizeLayout.dwlt
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/CurrentMaximizeLayout.dwlt
-    projectPath: Library/CurrentMaximizeLayout.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library/EditorInstance.json
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/EditorInstance.json
     projectPath: Library/EditorInstance.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/EditorUserBuildSettings.asset
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/EditorUserBuildSettings.asset
-    projectPath: Library/EditorUserBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -2872,23 +361,10 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/gfu/cache/.gitlog 9.yaml.icloud
+  - path: Library/gfu/cache/.gitlog 10.yaml.icloud
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/.gitlog
-      9.yaml.icloud
-    projectPath: Library/gfu/cache/.gitlog 9.yaml.icloud
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/gfu/cache/.gitlog.yaml.icloud
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/.gitlog.yaml.icloud
-    projectPath: Library/gfu/cache/.gitlog.yaml.icloud
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/gfu/cache/.repoinfo 17.yaml.icloud
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/.repoinfo
-      17.yaml.icloud
-    projectPath: Library/gfu/cache/.repoinfo 17.yaml.icloud
+      10.yaml.icloud
+    projectPath: Library/gfu/cache/.gitlog 10.yaml.icloud
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2916,12 +392,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/gfu/cache/gituser.yaml
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/gituser.yaml
-    projectPath: Library/gfu/cache/gituser.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library/gfu/cache/repoinfo.yaml
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/gfu/cache/repoinfo.yaml
     projectPath: Library/gfu/cache/repoinfo.yaml
@@ -2931,12 +401,6 @@ MonoBehaviour:
   - path: Library/InspectorExpandedItems.asset
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/InspectorExpandedItems.asset
     projectPath: Library/InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/SceneVisibilityState.asset
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/SceneVisibilityState.asset
-    projectPath: Library/SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -2952,96 +416,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ShaderCache/0/01efaa375b662fd02e593fe8e6944253.bin
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/ShaderCache/0/01efaa375b662fd02e593fe8e6944253.bin
-    projectPath: Library/ShaderCache/0/01efaa375b662fd02e593fe8e6944253.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/2/2cf1b71f61a349bb1e4c0efca7cb93a4.bin
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/ShaderCache/2/2cf1b71f61a349bb1e4c0efca7cb93a4.bin
-    projectPath: Library/ShaderCache/2/2cf1b71f61a349bb1e4c0efca7cb93a4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/6/67694d18de101be793ad2562ea726161.bin
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/ShaderCache/6/67694d18de101be793ad2562ea726161.bin
-    projectPath: Library/ShaderCache/6/67694d18de101be793ad2562ea726161.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/6/67dbb76826fe00b67f370bffa49dcf83.bin
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/ShaderCache/6/67dbb76826fe00b67f370bffa49dcf83.bin
-    projectPath: Library/ShaderCache/6/67dbb76826fe00b67f370bffa49dcf83.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/7/7eeb2215f4fb97d1cfa424912fdda3fd.bin
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/ShaderCache/7/7eeb2215f4fb97d1cfa424912fdda3fd.bin
-    projectPath: Library/ShaderCache/7/7eeb2215f4fb97d1cfa424912fdda3fd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/8/8921b61584fac3d85758cb7cab87978b.bin
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/ShaderCache/8/8921b61584fac3d85758cb7cab87978b.bin
-    projectPath: Library/ShaderCache/8/8921b61584fac3d85758cb7cab87978b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/a/ab7d98e7307bb3bc40686ecc252d1fbe.bin
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/ShaderCache/a/ab7d98e7307bb3bc40686ecc252d1fbe.bin
-    projectPath: Library/ShaderCache/a/ab7d98e7307bb3bc40686ecc252d1fbe.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/d/d1755f57f26234dfcc76f0be0ae19ba0.bin
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/ShaderCache/d/d1755f57f26234dfcc76f0be0ae19ba0.bin
-    projectPath: Library/ShaderCache/d/d1755f57f26234dfcc76f0be0ae19ba0.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/EditorEncounteredVariants
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/ShaderCache/EditorEncounteredVariants
-    projectPath: Library/ShaderCache/EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler0.log
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/shadercompiler-UnityShaderCompiler0.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler1.log
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/shadercompiler-UnityShaderCompiler1.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler2.log
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/shadercompiler-UnityShaderCompiler2.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler3.log
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/shadercompiler-UnityShaderCompiler3.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library/SourceAssetDB
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
@@ -3054,75 +428,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
-    projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/StateCache/PrefabStageHierarchy/03/03b15ae9f8ca248616d127566881b4f6.json
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/StateCache/PrefabStageHierarchy/03/03b15ae9f8ca248616d127566881b4f6.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/03/03b15ae9f8ca248616d127566881b4f6.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/88/88d4502d90b42677824c7a467ba7c8b4.json
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/StateCache/PrefabStageHierarchy/88/88d4502d90b42677824c7a467ba7c8b4.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/88/88d4502d90b42677824c7a467ba7c8b4.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/a9/a9fc85859828b4c0eb09c4f44f2c9c40.json
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/StateCache/PrefabStageHierarchy/a9/a9fc85859828b4c0eb09c4f44f2c9c40.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/a9/a9fc85859828b4c0eb09c4f44f2c9c40.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/c9/c9243c1a1494a1c16048ecf9f2abc5b6.json
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/StateCache/PrefabStageHierarchy/c9/c9243c1a1494a1c16048ecf9f2abc5b6.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/c9/c9243c1a1494a1c16048ecf9f2abc5b6.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/37/37656eeae7b5a48299fa5175948ec6ef.json
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/StateCache/SceneView/37/37656eeae7b5a48299fa5175948ec6ef.json
-    projectPath: Library/StateCache/SceneView/37/37656eeae7b5a48299fa5175948ec6ef.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/3b/3b477c3be272c0a09629b99413a742ba.json
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/StateCache/SceneView/3b/3b477c3be272c0a09629b99413a742ba.json
-    projectPath: Library/StateCache/SceneView/3b/3b477c3be272c0a09629b99413a742ba.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/48/484b08f0ddc8e9482d29a3321523e4f8.json
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/StateCache/SceneView/48/484b08f0ddc8e9482d29a3321523e4f8.json
-    projectPath: Library/StateCache/SceneView/48/484b08f0ddc8e9482d29a3321523e4f8.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
     fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
     projectPath: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/StateCache/SceneView/e2/e282b054c943a0c4b2c3aca02c93987d.json
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Library/StateCache/SceneView/e2/e282b054c943a0c4b2c3aca02c93987d.json
-    projectPath: Library/StateCache/SceneView/e2/e282b054c943a0c4b2c3aca02c93987d.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    projectPath: obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -3144,398 +452,79 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings/Physics2DSettings 2.asset
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/ProjectSettings/Physics2DSettings
-      2.asset
-    projectPath: ProjectSettings/Physics2DSettings 2.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ProjectSettings/TagManager 2.asset
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/ProjectSettings/TagManager
-      2.asset
-    projectPath: ProjectSettings/TagManager 2.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/__Backupscenes/.0 2.backup.icloud
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/__Backupscenes/.0
-      2.backup.icloud
-    projectPath: Temp/__Backupscenes/.0 2.backup.icloud
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/__Backupscenes/0.backup
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/__Backupscenes/0.backup
-    projectPath: Temp/__Backupscenes/0.backup
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityLockfile 2
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityLockfile
-      2
-    projectPath: Temp/UnityLockfile 2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityLockfile 3
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityLockfile
-      3
-    projectPath: Temp/UnityLockfile 3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-05a496de455e74b32b705e7f7002cd8f
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-05a496de455e74b32b705e7f7002cd8f
-    projectPath: Temp/UnityTempFile-05a496de455e74b32b705e7f7002cd8f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-064e1bdeea4204e86ae60a13298c3a3f
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-064e1bdeea4204e86ae60a13298c3a3f
-    projectPath: Temp/UnityTempFile-064e1bdeea4204e86ae60a13298c3a3f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-0a3f76c1691fa498e93645c5026b6f34
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-0a3f76c1691fa498e93645c5026b6f34
-    projectPath: Temp/UnityTempFile-0a3f76c1691fa498e93645c5026b6f34
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-0e84d9663ae4546989e3e4f305af4330
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-0e84d9663ae4546989e3e4f305af4330
-    projectPath: Temp/UnityTempFile-0e84d9663ae4546989e3e4f305af4330
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-1125487a5f011495e9c83e9e4688307c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-1125487a5f011495e9c83e9e4688307c
-    projectPath: Temp/UnityTempFile-1125487a5f011495e9c83e9e4688307c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-116fbdc5128ab4db4ba241452edb1550
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-116fbdc5128ab4db4ba241452edb1550
-    projectPath: Temp/UnityTempFile-116fbdc5128ab4db4ba241452edb1550
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-1220a0645527e43abb2d41dab6264cb8
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-1220a0645527e43abb2d41dab6264cb8
-    projectPath: Temp/UnityTempFile-1220a0645527e43abb2d41dab6264cb8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-1363a096ae77d421fa3c30d69a1832df
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-1363a096ae77d421fa3c30d69a1832df
-    projectPath: Temp/UnityTempFile-1363a096ae77d421fa3c30d69a1832df
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-1d73cdf6b65ac412da4fa8e76d6ca082
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-1d73cdf6b65ac412da4fa8e76d6ca082
-    projectPath: Temp/UnityTempFile-1d73cdf6b65ac412da4fa8e76d6ca082
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-1e5aef75b769a4560ad20d56aa93d474
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-1e5aef75b769a4560ad20d56aa93d474
-    projectPath: Temp/UnityTempFile-1e5aef75b769a4560ad20d56aa93d474
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-23648064fedac438ea4cd6b05740de9d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-23648064fedac438ea4cd6b05740de9d
-    projectPath: Temp/UnityTempFile-23648064fedac438ea4cd6b05740de9d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-251bdf44d7a3b4f3f977206bb1df9b85
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-251bdf44d7a3b4f3f977206bb1df9b85
-    projectPath: Temp/UnityTempFile-251bdf44d7a3b4f3f977206bb1df9b85
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-2ae2a954e1c7849899c659228f4b0bf2
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-2ae2a954e1c7849899c659228f4b0bf2
-    projectPath: Temp/UnityTempFile-2ae2a954e1c7849899c659228f4b0bf2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-322705d6c4ef74be8b5c2d5c0e88e49b
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-322705d6c4ef74be8b5c2d5c0e88e49b
-    projectPath: Temp/UnityTempFile-322705d6c4ef74be8b5c2d5c0e88e49b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-329c6e0bf54714c87890fc399ad8329c
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-329c6e0bf54714c87890fc399ad8329c
-    projectPath: Temp/UnityTempFile-329c6e0bf54714c87890fc399ad8329c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-3305ce1f8ce524b4585b958ddf1d40fc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-3305ce1f8ce524b4585b958ddf1d40fc
-    projectPath: Temp/UnityTempFile-3305ce1f8ce524b4585b958ddf1d40fc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-35bc6c7abc15543b09d046784768f190
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-35bc6c7abc15543b09d046784768f190
-    projectPath: Temp/UnityTempFile-35bc6c7abc15543b09d046784768f190
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-421035e6ae47340fd9817ec7dfc64f80
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-421035e6ae47340fd9817ec7dfc64f80
-    projectPath: Temp/UnityTempFile-421035e6ae47340fd9817ec7dfc64f80
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-45ac3192fe11248c5bd5f8ae5487c9ee
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-45ac3192fe11248c5bd5f8ae5487c9ee
-    projectPath: Temp/UnityTempFile-45ac3192fe11248c5bd5f8ae5487c9ee
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-4b0f5eef35acd4f82a39c0ae4944af8d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-4b0f5eef35acd4f82a39c0ae4944af8d
-    projectPath: Temp/UnityTempFile-4b0f5eef35acd4f82a39c0ae4944af8d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-4e26f05d9048b4044993c1bcf19dcc21
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-4e26f05d9048b4044993c1bcf19dcc21
-    projectPath: Temp/UnityTempFile-4e26f05d9048b4044993c1bcf19dcc21
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-52cebaa9947d34a409dcb7f52920ddd3
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-52cebaa9947d34a409dcb7f52920ddd3
-    projectPath: Temp/UnityTempFile-52cebaa9947d34a409dcb7f52920ddd3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-5ab295a3994d2467fa4bbbcdf58b6d9d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-5ab295a3994d2467fa4bbbcdf58b6d9d
-    projectPath: Temp/UnityTempFile-5ab295a3994d2467fa4bbbcdf58b6d9d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-6098d270ff85a401b85cff82177420fc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-6098d270ff85a401b85cff82177420fc
-    projectPath: Temp/UnityTempFile-6098d270ff85a401b85cff82177420fc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-65c0838bfb9774511b81f24958a8ce40
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-65c0838bfb9774511b81f24958a8ce40
-    projectPath: Temp/UnityTempFile-65c0838bfb9774511b81f24958a8ce40
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-6622e7ab7b97d4937a2c9d935a875f09
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-6622e7ab7b97d4937a2c9d935a875f09
-    projectPath: Temp/UnityTempFile-6622e7ab7b97d4937a2c9d935a875f09
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-67a3569b6704c441c80c900f7990a3c5
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-67a3569b6704c441c80c900f7990a3c5
-    projectPath: Temp/UnityTempFile-67a3569b6704c441c80c900f7990a3c5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-6ad976710f2d249b8a802e1fc3249d2a
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-6ad976710f2d249b8a802e1fc3249d2a
-    projectPath: Temp/UnityTempFile-6ad976710f2d249b8a802e1fc3249d2a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-6d0768ea9d2a944bcb7367fe01668a5b
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-6d0768ea9d2a944bcb7367fe01668a5b
-    projectPath: Temp/UnityTempFile-6d0768ea9d2a944bcb7367fe01668a5b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-70758d956ed9e41e697fc3dd585ea03d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-70758d956ed9e41e697fc3dd585ea03d
-    projectPath: Temp/UnityTempFile-70758d956ed9e41e697fc3dd585ea03d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-7b22d19d52b374a50985cf2d08260de7
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-7b22d19d52b374a50985cf2d08260de7
-    projectPath: Temp/UnityTempFile-7b22d19d52b374a50985cf2d08260de7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-85b0ee880f43c4ffa944e5877bb31938
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-85b0ee880f43c4ffa944e5877bb31938
-    projectPath: Temp/UnityTempFile-85b0ee880f43c4ffa944e5877bb31938
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-8e2463f8d1d194cf4bc94088bfcdd640
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-8e2463f8d1d194cf4bc94088bfcdd640
-    projectPath: Temp/UnityTempFile-8e2463f8d1d194cf4bc94088bfcdd640
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-8e27628b0be1648ffad4a1e44e5fb25e
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-8e27628b0be1648ffad4a1e44e5fb25e
-    projectPath: Temp/UnityTempFile-8e27628b0be1648ffad4a1e44e5fb25e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-8f2f4c836a06c4fd98ef7637d7a5972b
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-8f2f4c836a06c4fd98ef7637d7a5972b
-    projectPath: Temp/UnityTempFile-8f2f4c836a06c4fd98ef7637d7a5972b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-92fac2166781b485f865fc594b709dcc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-92fac2166781b485f865fc594b709dcc
-    projectPath: Temp/UnityTempFile-92fac2166781b485f865fc594b709dcc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-940cb4317d50e4fb9ac8ce8d9afe2b97
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-940cb4317d50e4fb9ac8ce8d9afe2b97
-    projectPath: Temp/UnityTempFile-940cb4317d50e4fb9ac8ce8d9afe2b97
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-9b727c7811266459eb9feb15e863c6da
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-9b727c7811266459eb9feb15e863c6da
-    projectPath: Temp/UnityTempFile-9b727c7811266459eb9feb15e863c6da
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-9dd4943ccd5804f6dbaf4cde90a7c919
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-9dd4943ccd5804f6dbaf4cde90a7c919
-    projectPath: Temp/UnityTempFile-9dd4943ccd5804f6dbaf4cde90a7c919
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-a3e3ad729bf434e3ba9fb63e3b3e77b3
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-a3e3ad729bf434e3ba9fb63e3b3e77b3
-    projectPath: Temp/UnityTempFile-a3e3ad729bf434e3ba9fb63e3b3e77b3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-aa08109fd0f904fc6a2a448dc4b90910
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-aa08109fd0f904fc6a2a448dc4b90910
-    projectPath: Temp/UnityTempFile-aa08109fd0f904fc6a2a448dc4b90910
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-aada9dd4f512c4ceaa81e40387003013
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-aada9dd4f512c4ceaa81e40387003013
-    projectPath: Temp/UnityTempFile-aada9dd4f512c4ceaa81e40387003013
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-afc447717b71142b19236766604789c6
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-afc447717b71142b19236766604789c6
-    projectPath: Temp/UnityTempFile-afc447717b71142b19236766604789c6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-b7eb65be9cc5c41e1a2133ec5ef31087
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-b7eb65be9cc5c41e1a2133ec5ef31087
-    projectPath: Temp/UnityTempFile-b7eb65be9cc5c41e1a2133ec5ef31087
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-bba974a0d0f284e0f8018dd10fa79509
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-bba974a0d0f284e0f8018dd10fa79509
-    projectPath: Temp/UnityTempFile-bba974a0d0f284e0f8018dd10fa79509
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-bd1b5c77253394988a5695284b20a4dc
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-bd1b5c77253394988a5695284b20a4dc
-    projectPath: Temp/UnityTempFile-bd1b5c77253394988a5695284b20a4dc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-c10434f1efd26478aa4c804d99586f15
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-c10434f1efd26478aa4c804d99586f15
-    projectPath: Temp/UnityTempFile-c10434f1efd26478aa4c804d99586f15
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-c4133be6f3d02459592da066e31cb9a0
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-c4133be6f3d02459592da066e31cb9a0
-    projectPath: Temp/UnityTempFile-c4133be6f3d02459592da066e31cb9a0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-ce8b44a8808c34182b86ada739750ae1
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-ce8b44a8808c34182b86ada739750ae1
-    projectPath: Temp/UnityTempFile-ce8b44a8808c34182b86ada739750ae1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-d544bd0b46210447ab4a014bf66d46df
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-d544bd0b46210447ab4a014bf66d46df
-    projectPath: Temp/UnityTempFile-d544bd0b46210447ab4a014bf66d46df
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-d85941d79939f4a94b205b6d84c93bf2
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-d85941d79939f4a94b205b6d84c93bf2
-    projectPath: Temp/UnityTempFile-d85941d79939f4a94b205b6d84c93bf2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-dcd4f03f74bba4261a8ece4194c1fb9d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-dcd4f03f74bba4261a8ece4194c1fb9d
-    projectPath: Temp/UnityTempFile-dcd4f03f74bba4261a8ece4194c1fb9d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-e4a0a51347b064df8b3e33936922b272
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-e4a0a51347b064df8b3e33936922b272
-    projectPath: Temp/UnityTempFile-e4a0a51347b064df8b3e33936922b272
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-e4a4c6d80311143dcad49445aea6f28f
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-e4a4c6d80311143dcad49445aea6f28f
-    projectPath: Temp/UnityTempFile-e4a4c6d80311143dcad49445aea6f28f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-ea6e0f61678c24979896fac18711c203
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-ea6e0f61678c24979896fac18711c203
-    projectPath: Temp/UnityTempFile-ea6e0f61678c24979896fac18711c203
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-ed8a8e0ba27b54f35b9e7ef2fc69ca9d
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-ed8a8e0ba27b54f35b9e7ef2fc69ca9d
-    projectPath: Temp/UnityTempFile-ed8a8e0ba27b54f35b9e7ef2fc69ca9d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-edb9271aa99d346f4813c70ece254cd0
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-edb9271aa99d346f4813c70ece254cd0
-    projectPath: Temp/UnityTempFile-edb9271aa99d346f4813c70ece254cd0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-f3a1c88ffb8194a8184c7f473ea17e6b
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-f3a1c88ffb8194a8184c7f473ea17e6b
-    projectPath: Temp/UnityTempFile-f3a1c88ffb8194a8184c7f473ea17e6b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-f785bf59d3c4d4d2195d9f660d9d0111
-    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/UnityTempFile-f785bf59d3c4d4d2195d9f660d9d0111
-    projectPath: Temp/UnityTempFile-f785bf59d3c4d4d2195d9f660d9d0111
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+  - path: Temp/Upload/Assets/2D pixel asteroids/Prefabs/AsterSmall1.prefab
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/Upload/Assets/2D
+      pixel asteroids/Prefabs/AsterSmall1.prefab
+    projectPath: Temp/Upload/Assets/2D pixel asteroids/Prefabs/AsterSmall1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Upload/Assets/2D pixel asteroids/Prefabs/AsterSmall2.prefab
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/Upload/Assets/2D
+      pixel asteroids/Prefabs/AsterSmall2.prefab
+    projectPath: Temp/Upload/Assets/2D pixel asteroids/Prefabs/AsterSmall2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Upload/Assets/2D pixel asteroids/Prefabs/AsterSmall3.prefab
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/Upload/Assets/2D
+      pixel asteroids/Prefabs/AsterSmall3.prefab
+    projectPath: Temp/Upload/Assets/2D pixel asteroids/Prefabs/AsterSmall3.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Upload/Assets/2D pixel asteroids/Prefabs/AsterSmall4.prefab
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/Upload/Assets/2D
+      pixel asteroids/Prefabs/AsterSmall4.prefab
+    projectPath: Temp/Upload/Assets/2D pixel asteroids/Prefabs/AsterSmall4.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Upload/Assets/2D pixel asteroids/Prefabs/AsterSmall5.prefab
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/Upload/Assets/2D
+      pixel asteroids/Prefabs/AsterSmall5.prefab
+    projectPath: Temp/Upload/Assets/2D pixel asteroids/Prefabs/AsterSmall5.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Upload/Assets/2D pixel asteroids/Prefabs/AsterSmall6.prefab
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/Upload/Assets/2D
+      pixel asteroids/Prefabs/AsterSmall6.prefab
+    projectPath: Temp/Upload/Assets/2D pixel asteroids/Prefabs/AsterSmall6.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Upload/Assets/My Stuff/Prefabs/Ships/GameObject.prefab
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/Upload/Assets/My
+      Stuff/Prefabs/Ships/GameObject.prefab
+    projectPath: Temp/Upload/Assets/My Stuff/Prefabs/Ships/GameObject.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Upload/Assets/My Stuff/Prefabs/Ships/Player Ship.prefab
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/Upload/Assets/My
+      Stuff/Prefabs/Ships/Player Ship.prefab
+    projectPath: Temp/Upload/Assets/My Stuff/Prefabs/Ships/Player Ship.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Upload/Assets/My Stuff/Scenes/Level 1.unity
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/Upload/Assets/My
+      Stuff/Scenes/Level 1.unity
+    projectPath: Temp/Upload/Assets/My Stuff/Scenes/Level 1.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Upload/Assets/My Stuff/Scripts/GameObjectLifeController.cs
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/Upload/Assets/My
+      Stuff/Scripts/GameObjectLifeController.cs
+    projectPath: Temp/Upload/Assets/My Stuff/Scripts/GameObjectLifeController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Upload/Assets/ND_VariaBULLET/System/Resources/ND_VariaBullet/GlobalManager/GlobalShotManager.prefab
+    fullPath: /Users/eaton/Documents/Gaming/Unity Games/Unity2D/Dark Matter/Temp/Upload/Assets/ND_VariaBULLET/System/Resources/ND_VariaBullet/GlobalManager/GlobalShotManager.prefab
+    projectPath: Temp/Upload/Assets/ND_VariaBULLET/System/Resources/ND_VariaBullet/GlobalManager/GlobalShotManager.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

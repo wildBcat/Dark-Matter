@@ -2488,14 +2488,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameObject
       objectReference: {fileID: 0}
-    - target: {fileID: 5320489817600567419, guid: ec20e3b1b6d8d4419ba1bd8b7063bafd, type: 3}
-      propertyPath: FlickerDuration
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5320489817600567419, guid: ec20e3b1b6d8d4419ba1bd8b7063bafd, type: 3}
-      propertyPath: ParentExplosion
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ec20e3b1b6d8d4419ba1bd8b7063bafd, type: 3}
 --- !u!1 &262008668
@@ -7725,26 +7717,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 579527971, guid: 405584cd6aa934128b85da46f1189881, type: 3}
-      propertyPath: health
-      value: 300
-      objectReference: {fileID: 0}
-    - target: {fileID: 785895119, guid: 405584cd6aa934128b85da46f1189881, type: 3}
-      propertyPath: Shot
-      value: 
-      objectReference: {fileID: 1537249355544467587, guid: ac354f93b5c6c42f29e4c0d57b650d11, type: 3}
-    - target: {fileID: 1772646226, guid: 405584cd6aa934128b85da46f1189881, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 114000011565428293, guid: 405584cd6aa934128b85da46f1189881, type: 3}
-      propertyPath: origin
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 114000011565428293, guid: 405584cd6aa934128b85da46f1189881, type: 3}
-      propertyPath: SpreadYAxis
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6223951554411553659, guid: 405584cd6aa934128b85da46f1189881, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.05
@@ -20405,15 +20377,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4583631726879957985, guid: 113001d7275c345698f9cc8c0eaca3dd, type: 3}
       propertyPath: asteroidBeginSpawnTime
-      value: 30
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4583631726879957985, guid: 113001d7275c345698f9cc8c0eaca3dd, type: 3}
       propertyPath: asteroidSpawnTime
-      value: 120
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4583631726879957985, guid: 113001d7275c345698f9cc8c0eaca3dd, type: 3}
       propertyPath: asteroidTimeRandomizer
-      value: 120
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7547573763954382980, guid: 113001d7275c345698f9cc8c0eaca3dd, type: 3}
       propertyPath: m_SortingLayerID

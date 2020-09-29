@@ -98,7 +98,7 @@ MonoBehaviour:
   makeNodeOnly: 0
   LocalPitch: 0
   customIndicator: {fileID: 0}
-  Shot: {fileID: 1000010161334016, guid: 6ceec300808987147a520c929f10a129, type: 3}
+  Shot: {fileID: 1537249355544467587, guid: ac354f93b5c6c42f29e4c0d57b650d11, type: 3}
   ShotSpeed: 30
   LocalOffset: 0
   controller: {fileID: 0}
@@ -1314,7 +1314,7 @@ Rigidbody2D:
   m_GameObject: {fileID: 6223951554411553660}
   m_BodyType: 1
   m_Simulated: 1
-  m_UseFullKinematicContacts: 0
+  m_UseFullKinematicContacts: 1
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
@@ -1491,7 +1491,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 300
-  health: 3000
+  health: 300
   damageFlicker: 1
   FlickerDuration: 18
   flickerColor: {r: 1, g: 0, b: 0, a: 1}
@@ -1996,6 +1996,10 @@ PrefabInstance:
     - target: {fileID: 114000012688441186, guid: 5d5a70f9bf23cff40b76aa2464691e73, type: 3}
       propertyPath: autoCenter
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114000012688441186, guid: 5d5a70f9bf23cff40b76aa2464691e73, type: 3}
+      propertyPath: origin
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d5a70f9bf23cff40b76aa2464691e73, type: 3}

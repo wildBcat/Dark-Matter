@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: -3386107782595999335}
   - component: {fileID: 1319673936884846511}
   - component: {fileID: 4788890291947015237}
-  - component: {fileID: 8553775702863069644}
+  - component: {fileID: -2267903953472148246}
   m_Layer: 22
   m_Name: AsterSmall6
   m_TagString: Asteroid
@@ -74,7 +74,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 2071840545
-  m_SortingLayer: 3
+  m_SortingLayer: 1
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300034, guid: 1bd6c74c058d5f143a391104c445e845, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -97,7 +97,7 @@ Rigidbody2D:
   m_GameObject: {fileID: 72295631480350893}
   m_BodyType: 1
   m_Simulated: 1
-  m_UseFullKinematicContacts: 0
+  m_UseFullKinematicContacts: 1
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
@@ -152,7 +152,7 @@ PolygonCollider2D:
       - {x: 0.25, y: -0.21}
       - {x: 0.25, y: 0.17}
       - {x: 0.21, y: 0.21}
---- !u!114 &8553775702863069644
+--- !u!114 &-2267903953472148246
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -161,16 +161,23 @@ MonoBehaviour:
   m_GameObject: {fileID: 72295631480350893}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 01e62be0fa4464f028fb7782ee9767db, type: 3}
+  m_Script: {fileID: 11500000, guid: 510ad303b4990472182e14ed4f16baba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 1000
-  health: 1000
-  collideColor: {r: 1, g: 0, b: 0, a: 1}
-  allExplosions:
-  - {fileID: 0}
-  invincibilityDurationSeconds: 3
-  invincibilityDeltaTime: 0.15
+  CollisionList:
+  - Player
+  - Enemy
+  - ND_PlayerBullet
+  - ND_EnemyBullet
+  LaserExplosion: ExpolsionEnemyShort
+  BulletExplosion: ExplosionEnemyShort
+  ParentExplosion: 1
+  healthPoints: 100
+  DamageFlicker: 0
+  FlickerDuration: 6
+  flickerColor: {r: 0, g: 0, b: 0, a: 0}
+  explosions:
+  - {fileID: 1797056496, guid: 2a2acfc83eaaadc48838e3234f8a61c6, type: 3}
 --- !u!1001 &7300867340517191517
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -236,7 +243,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2947213709203680269, guid: 2a2acfc83eaaadc48838e3234f8a61c6, type: 3}
       propertyPath: m_SortingLayer
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2947213709203680269, guid: 2a2acfc83eaaadc48838e3234f8a61c6, type: 3}
       propertyPath: m_SortingOrder

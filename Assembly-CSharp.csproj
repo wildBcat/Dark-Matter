@@ -73,6 +73,7 @@
     <Compile Include="Assets/ND_VariaBULLET/Demo/Scripts/CantroRunAnim.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Demo/Scripts/GoofLogic.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotPhysics.cs" />
+    <Compile Include="Assets/My Stuff/Scripts/GameObjectLifeController.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotParticleExplodeOnHit.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Demo/Scripts/DifficultySelect.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotBoomerang.cs" />
@@ -159,7 +160,6 @@
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotAccelerating.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotBase.cs" />
     <Compile Include="Assets/My Stuff/Scripts/Inputs/Inputs Actions.cs" />
-    <Compile Include="Assets/My Stuff/Scripts/BaseObjectController1.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/ND_VariaBULLET/System/UserBackup/do_not_delete.txt" />

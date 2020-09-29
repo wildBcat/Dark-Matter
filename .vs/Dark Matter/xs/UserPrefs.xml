@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{97523C28-2D04-E105-9D1B-383266DB5E1E}|">
   <MonoDevelop.Ide.ItemProperties.PathCreatorEditor PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My Stuff/Scripts/BaseObjectController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My Stuff/Scripts/BaseObjectController1.cs">
     <Files>
       <File FileName="Assets/ND_VariaBULLET/Scripts/Collision/ShotCollisionDamage.cs" Line="52" Column="50" />
-      <File FileName="Assets/ND_VariaBULLET/Scripts/Collision/CollisionFilter.cs" Line="19" Column="45" />
-      <File FileName="Assets/ND_VariaBULLET/Scripts/Collision/ShotCollision.cs" Line="15" Column="25" />
+      <File FileName="Assets/ND_VariaBULLET/Scripts/Collision/CollisionFilter.cs" />
+      <File FileName="Assets/ND_VariaBULLET/Scripts/Collision/ShotCollision.cs" />
       <File FileName="Assets/My Stuff/Scripts/BaseObjectController1.cs" Line="1" Column="1" />
       <File FileName="Assets/My Stuff/Scripts/BaseObjectController.cs" Line="105" Column="6" />
     </Files>
@@ -15,7 +15,7 @@
             <Node name="Assets" expanded="True">
               <Node name="My Stuff" expanded="True">
                 <Node name="Scripts" expanded="True">
-                  <Node name="BaseObjectController.cs" selected="True" />
+                  <Node name="BaseObjectController1.cs" selected="True" />
                 </Node>
               </Node>
               <Node name="ND_VariaBULLET" expanded="True">
@@ -43,7 +43,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="beb92b5a-334d-4314-a131-c731387b4c4a" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3f0ba389-e99d-46b7-9535-482fb1510cda" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
