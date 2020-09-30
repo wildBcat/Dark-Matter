@@ -14,40 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/2D Pixel Spaceship Constructor/Animation/Controllers/ExplosionTinyContr.controller
-    - Assets/2D pixel asteroids/Prefabs/AsterBig1.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterBig2.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterBig3.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterBig4.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterHuge1.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterHuge2.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterHuge3.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterMed1.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterMed2.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterMed3.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterMed4.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterMed5.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterSmall1.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterSmall2.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterSmall3.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterSmall4.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterSmall5.prefab
-    - Assets/2D pixel asteroids/Prefabs/AsterSmall6.prefab
-    - Assets/My Stuff/Prefabs/Ships/Enemy Ship 01.prefab
-    - Assets/My Stuff/Prefabs/Ships/Enemy Ship 01.prefab.meta
-    - Assets/My Stuff/Prefabs/Ships/Player Ship.prefab
-    - Assets/My Stuff/Scenes/Level 1.unity
-    - Assets/My Stuff/Waves/Wave 01.asset
-    - Assets/My Stuff/Waves/Wave 02.asset
-    - Assets/My Stuff/Waves/Wave 03.asset
-    - Assets/My Stuff/Waves/Wave 04.asset
-    - Assets/My Stuff/Waves/Wave 05.asset
-    - Assets/My Stuff/Waves/Wave 06.asset
-    - Assets/ND_VariaBULLET/Prefabs/Shot/Singular/PlayerBulletLinearNonPhysics Variant.prefab
-    - Assets/ND_VariaBULLET/Scripts/Collision/ShotCollisionDamage.cs
     - 
-    m_Values: 0000000000000000000000000000000000000000000000000000000000000000
-  RevisionSummary: 
+    m_Values: 01
+  RevisionSummary: Adjusted some base settings.
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
