@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &6192019827025467921
+--- !u!1 &596691755356905386
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,41 +8,36 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 5413199681401816606}
-  - component: {fileID: 3041918837084787093}
-  - component: {fileID: 6344154466973174921}
-  - component: {fileID: -8781663711140630783}
-  - component: {fileID: 6319805179248376777}
-  - component: {fileID: -3520836847403564576}
+  - component: {fileID: 308158866965859128}
+  - component: {fileID: 7020423587220390662}
   m_Layer: 22
-  m_Name: AsterHuge3
-  m_TagString: Asteroid
+  m_Name: Main Body
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &5413199681401816606
+--- !u!4 &308158866965859128
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6192019827025467921}
+  m_GameObject: {fileID: 596691755356905386}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1305458398492428574}
-  m_Father: {fileID: 0}
+  m_Children: []
+  m_Father: {fileID: 5413199681401816606}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &3041918837084787093
+--- !u!212 &7020423587220390662
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6192019827025467921}
+  m_GameObject: {fileID: 596691755356905386}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -67,15 +62,15 @@ SpriteRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
+  m_StitchLightmapSeams: 1
   m_SelectedEditorRenderState: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 2071840545
-  m_SortingLayer: 3
-  m_SortingOrder: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300004, guid: 1bd6c74c058d5f143a391104c445e845, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -87,6 +82,43 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &6192019827025467921
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5413199681401816606}
+  - component: {fileID: 6344154466973174921}
+  - component: {fileID: -8781663711140630783}
+  - component: {fileID: 6319805179248376777}
+  - component: {fileID: 285595789550016549}
+  - component: {fileID: 5259317440391215726}
+  m_Layer: 22
+  m_Name: AsterHuge3
+  m_TagString: Asteroid
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5413199681401816606
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6192019827025467921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 308158866965859128}
+  - {fileID: 1305458398492428574}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &6344154466973174921
 Rigidbody2D:
   serializedVersion: 4
@@ -97,7 +129,7 @@ Rigidbody2D:
   m_GameObject: {fileID: 6192019827025467921}
   m_BodyType: 1
   m_Simulated: 1
-  m_UseFullKinematicContacts: 0
+  m_UseFullKinematicContacts: 1
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
@@ -131,7 +163,7 @@ PolygonCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -180,7 +212,7 @@ PolygonCollider2D:
       - {x: 0.9, y: -1.24}
       - {x: 1.0799999, y: -0.91999996}
       - {x: 1.1999999, y: -0.85999995}
---- !u!114 &-3520836847403564576
+--- !u!114 &285595789550016549
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -189,16 +221,36 @@ MonoBehaviour:
   m_GameObject: {fileID: 6192019827025467921}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 01e62be0fa4464f028fb7782ee9767db, type: 3}
+  m_Script: {fileID: 11500000, guid: 510ad303b4990472182e14ed4f16baba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 1000
-  health: 1000
-  collideColor: {r: 1, g: 0, b: 0, a: 1}
-  allExplosions:
-  - {fileID: 0}
-  invincibilityDurationSeconds: 3
-  invincibilityDeltaTime: 0.15
+  CollisionList:
+  - Player
+  - Enemy
+  - ND_PlayerBullet
+  - ND_EnemyBullet
+  LaserExplosion: ExplosionWallHit
+  BulletExplosion: ExplosionWallHit
+  ParentExplosion: 1
+  healthPoints: 1600
+  DamageFlicker: 0
+  FlickerDuration: 6
+  flickerColor: {r: 0, g: 0, b: 0, a: 0}
+  explosions:
+  - {fileID: 1305458397849649306}
+--- !u!114 &5259317440391215726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6192019827025467921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bb7a6e093409504e8e91d7db0dbf906, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DamagePerHit: 800
 --- !u!1001 &1305458399059552357
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -206,6 +258,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5413199681401816606}
     m_Modifications:
+    - target: {fileID: 1478469887, guid: 6e5f986e7d2972345827e79b5b816bad, type: 3}
+      propertyPath: mainBody
+      value: 
+      objectReference: {fileID: 596691755356905386}
+    - target: {fileID: 1478469887, guid: 6e5f986e7d2972345827e79b5b816bad, type: 3}
+      propertyPath: mainContainer
+      value: 
+      objectReference: {fileID: 6192019827025467921}
     - target: {fileID: 2144313720, guid: 6e5f986e7d2972345827e79b5b816bad, type: 3}
       propertyPath: m_Name
       value: ExplosionBig
@@ -216,7 +276,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2144313722, guid: 6e5f986e7d2972345827e79b5b816bad, type: 3}
       propertyPath: m_SortingLayer
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2144313722, guid: 6e5f986e7d2972345827e79b5b816bad, type: 3}
       propertyPath: m_SortingOrder
@@ -252,7 +312,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2144313723, guid: 6e5f986e7d2972345827e79b5b816bad, type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2144313723, guid: 6e5f986e7d2972345827e79b5b816bad, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -273,3 +333,14 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2144313723, guid: 6e5f986e7d2972345827e79b5b816bad, type: 3}
   m_PrefabInstance: {fileID: 1305458399059552357}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1305458397849649306 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1478469887, guid: 6e5f986e7d2972345827e79b5b816bad, type: 3}
+  m_PrefabInstance: {fileID: 1305458399059552357}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52c195e5a6fc1414aa9a0cfd531e39ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

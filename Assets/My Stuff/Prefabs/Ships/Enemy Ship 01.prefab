@@ -658,8 +658,9 @@ GameObject:
   - component: {fileID: -7033075380019956016}
   - component: {fileID: -173860380910196942}
   - component: {fileID: 5320489817600567419}
+  - component: {fileID: 681045819}
   m_Layer: 9
-  m_Name: GameObject
+  m_Name: Enemy Ship 01
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -767,16 +768,31 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionList:
+  - Asteroid
+  - Player
   - ND_PlayerBullet
   LaserExplosion: ExplosionWallHit
   BulletExplosion: ExplosionWallHit
   ParentExplosion: 1
-  healthPoints: 2
+  healthPoints: 200
   DamageFlicker: 1
   FlickerDuration: 5
   flickerColor: {r: 1, g: 0, b: 0, a: 1}
   explosions:
   - {fileID: 3653367254462186490}
+--- !u!114 &681045819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4690536073275781138}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bb7a6e093409504e8e91d7db0dbf906, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DamagePerHit: 200
 --- !u!1 &4705882088806402782
 GameObject:
   m_ObjectHideFlags: 0

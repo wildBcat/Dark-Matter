@@ -54,7 +54,6 @@ namespace ND_VariaBULLET
             Debug.Log("We collided!");
             if (CollisionFilter.CollisionAccepted(collision.gameObject.layer, CollisionList))
             {
-                Debug.Log("It's A Hit!");
                 setDamage(collision.gameObject.GetComponent<IDamager>().DMG);
                 CollisionFilter.SetExplosion(BulletExplosion, ParentExplosion, this.transform, collision.contacts[0].point, 0, this);
                 yield return setFlicker();
