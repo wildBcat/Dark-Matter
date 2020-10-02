@@ -37,6 +37,10 @@ public class Boundary : MonoBehaviour
         {
             Destroy(collision.gameObject);
         }
+        else if (collision.CompareTag("Starfield"))
+        {
+            Destroy(collision.gameObject);
+        }
     }
 
 }

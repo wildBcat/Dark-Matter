@@ -5,13 +5,7 @@
 /// </summary>
 public class DirectMoving : MonoBehaviour
 {
-    CelestialBodies celestialBodies = default;
-    [SerializeField] int speed = default;
-
-    private void Start()
-    {
-        celestialBodies = FindObjectOfType<CelestialBodies>();
-    }
+    [SerializeField] float speed = default;
 
     //moving the object with the defined speed
     private void Update()
@@ -20,7 +14,11 @@ public class DirectMoving : MonoBehaviour
         {
             Asteroids();
         }
-        else
+        else if (gameObject.CompareTag("Starfield"))
+        {
+            Asteroids();
+        }
+        else if (gameObject.CompareTag("Planet"))
         {
             Planets();
         }
@@ -28,12 +26,12 @@ public class DirectMoving : MonoBehaviour
 
     private void Planets()
     {
-        transform.Translate(Vector3.up * celestialBodies.planetSpeed * Time.deltaTime, Space.World);
+        transform.Translate(Vector3.up * speed * Time.deltaTime, Space.World);
     }
 
     private void Asteroids()
     {
-        transform.Translate(Vector3.up * celestialBodies.asteroidSpeed * Time.deltaTime, Space.World);
-        transform.Rotate(new Vector3(0, 0, 1) * Time.deltaTime * speed);
+        transform.Translate(Vector3.up * speed * Time.deltaTime, Space.World);
+        transform.Rotate(new Vector3(0, 0, 0));
     }
 }

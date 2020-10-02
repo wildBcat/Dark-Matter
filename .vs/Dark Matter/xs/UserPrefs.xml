@@ -1,13 +1,16 @@
 ﻿<Properties StartupConfiguration="{97523C28-2D04-E105-9D1B-383266DB5E1E}|">
   <MonoDevelop.Ide.ItemProperties.PathCreatorEditor PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/2D Pixel Spaceship Constructor/Scripts/ExplosionController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My Stuff/Scripts/Boundary.cs">
     <Files>
       <File FileName="Assets/My Stuff/Scripts/GameObjectLifeController.cs" Line="101" Column="45" />
-      <File FileName="Assets/ND_VariaBULLET/Scripts/Collision/ShotCollisionDamage.cs" Line="56" Column="14" />
-      <File FileName="Assets/ND_VariaBULLET/Scripts/Collision/DamagerBody.cs" Line="17" Column="2" />
-      <File FileName="Assets/ND_VariaBULLET/Scripts/Collision/IDamager.cs" Line="10" Column="15" />
-      <File FileName="Assets/ND_VariaBULLET/Scripts/Shot/ShotBase.cs" Line="23" Column="26" />
+      <File FileName="Assets/ND_VariaBULLET/Scripts/Collision/ShotCollisionDamage.cs" />
+      <File FileName="Assets/ND_VariaBULLET/Scripts/Collision/DamagerBody.cs" />
+      <File FileName="Assets/ND_VariaBULLET/Scripts/Collision/IDamager.cs" />
+      <File FileName="Assets/ND_VariaBULLET/Scripts/Shot/ShotBase.cs" />
       <File FileName="Assets/2D Pixel Spaceship Constructor/Scripts/ExplosionController.cs" Line="5" Column="14" />
+      <File FileName="Assets/My Stuff/Scripts/CelestialBodies.cs" Line="43" Column="29" />
+      <File FileName="Assets/My Stuff/Scripts/DirectMoving.cs" Line="30" Column="47" />
+      <File FileName="Assets/My Stuff/Scripts/Boundary.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,12 +18,12 @@
           <Node name="Dark Matter" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="2D Pixel Spaceship Constructor" expanded="True">
-                <Node name="Scripts" expanded="True">
-                  <Node name="ExplosionController.cs" selected="True" />
-                </Node>
+                <Node name="Scripts" expanded="True" />
               </Node>
               <Node name="My Stuff" expanded="True">
-                <Node name="Scripts" expanded="True" />
+                <Node name="Scripts" expanded="True">
+                  <Node name="Boundary.cs" selected="True" />
+                </Node>
               </Node>
               <Node name="ND_VariaBULLET" expanded="True">
                 <Node name="Scripts" expanded="True">
@@ -47,7 +50,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aa454314-6f85-47b3-b286-8e979be083e6" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e80a2500-863e-41f2-85cc-10c3d230e9f4" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

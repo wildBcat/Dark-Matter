@@ -164,6 +164,7 @@
   <ItemGroup>
      <None Include="Assets/ND_VariaBULLET/System/UserBackup/do_not_delete.txt" />
      <None Include="Assets/ND_VariaBULLET/Guides/Online_Version.txt" />
+     <None Include="Assets/My Stuff/Sprites/CelestialObjects/readme.txt" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
