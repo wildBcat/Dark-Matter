@@ -51,8 +51,8 @@ Canvas:
   m_GameObject: {fileID: 1356313664}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
-  m_Camera: {fileID: 0}
+  m_RenderMode: 1
+  m_Camera: {fileID: 8975886365172943563}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -60,8 +60,8 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
-  m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: -1801962315
+  m_SortingOrder: 1
   m_TargetDisplay: 0
 --- !u!114 &1356313667
 MonoBehaviour:
@@ -78,9 +78,9 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 1920, y: 1080}
+  m_ReferenceResolution: {x: 828, y: 1792}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0.625
+  m_MatchWidthOrHeight: 1
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -175,6 +175,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 133851944, guid: faad228cd9dba4c1e8adacbe05928398, type: 3}
+      propertyPath: referenceMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 133851944, guid: faad228cd9dba4c1e8adacbe05928398, type: 3}
+      propertyPath: width
+      value: 828
+      objectReference: {fileID: 0}
+    - target: {fileID: 133851944, guid: faad228cd9dba4c1e8adacbe05928398, type: 3}
+      propertyPath: height
+      value: 1792
+      objectReference: {fileID: 0}
     - target: {fileID: 8894881239836866631, guid: faad228cd9dba4c1e8adacbe05928398, type: 3}
       propertyPath: m_Name
       value: Star Screen Game Controller
@@ -230,6 +242,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8894881239836866632, guid: faad228cd9dba4c1e8adacbe05928398, type: 3}
   m_PrefabInstance: {fileID: 567513252910008839}
   m_PrefabAsset: {fileID: 0}
+--- !u!20 &8975886365172943563 stripped
+Camera:
+  m_CorrespondingSourceObject: {fileID: 8894881239394205900, guid: faad228cd9dba4c1e8adacbe05928398, type: 3}
+  m_PrefabInstance: {fileID: 567513252910008839}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &8259474641935813844
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -237,6 +254,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1356313665}
     m_Modifications:
+    - target: {fileID: 1818982411020874689, guid: 4b2458ccc1dbe4c5a97c5c06e3991682, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -144.43542
+      objectReference: {fileID: 0}
     - target: {fileID: 4623681189685870806, guid: 4b2458ccc1dbe4c5a97c5c06e3991682, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -49.540527
@@ -593,18 +614,30 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 909799127786545072, guid: 2741d1e4d0b084174b39175c36e0de2b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 909799127786545072, guid: 2741d1e4d0b084174b39175c36e0de2b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 909799128536943997, guid: 2741d1e4d0b084174b39175c36e0de2b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.8699999
       objectReference: {fileID: 0}
     - target: {fileID: 909799129006571473, guid: 2741d1e4d0b084174b39175c36e0de2b, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 909799129006571473, guid: 2741d1e4d0b084174b39175c36e0de2b, type: 3}
       propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 909799129732853020, guid: 2741d1e4d0b084174b39175c36e0de2b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.8699999
+      objectReference: {fileID: 0}
+    - target: {fileID: 5038665194078755356, guid: 2741d1e4d0b084174b39175c36e0de2b, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5038665194078755357, guid: 2741d1e4d0b084174b39175c36e0de2b, type: 3}

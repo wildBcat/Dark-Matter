@@ -33,6 +33,9 @@ Transform:
   - {fileID: 7547573763954382981}
   - {fileID: 2732994222250554}
   - {fileID: 4433510589249603830}
+  - {fileID: 1754879121411157179}
+  - {fileID: 3036562200312398569}
+  - {fileID: 7938905974735619988}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -46,12 +49,12 @@ GameObject:
   m_Component:
   - component: {fileID: 2732994222250554}
   - component: {fileID: 4583631726879957985}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: Celestial Bodies
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2732994222250554
 Transform:
@@ -80,48 +83,47 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   planets:
-  - {fileID: 1119852562304020830, guid: faa0bc7b8c63d4c5dabefaf5c3e26444, type: 3}
-  - {fileID: 4264463281315054678, guid: f15a77cb6e3f24dfa85942317a3de32d, type: 3}
-  - {fileID: 7420625414482542734, guid: 68c2ff9e06f1147e8b5ce8e1eb5b7408, type: 3}
-  - {fileID: 7050681066402884433, guid: a82714765959d4271989f170c7b563ae, type: 3}
-  - {fileID: 7932414114716887696, guid: ffffc87ffd0bd4bccac0cd6a436bb449, type: 3}
-  - {fileID: 5754154367287897120, guid: 0ce626879364845afa0ecdad498414ea, type: 3}
-  - {fileID: 6947394589133199542, guid: 8e988be91d1fe4af09dfac6ecb90b11e, type: 3}
-  - {fileID: 8382016304245524251, guid: b6d43ed60cf5a47279594907e73731d5, type: 3}
-  - {fileID: 4458792131818253687, guid: f17ea49020f7b433fafe2eeb467fe4eb, type: 3}
-  - {fileID: 6443654495358449700, guid: 526b8f67321294d1abf6c73057df6284, type: 3}
-  - {fileID: 2096105468972176737, guid: acc6b2ded85034281a4db7c670fd6ecb, type: 3}
-  - {fileID: 7741578122155345023, guid: 08b00aebbf87148aca409d594690c8ff, type: 3}
-  - {fileID: 3192026059704928814, guid: 9bab6d1770f2241cb8e2f61066aef338, type: 3}
-  - {fileID: 7144509969694865316, guid: 4856cbc59ba554525a3d17473626207f, type: 3}
-  - {fileID: 215214303025845305, guid: 2d9714578f51a489eb27b986caba13fc, type: 3}
-  planetSpawnTime: 50
-  planetTimeRandomizer: 10
-  planetSpeed: -0.7
-  planetBeginSpawnTime: 5
+  - {fileID: 8679049240199447250, guid: b7e94f01ecf4149b581220cba618b346, type: 3}
+  - {fileID: 37198152468292042, guid: 1df269af7699f47d2b95d74a746289bb, type: 3}
+  - {fileID: 723694042323290167, guid: de8f3bf0b36644f2bbb510b390287cf7, type: 3}
+  - {fileID: 7625032415599555904, guid: bb135b250ed704f2082ff2f509ae7342, type: 3}
+  - {fileID: 8059374732300641720, guid: eda8b5943e7d7412f9f01d8ac498d1ee, type: 3}
+  - {fileID: 86756808071561724, guid: 72994215ca36747e29a672ad389205e0, type: 3}
+  - {fileID: 2581648529978140821, guid: a2ec82695e724481792b98e82aa08f23, type: 3}
+  - {fileID: 8079932212756603917, guid: 88e19a16460204f39b68ba3e9ab97dc8, type: 3}
+  - {fileID: 1980695793610220034, guid: 1c822343eb4004112b89471ac3fec77e, type: 3}
+  - {fileID: 5650364437561617649, guid: 6bc3b518b13f1459cb218fa40a9d4f7e, type: 3}
+  - {fileID: 8665031090463949517, guid: aa1c16c92cb114c86b13215185487a12, type: 3}
+  - {fileID: 4325709630340114426, guid: e7e548a77b3b248b48f3825be266979c, type: 3}
+  - {fileID: 7337240839436154769, guid: 1343764dda80c44b1916f8f4c2fc1348, type: 3}
+  - {fileID: 4270543420463448395, guid: 209d42ef0707f4252902fabfc010b48e, type: 3}
+  - {fileID: 2908757669370007284, guid: 0c678490c8b6d45d29ced8514e9a677f, type: 3}
+  - {fileID: 6020166934471485242, guid: 7f4eb5b46959042dba2e1636be01d781, type: 3}
+  - {fileID: 3784412611678873221, guid: 13df0a932e271494899e7b5521f23f47, type: 3}
+  - {fileID: 6292194589280828538, guid: 031aface0236b4fd98709a5d5d566b72, type: 3}
+  - {fileID: 3495055574275087434, guid: 898c10a043a984133a079ddbf08e8ea4, type: 3}
+  - {fileID: 4705756913316621385, guid: 61f258b40cb4849e599f9063ee9b33ce, type: 3}
+  - {fileID: 2339678188784696578, guid: 786da6cb6f325400c9dc82269babb979, type: 3}
+  - {fileID: 2338419401557452293, guid: bf57b2f8dc3ca4f389f3ad7c86009515, type: 3}
+  - {fileID: 6158974702896966936, guid: 02eaa002804e044a48f3dfc60bed47cf, type: 3}
+  planetSpawnTime: 150
+  planetTimeRandomizer: 30
+  planetBeginSpawnTime: 1
   asteroids:
-  - {fileID: 3955418798240587005, guid: 18bb600265b4a4a4fa29f69b9f5b8404, type: 3}
-  - {fileID: 6542101368399430838, guid: 5c3659959ebb30a489d7eef3009f8afc, type: 3}
-  - {fileID: 122214560388886015, guid: 0cc97290e5be8a24a95be78aef2fc1a6, type: 3}
-  - {fileID: 1416072628507055035, guid: 0d18f1a7832f6a44fa77efb30bde703e, type: 3}
-  - {fileID: 8869476336097629157, guid: a928b6b7e9852c6429b1e3022b0ca7ed, type: 3}
-  - {fileID: 3525697572991576568, guid: 70c536de7d9d92449ae52a7ff80766e1, type: 3}
-  - {fileID: 6192019827025467921, guid: 46fd36c0039a3de4e8a017dd1652a1c9, type: 3}
-  - {fileID: 6747026704579016348, guid: ae4d463454dcd3f4f8546cef1366ff03, type: 3}
-  - {fileID: 3592861495988656133, guid: a605a9cb8e6a23444baef3434392fdb5, type: 3}
-  - {fileID: 6554404179560890419, guid: 10eda568a7de7e04693212985f98844e, type: 3}
-  - {fileID: 7979792204202706108, guid: a4f6c7d73f99033429f262bcba1bdeb8, type: 3}
-  - {fileID: 1082700227081861820, guid: 65ee5b4a801d6d44eb112962bd3246e2, type: 3}
-  - {fileID: 1273717868519207366, guid: 0b41583a19866d64b9483e371372b152, type: 3}
-  - {fileID: 172733410043596393, guid: df633265b44cbf44eae676819a0f1900, type: 3}
-  - {fileID: 1829189280640820382, guid: 97fc4a6e44a6aed4a9f7e4f0a4e48bc3, type: 3}
-  - {fileID: 8266873878386540212, guid: 04d0e694d442538469994e2367f412b4, type: 3}
-  - {fileID: 1187051454626278293, guid: 7e73d8cc1e09492498f76df02fb52fbf, type: 3}
-  - {fileID: 72295631480350893, guid: 73d0578dde8635c4db633cbe78f8af97, type: 3}
-  asteroidSpawnTime: 2
-  asteroidTimeRandomizer: 0
-  asteroidSpeed: -2
-  asteroidBeginSpawnTime: 1
+  - {fileID: 5271509059080831478, guid: 2d2e269032ede4fa98edf1b09b5ebaec, type: 3}
+  - {fileID: 1962367801213245753, guid: 14bc63b1f435647e2b83fb1edf4f3e56, type: 3}
+  - {fileID: 586822887035495217, guid: daf10e0e4c41940de87119e0ec2f8c06, type: 3}
+  - {fileID: 5446496187743578223, guid: 97b0a9fb451b34f0d847e4dd8c71ecbf, type: 3}
+  asteroidSpawnTime: 120
+  asteroidTimeRandomizer: 120
+  asteroidBeginSpawnTime: 30
+  starfield:
+  - {fileID: 7497787574227947923, guid: 3c2a2e2cfa87c4f4fa2e07e80f73b39f, type: 3}
+  - {fileID: 5171385995203074699, guid: 2feee47bdf4c74342ad95b24d476808a, type: 3}
+  - {fileID: 2166345126834517327, guid: eba7ca2d4fadb4ee5ad5b684f86073a0, type: 3}
+  starfieldSpawnTime: 60
+  starfieldTimeRandomizer: 12
+  starfieldBeginSpawnTime: 20
 --- !u!1 &3045923071462398094
 GameObject:
   m_ObjectHideFlags: 0
@@ -189,7 +191,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fceb51c3b4ae4d04a1b2e35e8db7c68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scrollSpeed: -0.8
+  scrollSpeed: -0.4
 --- !u!1 &3045923071710549814
 GameObject:
   m_ObjectHideFlags: 0
@@ -497,7 +499,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 660
+      scalar: 330
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -5166,9 +5168,9 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1030595049
-  m_SortingLayer: 1
-  m_SortingOrder: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
   m_RenderMode: 3
   m_SortMode: 0
   m_MinParticleSize: 0
@@ -5205,7 +5207,7 @@ GameObject:
   - component: {fileID: 4433510589249603830}
   - component: {fileID: 4433510589249603828}
   - component: {fileID: 4433510589249603831}
-  m_Layer: 0
+  m_Layer: 21
   m_Name: Space Dust Close
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9978,9 +9980,9 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1179652399
-  m_SortingLayer: 12
-  m_SortingOrder: 0
+  m_SortingLayerID: 104308043
+  m_SortingLayer: 15
+  m_SortingOrder: 2
   m_RenderMode: 3
   m_SortMode: 0
   m_MinParticleSize: 0
@@ -10121,7 +10123,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 330
+      scalar: 70
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -14790,9 +14792,9 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -627292201
-  m_SortingLayer: 2
-  m_SortingOrder: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 4
   m_RenderMode: 3
   m_SortMode: 0
   m_MinParticleSize: 0
@@ -19602,9 +19604,9 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 515788839
-  m_SortingLayer: 4
-  m_SortingOrder: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 5
   m_RenderMode: 3
   m_SortMode: 0
   m_MinParticleSize: 0
@@ -19614,7 +19616,7 @@ ParticleSystemRenderer:
   m_LengthScale: 2
   m_SortingFudge: 0
   m_NormalDirection: 1
-  m_ShadowBias: 0
+  m_ShadowBias: 3
   m_RenderAlignment: 0
   m_Pivot: {x: 0, y: 0, z: 0}
   m_Flip: {x: 0, y: 0, z: 0}
@@ -19630,3 +19632,189 @@ ParticleSystemRenderer:
   m_Mesh2: {fileID: 0}
   m_Mesh3: {fileID: 0}
   m_MaskInteraction: 0
+--- !u!1001 &8366353347818145551
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2388000949679441599}
+    m_Modifications:
+    - target: {fileID: 1889236846619000987, guid: 3c2a2e2cfa87c4f4fa2e07e80f73b39f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.0890038
+      objectReference: {fileID: 0}
+    - target: {fileID: 1889236846619000987, guid: 3c2a2e2cfa87c4f4fa2e07e80f73b39f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.516896
+      objectReference: {fileID: 0}
+    - target: {fileID: 1889236846619000987, guid: 3c2a2e2cfa87c4f4fa2e07e80f73b39f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1889236846619000987, guid: 3c2a2e2cfa87c4f4fa2e07e80f73b39f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1889236846619000987, guid: 3c2a2e2cfa87c4f4fa2e07e80f73b39f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1889236846619000987, guid: 3c2a2e2cfa87c4f4fa2e07e80f73b39f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1889236846619000987, guid: 3c2a2e2cfa87c4f4fa2e07e80f73b39f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1889236846619000987, guid: 3c2a2e2cfa87c4f4fa2e07e80f73b39f, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1889236846619000987, guid: 3c2a2e2cfa87c4f4fa2e07e80f73b39f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1889236846619000987, guid: 3c2a2e2cfa87c4f4fa2e07e80f73b39f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1889236846619000987, guid: 3c2a2e2cfa87c4f4fa2e07e80f73b39f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7497787574227947923, guid: 3c2a2e2cfa87c4f4fa2e07e80f73b39f, type: 3}
+      propertyPath: m_Name
+      value: CelestialObjects_7
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3c2a2e2cfa87c4f4fa2e07e80f73b39f, type: 3}
+--- !u!4 &7938905974735619988 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1889236846619000987, guid: 3c2a2e2cfa87c4f4fa2e07e80f73b39f, type: 3}
+  m_PrefabInstance: {fileID: 8366353347818145551}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8366353348021914492
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2388000949679441599}
+    m_Modifications:
+    - target: {fileID: 5171385995203074699, guid: 2feee47bdf4c74342ad95b24d476808a, type: 3}
+      propertyPath: m_Name
+      value: CelestialObjects_8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791229435208059285, guid: 2feee47bdf4c74342ad95b24d476808a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791229435208059285, guid: 2feee47bdf4c74342ad95b24d476808a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791229435208059285, guid: 2feee47bdf4c74342ad95b24d476808a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791229435208059285, guid: 2feee47bdf4c74342ad95b24d476808a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791229435208059285, guid: 2feee47bdf4c74342ad95b24d476808a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791229435208059285, guid: 2feee47bdf4c74342ad95b24d476808a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791229435208059285, guid: 2feee47bdf4c74342ad95b24d476808a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791229435208059285, guid: 2feee47bdf4c74342ad95b24d476808a, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791229435208059285, guid: 2feee47bdf4c74342ad95b24d476808a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791229435208059285, guid: 2feee47bdf4c74342ad95b24d476808a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791229435208059285, guid: 2feee47bdf4c74342ad95b24d476808a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2feee47bdf4c74342ad95b24d476808a, type: 3}
+--- !u!4 &3036562200312398569 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6791229435208059285, guid: 2feee47bdf4c74342ad95b24d476808a, type: 3}
+  m_PrefabInstance: {fileID: 8366353348021914492}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8366353349430230291
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2388000949679441599}
+    m_Modifications:
+    - target: {fileID: 2166345126834517327, guid: eba7ca2d4fadb4ee5ad5b684f86073a0, type: 3}
+      propertyPath: m_Name
+      value: CelestialObjects_9
+      objectReference: {fileID: 0}
+    - target: {fileID: 7800752734848029096, guid: eba7ca2d4fadb4ee5ad5b684f86073a0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.1298902
+      objectReference: {fileID: 0}
+    - target: {fileID: 7800752734848029096, guid: eba7ca2d4fadb4ee5ad5b684f86073a0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -5.399947
+      objectReference: {fileID: 0}
+    - target: {fileID: 7800752734848029096, guid: eba7ca2d4fadb4ee5ad5b684f86073a0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7800752734848029096, guid: eba7ca2d4fadb4ee5ad5b684f86073a0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7800752734848029096, guid: eba7ca2d4fadb4ee5ad5b684f86073a0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7800752734848029096, guid: eba7ca2d4fadb4ee5ad5b684f86073a0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7800752734848029096, guid: eba7ca2d4fadb4ee5ad5b684f86073a0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7800752734848029096, guid: eba7ca2d4fadb4ee5ad5b684f86073a0, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7800752734848029096, guid: eba7ca2d4fadb4ee5ad5b684f86073a0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7800752734848029096, guid: eba7ca2d4fadb4ee5ad5b684f86073a0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7800752734848029096, guid: eba7ca2d4fadb4ee5ad5b684f86073a0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eba7ca2d4fadb4ee5ad5b684f86073a0, type: 3}
+--- !u!4 &1754879121411157179 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7800752734848029096, guid: eba7ca2d4fadb4ee5ad5b684f86073a0, type: 3}
+  m_PrefabInstance: {fileID: 8366353349430230291}
+  m_PrefabAsset: {fileID: 0}

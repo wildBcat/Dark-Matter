@@ -14,11 +14,132 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/My Stuff/Scenes/New Scene.unity
-    - Assets/My Stuff/Scenes/New Scene.unity.meta
-    - ProjectSettings/ProjectSettings.asset
+    - Assets/LetterBoxer-master.meta
+    - Assets/LetterBoxer-master/Docgen.meta
+    - Assets/LetterBoxer-master/Docgen/Documentation.meta
+    - Assets/LetterBoxer-master/Docgen/Documentation.pptx
+    - Assets/LetterBoxer-master/Docgen/Documentation.pptx.meta
+    - Assets/LetterBoxer-master/Docgen/Documentation/Slide1.PNG
+    - Assets/LetterBoxer-master/Docgen/Documentation/Slide1.PNG.meta
+    - Assets/LetterBoxer-master/Docgen/Documentation/Slide2.PNG
+    - Assets/LetterBoxer-master/Docgen/Documentation/Slide2.PNG.meta
+    - Assets/LetterBoxer-master/Docgen/Documentation/Slide3.PNG
+    - Assets/LetterBoxer-master/Docgen/Documentation/Slide3.PNG.meta
+    - Assets/LetterBoxer-master/Docgen/Documentation/Slide4.PNG
+    - Assets/LetterBoxer-master/Docgen/Documentation/Slide4.PNG.meta
+    - Assets/LetterBoxer-master/Docgen/Documentation/Slide5.PNG
+    - Assets/LetterBoxer-master/Docgen/Documentation/Slide5.PNG.meta
+    - Assets/LetterBoxer-master/LICENSE
+    - Assets/LetterBoxer-master/LICENSE.meta
+    - Assets/LetterBoxer-master/LetterBoxer.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/DemoScene.unity
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/DemoScene.unity.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Prefabs.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Prefabs/BulletHole.prefab
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Prefabs/BulletHole.prefab.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/README.txt
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/README.txt.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Scripts.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Scripts/PingPongMove.cs
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Scripts/PingPongMove.cs.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Scripts/TrackMouse.cs
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Scripts/TrackMouse.cs.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/bg_wood.png
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/bg_wood.png.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/crosshair_outline_large.png
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/crosshair_outline_large.png.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/curtain.png
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/curtain.png.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/curtain_rope.png
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/curtain_rope.png.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/curtain_straight.png
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/curtain_straight.png.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/curtain_top.png
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/curtain_top.png.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/duck_outline_target_white.png
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/duck_outline_target_white.png.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/duck_outline_yellow.png
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/duck_outline_yellow.png.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/grass1.png
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/grass1.png.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/grass2.png
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/grass2.png.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/shot_grey_large.png
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/shot_grey_large.png.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/stick_woodFixed_outline.png
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/stick_woodFixed_outline.png.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/stick_wood_outline.png
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/stick_wood_outline.png.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/water1.png
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/water1.png.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/water2.png
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Sprites/water2.png.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Documentation.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Documentation/Documentation.pdf
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Documentation/Documentation.pdf.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Editor.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Editor/LetterBoxerEditor.cs
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Editor/LetterBoxerEditor.cs.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/LetterBoxer.cs
+    - Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/LetterBoxer.cs.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Packages.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Packages/manifest.json
+    - Assets/LetterBoxer-master/LetterBoxer/Packages/manifest.json.meta
+    - Assets/LetterBoxer-master/LetterBoxer/Packages/packages-lock.json
+    - Assets/LetterBoxer-master/LetterBoxer/Packages/packages-lock.json.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/AudioManager.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/AudioManager.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/ClusterInputManager.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/ClusterInputManager.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/DynamicsManager.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/DynamicsManager.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/EditorBuildSettings.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/EditorBuildSettings.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/EditorSettings.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/EditorSettings.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/GraphicsSettings.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/GraphicsSettings.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/InputManager.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/InputManager.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/NavMeshAreas.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/NavMeshAreas.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/NetworkManager.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/NetworkManager.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/Physics2DSettings.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/Physics2DSettings.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/PresetManager.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/PresetManager.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/ProjectSettings.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/ProjectSettings.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/ProjectVersion.txt
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/ProjectVersion.txt.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/QualitySettings.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/QualitySettings.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/TagManager.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/TagManager.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/TimeManager.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/TimeManager.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/UnityConnectSettings.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/UnityConnectSettings.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/VFXManager.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/VFXManager.asset.meta
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/XRSettings.asset
+    - Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/XRSettings.asset.meta
+    - Assets/LetterBoxer-master/README.md
+    - Assets/LetterBoxer-master/README.md.meta
+    - Assets/My Stuff/Prefabs/Backgrounds/Level Background.prefab
+    - Assets/My Stuff/Prefabs/Game Controllers/Level Game Controller.prefab
+    - Assets/My Stuff/Prefabs/Game Controllers/Star Screen Game Controller.prefab
+    - Assets/My Stuff/Scenes/Level 1.unity
+    - Assets/My Stuff/Scenes/Start Screen.unity
+    - ProjectSettings/TagManager.asset
     - 
-    m_Values: 01010101
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
