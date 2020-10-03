@@ -14,75 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/My Stuff/Prefabs/Celestial Bodies.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_0.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_0.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_1.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_1.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_10.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_10.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_11.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_11.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_12.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_12.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_13.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_13.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_14.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_14.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_15.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_15.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_16.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_16.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_17.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_17.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_18.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_18.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_19.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_19.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_2.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_2.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_20.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_20.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_21.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_21.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_22.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_22.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_23.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_23.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_24.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_24.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_25.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_25.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_26.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_26.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_27.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_27.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_28.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_28.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_29.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_29.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_3.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_3.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_4.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_4.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_5.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_5.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_6.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_6.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_7.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_7.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_8.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_8.prefab.meta
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_9.prefab
-    - Assets/My Stuff/Prefabs/Celestial Bodies/CelestialObjects_9.prefab.meta
-    - Assets/My Stuff/Scripts/CelestialBodies.cs
-    - Assets/My Stuff/Scripts/DirectMoving.cs
-    - Assets/My Stuff/Sprites/CelestialObjects/CelestialObjects.png
-    - Assets/My Stuff/Sprites/CelestialObjects/CelestialObjects.png.meta
-    - Assets/My Stuff/Sprites/CelestialObjects/readme.txt
-    - Assets/My Stuff/Sprites/CelestialObjects/readme.txt.meta
+    - Assets/My Stuff/Scenes/New Scene.unity
+    - Assets/My Stuff/Scenes/New Scene.unity.meta
+    - ProjectSettings/ProjectSettings.asset
     - 
-    m_Values: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+    m_Values: 01010101
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
