@@ -14,21 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/My Stuff/Prefabs/Paths/Path (5).prefab
-    - Assets/My Stuff/Prefabs/Paths/Path (5).prefab.meta
-    - Assets/My Stuff/Prefabs/Paths/Path (6).prefab
-    - Assets/My Stuff/Prefabs/Paths/Path (6).prefab.meta
-    - Assets/My Stuff/Prefabs/Ships/Enemy Ship 01.prefab
-    - Assets/My Stuff/Prefabs/Ships/Enemy Ship 02.prefab
-    - Assets/My Stuff/Prefabs/Ships/Enemy Ship 02.prefab.meta
-    - Assets/My Stuff/Prefabs/Ships/Player Ship.prefab
     - Assets/My Stuff/Scenes/Level 1.unity
-    - Assets/My Stuff/Waves/Wave 07.asset
-    - Assets/My Stuff/Waves/Wave 07.asset.meta
-    - Assets/ND_VariaBULLET/Prefabs/Shot/Singular/EnemyBulletLinearNonPhysics Variant.prefab
-    - Assets/ND_VariaBULLET/Prefabs/Shot/Singular/EnemyBulletLinearNonPhysics Variant.prefab.meta
+    - Assets/My Stuff/Scripts/EnemySpawner.cs
     - 
-    m_Values: 0101010101010101010101010101
+    m_Values: 000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

@@ -3581,8 +3581,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: dae195753061743b49d956c2c1daac46, type: 2}
   - {fileID: 11400000, guid: 8d5863e67018e4cdb84f485f8e1cc94d, type: 2}
   waveInterval: 1
-  waveIntervalTime: 7
-  waveIntervalVariability: 0.3
+  waveIntervalTime: 2
+  waveIntervalVariability: 0
   looping: 0
 --- !u!4 &369016052
 Transform:
@@ -7691,7 +7691,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6223951554411553656, guid: 405584cd6aa934128b85da46f1189881, type: 3}
       propertyPath: moveSpeed
-      value: 1
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 6223951554411553659, guid: 405584cd6aa934128b85da46f1189881, type: 3}
       propertyPath: m_LocalPosition.x

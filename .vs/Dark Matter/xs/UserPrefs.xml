@@ -1,13 +1,12 @@
 ﻿<Properties StartupConfiguration="{97523C28-2D04-E105-9D1B-383266DB5E1E}|">
-  <MonoDevelop.Ide.ItemProperties.PathCreatorEditor PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My Stuff/Scripts/DirectMoving.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My Stuff/Scripts/EnemySpawner.cs">
     <Files>
-      <File FileName="Assets/PathCreator/Core/Runtime/Objects/PathCreator.cs" Line="5" Column="18" />
-      <File FileName="Assets/My Stuff/Scripts/EnemySpawner.cs" Line="102" Column="13" />
-      <File FileName="Assets/My Stuff/Scripts/WaveConfig.cs" Line="6" Column="1" />
-      <File FileName="Assets/My Stuff/Scripts/WaveConfig1.cs" Line="11" Column="26" />
-      <File FileName="Assets/My Stuff/Scripts/PlayerMovement.cs" Line="31" Column="16" />
-      <File FileName="Assets/My Stuff/Scripts/DirectMoving.cs" Line="36" Column="6" />
+      <File FileName="Assets/My Stuff/Scripts/EnemySpawner.cs" Line="80" Column="43" />
+      <File FileName="Assets/My Stuff/Scripts/WaveConfig.cs" />
+      <File FileName="Assets/ND_VariaBULLET/Scripts/Shot/FireBase.cs" />
+      <File FileName="Assets/ND_VariaBULLET/Scripts/Pattern/SpreadPattern.cs" />
+      <File FileName="Assets/My Stuff/Scripts/ScreenBounds.cs" />
+      <File FileName="Assets/My Stuff/Scripts/GameObjectLifeController.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +15,13 @@
             <Node name="Assets" expanded="True">
               <Node name="My Stuff" expanded="True">
                 <Node name="Scripts" expanded="True">
-                  <Node name="DirectMoving.cs" selected="True" />
+                  <Node name="EnemySpawner.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="ND_VariaBULLET" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Pattern" expanded="True" />
+                  <Node name="Shot" expanded="True" />
                 </Node>
               </Node>
               <Node name="PathCreator" expanded="True">
@@ -37,7 +42,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="79b6e3b8-7bc8-4db7-955a-f3f56a6ad858" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7d28077d-ce1f-4d04-833d-d2dbead2ae0e" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

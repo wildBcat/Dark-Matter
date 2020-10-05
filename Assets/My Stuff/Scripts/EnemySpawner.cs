@@ -51,6 +51,7 @@ public class EnemySpawner : MonoBehaviour
     {        
         for (int waveIndex = 0; waveIndex < waveList.Count; waveIndex++)
         {
+            pathsFinished = 0;
             WaveConfig currentWave = waveList[waveIndex];
 
             yield return StartCoroutine(SpawnAllPathsInWave(currentWave));
@@ -75,11 +76,13 @@ public class EnemySpawner : MonoBehaviour
 
             StartCoroutine(SpawnAllPaths(currentPath));
         }
-        
-        while (pathIndex != waveConfig.prefabs.Length)
-        {
-            yield return null;
-        }
+
+        yield return new WaitUntil(() => pathsFinished == waveConfig.prefabs.Length);
+
+        //while (pathsFinished != waveConfig.prefabs.Length)
+        //{
+        //    yield return null;
+        //}
     }
 
     /* 
@@ -103,6 +106,7 @@ public class EnemySpawner : MonoBehaviour
             newEnemy.speed = moveSpeed;
             yield return new WaitForSeconds(timeBetweenSpawns);
         }
-        pathsFinished++;
+        pathsFinished += 1;
+        Debug.Log(pathsFinished);
     }
 }
