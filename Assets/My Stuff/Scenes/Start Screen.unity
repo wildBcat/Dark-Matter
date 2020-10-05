@@ -123,6 +123,30 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &1323568748 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8975886365172943566, guid: 4ad1c887b80e245688a0816ec811a163, type: 3}
+  m_PrefabInstance: {fileID: 8259474642272790330}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1323568750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1323568748}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9420f5aea32df7646ab1a75a6346d5df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  referenceMode: 0
+  x: 3
+  y: 4
+  width: 960
+  height: 540
+  onAwake: 1
+  onUpdate: 1
 --- !u!1001 &1480899560
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -187,6 +211,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1356313667, guid: 4ad1c887b80e245688a0816ec811a163, type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356313667, guid: 4ad1c887b80e245688a0816ec811a163, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 1200
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356313667, guid: 4ad1c887b80e245688a0816ec811a163, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 1600
+      objectReference: {fileID: 0}
     - target: {fileID: 8975886365078336064, guid: 4ad1c887b80e245688a0816ec811a163, type: 3}
       propertyPath: m_Name
       value: Star Screen Game Controller

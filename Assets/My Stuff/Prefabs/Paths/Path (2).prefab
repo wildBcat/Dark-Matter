@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &8690748007432129183
+--- !u!1 &1367696373202585948
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,8 +8,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1249841727875630978}
-  - component: {fileID: 5920040761098691740}
+  - component: {fileID: 3358357027600967145}
+  - component: {fileID: 4725376183671188868}
   m_Layer: 0
   m_Name: Path (2)
   m_TagString: Untagged
@@ -17,13 +17,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1249841727875630978
+--- !u!4 &3358357027600967145
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8690748007432129183}
+  m_GameObject: {fileID: 1367696373202585948}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -31,13 +31,13 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5920040761098691740
+--- !u!114 &4725376183671188868
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8690748007432129183}
+  m_GameObject: {fileID: 1367696373202585948}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8e5ac92bc18f545cc84cd886ece82b4d, type: 3}
@@ -46,10 +46,10 @@ MonoBehaviour:
   editorData:
     _bezierPath:
       points:
-      - {x: 18.84776, y: 9.900162, z: 0}
-      - {x: 9.155504, y: 7.199832, z: 0}
-      - {x: -10.229006, y: 1.7991724, z: 0}
-      - {x: -19.92126, y: -0.9011573, z: 0}
+      - {x: 10.45015, y: 12.960375, z: 0}
+      - {x: 5.105677, y: 9.520542, z: 0}
+      - {x: -5.5832677, y: 2.6408756, z: 0}
+      - {x: -10.92774, y: -0.7989573, z: 0}
       isClosed: 0
       space: 1
       controlMode: 3

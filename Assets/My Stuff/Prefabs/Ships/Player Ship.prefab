@@ -1313,19 +1313,19 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6223951554411553660}
-  m_BodyType: 1
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 1
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &1061018817
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1458,7 +1458,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ebd834517bdb4a11a333afbf3f2a863, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 15
+  moveSpeed: 12
+  rb: {fileID: 6223951554411553639}
   padding: 1
 --- !u!95 &579527977
 Animator:
@@ -1506,13 +1507,13 @@ MonoBehaviour:
   - Asteroid
   - ND_EnemyBullet
   - Enemy
-  LaserExplosion: ExplosionEnemyShort
-  BulletExplosion: ExplosionEnemyShort
+  LaserExplosion: ExplosionWallHit
+  BulletExplosion: ExplosionWallHit
   ParentExplosion: 1
-  healthPoints: 300
+  healthPoints: 200
   DamageFlicker: 1
   FlickerDuration: 6
-  flickerColor: {r: 1, g: 0, b: 0, a: 1}
+  flickerColor: {r: 1, g: 0, b: 0, a: 0.3882353}
   explosions:
   - {fileID: 6223951553813584281}
 --- !u!114 &891772093

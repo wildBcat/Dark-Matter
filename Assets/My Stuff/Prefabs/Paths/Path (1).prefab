@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &6648315706152587939
+--- !u!1 &2472810706854797839
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,8 +8,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 6927592443871444502}
-  - component: {fileID: 1093090384029644411}
+  - component: {fileID: 2175660051818073786}
+  - component: {fileID: 8158781157119854295}
   m_Layer: 0
   m_Name: Path (1)
   m_TagString: Untagged
@@ -17,13 +17,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &6927592443871444502
+--- !u!4 &2175660051818073786
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6648315706152587939}
+  m_GameObject: {fileID: 2472810706854797839}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -31,13 +31,13 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1093090384029644411
+--- !u!114 &8158781157119854295
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6648315706152587939}
+  m_GameObject: {fileID: 2472810706854797839}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8e5ac92bc18f545cc84cd886ece82b4d, type: 3}
@@ -46,10 +46,10 @@ MonoBehaviour:
   editorData:
     _bezierPath:
       points:
-      - {x: -19.137077, y: 9.996601, z: 0}
-      - {x: -9.372494, y: 7.2721615, z: 0}
-      - {x: 10.156675, y: 1.8232822, z: 0}
-      - {x: 19.921259, y: -0.9011573, z: 0}
+      - {x: -10.45015, y: 12.960375, z: 0}
+      - {x: -5.105677, y: 9.520542, z: 0}
+      - {x: 5.5832677, y: 2.6408756, z: 0}
+      - {x: 10.92774, y: -0.7989573, z: 0}
       isClosed: 0
       space: 1
       controlMode: 3

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/My Stuff/Prefabs/Path.prefab
+    - Assets/My Stuff/Prefabs/Path.prefab.meta
+    - Assets/My Stuff/Prefabs/path spawn.prefab
+    - Assets/My Stuff/Prefabs/path spawn.prefab.meta
+    - Assets/My Stuff/Scenes/Level 1.unity
+    - Assets/My Stuff/Scripts/EnemySpawner.cs
+    - Assets/My Stuff/Scripts/EnemySpawner.cs.meta
+    - Assets/My Stuff/Scripts/Waves.cs
+    - Assets/My Stuff/Scripts/Waves.cs.meta
+    - 
+    m_Values: 00000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
