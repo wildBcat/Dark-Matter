@@ -17,6 +17,13 @@ public class PlayerMovement : MonoBehaviour
 
     ScreenBounds screenBounds = default;
 
+    private Rigidbody2D rb = default;
+
+    private void Awake()
+    {
+        rb = GetComponent<Rigidbody2D>();
+    }
+
     // Start is called before the first frame update
     void Start()
     {
@@ -55,14 +62,16 @@ public class PlayerMovement : MonoBehaviour
     private void Move()
     {
         // Initiating the input controls for up vertical and horizontal movement
-        var deltaX = walkInput.x * Time.deltaTime * moveSpeed;
-        var deltaY = walkInput.y * Time.deltaTime * moveSpeed;
+        var deltaX = walkInput.x * moveSpeed;
+        var deltaY = walkInput.y * moveSpeed;
 
         // Updating player's ship to be what the iput controls are showing, with clamps
-        var newYpos = Mathf.Clamp(transform.position.y + deltaY, screenBounds.yMin + padding, screenBounds.yMax - padding);
-        var newXPos = Mathf.Clamp(transform.position.x + deltaX, screenBounds.xMin + padding, screenBounds.xMax - padding);
-
+        float newYpos = Mathf.Clamp(transform.position.y, screenBounds.yMin + padding, screenBounds.yMax - padding);
+        var newXPos = Mathf.Clamp(transform.position.x, screenBounds.xMin + padding, screenBounds.xMax - padding);
+        
         // Moving player's ship to new input coordinates
+        //transform.position = new Vector2(newXPos, newYpos);
+        rb.AddForce(new Vector2(deltaX, deltaY));
         transform.position = new Vector2(newXPos, newYpos);
     }
 

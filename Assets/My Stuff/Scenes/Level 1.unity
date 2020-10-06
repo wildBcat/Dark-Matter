@@ -2253,6 +2253,33 @@ Transform:
   m_Father: {fileID: 918504901}
   m_RootOrder: 550
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &231780982 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4587236203244426245, guid: faad228cd9dba4c1e8adacbe05928398, type: 3}
+  m_PrefabInstance: {fileID: 4587236202433778587}
+  m_PrefabAsset: {fileID: 0}
+--- !u!68 &231780987
+EdgeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 231780982}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: -0.5, y: 0}
+  - {x: 0.5, y: 0}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0
 --- !u!1 &232874665
 GameObject:
   m_ObjectHideFlags: 0
@@ -7689,9 +7716,25 @@ PrefabInstance:
       propertyPath: m_BodyType
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6223951554411553639, guid: 405584cd6aa934128b85da46f1189881, type: 3}
+      propertyPath: m_LinearDrag
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6223951554411553639, guid: 405584cd6aa934128b85da46f1189881, type: 3}
+      propertyPath: m_Mass
+      value: 0.3358397
+      objectReference: {fileID: 0}
+    - target: {fileID: 6223951554411553639, guid: 405584cd6aa934128b85da46f1189881, type: 3}
+      propertyPath: m_UseAutoMass
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6223951554411553639, guid: 405584cd6aa934128b85da46f1189881, type: 3}
+      propertyPath: m_AngularDrag
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 6223951554411553656, guid: 405584cd6aa934128b85da46f1189881, type: 3}
       propertyPath: moveSpeed
-      value: 12
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 6223951554411553659, guid: 405584cd6aa934128b85da46f1189881, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20210,6 +20253,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4587236203244426298, guid: faad228cd9dba4c1e8adacbe05928398, type: 3}
+      propertyPath: col
+      value: 
+      objectReference: {fileID: 231780987}
+    - target: {fileID: 4587236203244426299, guid: faad228cd9dba4c1e8adacbe05928398, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8894881239394205900, guid: faad228cd9dba4c1e8adacbe05928398, type: 3}
       propertyPath: orthographic size
       value: 12

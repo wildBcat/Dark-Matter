@@ -14,14 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/My Stuff/Scenes/Level 1.unity
+    - Assets/My Stuff/Scripts/PlayerMovement.cs
     - Assets/My Stuff/Sprites/ships_human.png
     - Assets/My Stuff/Sprites/ships_human.png.meta
-    - Assets/ND_VariaBULLET/Prefabs/Shot/Singular/EnemyBulletLinearNonPhysics Variant
-      1.prefab
-    - Assets/ND_VariaBULLET/Prefabs/Shot/Singular/EnemyBulletLinearNonPhysics Variant
-      1.prefab.meta
     - 
-    m_Values: 0101010101
+    m_Values: 0000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{97523C28-2D04-E105-9D1B-383266DB5E1E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My Stuff/Scripts/EnemySpawner.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My Stuff/Scripts/Boundary.cs">
     <Files>
       <File FileName="Assets/My Stuff/Scripts/EnemySpawner.cs" Line="104" Column="28" />
       <File FileName="Assets/My Stuff/Scripts/WaveConfig.cs" />
@@ -7,6 +7,8 @@
       <File FileName="Assets/ND_VariaBULLET/Scripts/Pattern/SpreadPattern.cs" />
       <File FileName="Assets/My Stuff/Scripts/ScreenBounds.cs" />
       <File FileName="Assets/My Stuff/Scripts/GameObjectLifeController.cs" />
+      <File FileName="Assets/My Stuff/Scripts/PlayerMovement.cs" Line="74" Column="49" />
+      <File FileName="Assets/My Stuff/Scripts/Boundary.cs" Line="10" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +17,7 @@
             <Node name="Assets" expanded="True">
               <Node name="My Stuff" expanded="True">
                 <Node name="Scripts" expanded="True">
-                  <Node name="EnemySpawner.cs" selected="True" />
+                  <Node name="Boundary.cs" selected="True" />
                 </Node>
               </Node>
               <Node name="ND_VariaBULLET" expanded="True">
@@ -42,7 +44,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7d28077d-ce1f-4d04-833d-d2dbead2ae0e" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f70edf91-e9df-4668-b2eb-5885578100d1" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
