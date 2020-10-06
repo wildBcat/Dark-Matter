@@ -22,10 +22,17 @@ namespace ND_VariaBULLET
         [Tooltip("Sets which explosions to trigger when the gameobject's life is reduced to <= 0.")]
         public ExplosionController[] explosions;
 
-        private SpriteRenderer[] renderers = default;
-        private Color[] originalColors = default;
+        private SpriteRenderer spriteRenderer = default;
+        private Color originalColor = default;
 
         private bool isInvincible = default;
+
+        [Tooltip("Sets the name of the explosion prefab to be instantiated when HP = 0.")]
+        public string DeathExplosion;
+
+        [Range(0.1f, 8f)]
+        [Tooltip("Changes the size of the last explosion (when HP = 0).")]
+        public float FinalExplodeFactor = 2;
 
         /*
          * Loads the array with each child sprite's sprite renderer, but only if they are tagged "Parts" 
@@ -34,13 +41,8 @@ namespace ND_VariaBULLET
          */
         private void Start()
         {
-            renderers = GetComponentsInChildren<SpriteRenderer>();
-            renderers = renderers.Where(child => child.CompareTag("Parts")).ToArray();
-            originalColors = new Color[renderers.Length];
-            for (int i = 0; i < originalColors.Length; i++)
-            {
-                originalColors[i] = renderers[i].color;
-            }
+            spriteRenderer = GetComponent<SpriteRenderer>();
+            originalColor = spriteRenderer.color;
         }
 
         /* 
@@ -96,11 +98,17 @@ namespace ND_VariaBULLET
             healthPoints -= damage;
             if (healthPoints <= 0)
             {
-                // Initiates all the explosions attached to the object
-                if (explosions != null)
-                    foreach (ExplosionController oneExpl in explosions)
-                        if (oneExpl != null)
-                            oneExpl.StartExplosion();
+                if (DeathExplosion != "")
+                {
+                    string explosion = DeathExplosion;
+                    GameObject finalExplode = GlobalShotManager.Instance.ExplosionRequest(explosion, this);
+
+                    finalExplode.transform.position = this.transform.position;
+                    finalExplode.transform.parent = null;
+                    finalExplode.transform.localScale = new Vector2(finalExplode.transform.localScale.x * FinalExplodeFactor, finalExplode.transform.localScale.y * FinalExplodeFactor);
+                }
+
+                Destroy(this.gameObject);
                 yield break;
             }
             yield return SetFlicker();
@@ -130,27 +138,18 @@ namespace ND_VariaBULLET
 
                     if (flicker)
                     {
-                        foreach (SpriteRenderer r in renderers)
-                        {
-                            // Sets each sprite in the renderers array to the color set in the collideColor variable
-                            r.color = flickerColor;
-                        }
+                        // Sets each sprite in the renderers array to the color set in the collideColor variable
+                        spriteRenderer.color = flickerColor;
                     }
                     else
                     {
-                        for (int l = 0; l < originalColors.Length; l++)
-                        {
                             // Returns each sprite in the renderers array to the color set in the originalColors variable
-                            renderers[l].color = originalColors[l];
-                        }
+                            spriteRenderer.color = originalColor;
                     }
                     yield return null;
                 };
-                for (int l = 0; l < originalColors.Length; l++)
-                {
                     // Returns each sprite in the renderers array to the color set in the originalColors variable
-                    renderers[l].color = originalColors[l];
-                }
+                    spriteRenderer.color = originalColor;
                 isInvincible = false;
             }
             else

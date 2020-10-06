@@ -18,10 +18,15 @@ public class PlayerMovement : MonoBehaviour
     ScreenBounds screenBounds = default;
 
     private Rigidbody2D rb = default;
+    private SpriteRenderer sr = default;
+
+    private Animator animator;
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        sr = GetComponent<SpriteRenderer>();
+        animator = GetComponent<Animator>();
     }
 
     // Start is called before the first frame update
@@ -73,6 +78,24 @@ public class PlayerMovement : MonoBehaviour
         //transform.position = new Vector2(newXPos, newYpos);
         rb.AddForce(new Vector2(deltaX, deltaY));
         transform.position = new Vector2(newXPos, newYpos);
+        if(animator != null)
+        {
+            animator.SetFloat("Horizontal", walkInput.x);
+            animator.SetFloat("Vertical", walkInput.y);
+            animator.SetFloat("Speed", walkInput.sqrMagnitude);
+        }
+
+        if (sr != null)
+        {
+            if (walkInput.x > 0)
+            {
+                sr.flipX = true;
+            }
+            else
+            {
+                sr.flipX = false;
+            }
+        }
     }
 
     private void MoveWithMouse()

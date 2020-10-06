@@ -71,7 +71,7 @@ MonoBehaviour:
   ThrottlePerBullet: 0.0008
   MaxThrottle: 0.68
   MaxBulletUntilThrottle: 280
-  OutBoundsRange: {x: 260, y: 260}
+  OutBoundsRange: {x: 20, y: 20}
 --- !u!114 &114000011368118206
 MonoBehaviour:
   m_ObjectHideFlags: 0

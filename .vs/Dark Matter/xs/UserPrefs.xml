@@ -1,14 +1,9 @@
 ﻿<Properties StartupConfiguration="{97523C28-2D04-E105-9D1B-383266DB5E1E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My Stuff/Scripts/Boundary.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My Stuff/Scripts/PlayerMovement.cs">
     <Files>
-      <File FileName="Assets/My Stuff/Scripts/EnemySpawner.cs" Line="104" Column="28" />
-      <File FileName="Assets/My Stuff/Scripts/WaveConfig.cs" />
-      <File FileName="Assets/ND_VariaBULLET/Scripts/Shot/FireBase.cs" />
-      <File FileName="Assets/ND_VariaBULLET/Scripts/Pattern/SpreadPattern.cs" />
-      <File FileName="Assets/My Stuff/Scripts/ScreenBounds.cs" />
-      <File FileName="Assets/My Stuff/Scripts/GameObjectLifeController.cs" />
-      <File FileName="Assets/My Stuff/Scripts/PlayerMovement.cs" Line="74" Column="49" />
-      <File FileName="Assets/My Stuff/Scripts/Boundary.cs" Line="10" Column="7" />
+      <File FileName="Assets/My Stuff/Scripts/GameObjectLifeController.cs" Line="31" Column="22" />
+      <File FileName="Assets/ND_VariaBULLET/Scripts/Collision/ShotCollisionDamage.cs" Line="20" Column="1" />
+      <File FileName="Assets/My Stuff/Scripts/PlayerMovement.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,11 +12,12 @@
             <Node name="Assets" expanded="True">
               <Node name="My Stuff" expanded="True">
                 <Node name="Scripts" expanded="True">
-                  <Node name="Boundary.cs" selected="True" />
+                  <Node name="PlayerMovement.cs" selected="True" />
                 </Node>
               </Node>
               <Node name="ND_VariaBULLET" expanded="True">
                 <Node name="Scripts" expanded="True">
+                  <Node name="Collision" expanded="True" />
                   <Node name="Pattern" expanded="True" />
                   <Node name="Shot" expanded="True" />
                 </Node>
