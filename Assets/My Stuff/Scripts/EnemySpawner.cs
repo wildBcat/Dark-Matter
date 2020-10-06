@@ -78,11 +78,6 @@ public class EnemySpawner : MonoBehaviour
         }
 
         yield return new WaitUntil(() => pathsFinished == waveConfig.prefabs.Length);
-
-        //while (pathsFinished != waveConfig.prefabs.Length)
-        //{
-        //    yield return null;
-        //}
     }
 
     /* 
@@ -107,6 +102,5 @@ public class EnemySpawner : MonoBehaviour
             yield return new WaitForSeconds(timeBetweenSpawns);
         }
         pathsFinished += 1;
-        Debug.Log(pathsFinished);
     }
 }

@@ -73,7 +73,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114000011034832334, guid: 6ceec300808987147a520c929f10a129, type: 3}
       propertyPath: DamagePerHit
-      value: 200
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 212000010333916982, guid: 6ceec300808987147a520c929f10a129, type: 3}
       propertyPath: m_SortingLayerID

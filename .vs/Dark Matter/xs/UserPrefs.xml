@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{97523C28-2D04-E105-9D1B-383266DB5E1E}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My Stuff/Scripts/EnemySpawner.cs">
     <Files>
-      <File FileName="Assets/My Stuff/Scripts/EnemySpawner.cs" Line="80" Column="43" />
+      <File FileName="Assets/My Stuff/Scripts/EnemySpawner.cs" Line="104" Column="28" />
       <File FileName="Assets/My Stuff/Scripts/WaveConfig.cs" />
       <File FileName="Assets/ND_VariaBULLET/Scripts/Shot/FireBase.cs" />
       <File FileName="Assets/ND_VariaBULLET/Scripts/Pattern/SpreadPattern.cs" />
