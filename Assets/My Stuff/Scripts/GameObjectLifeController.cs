@@ -19,20 +19,16 @@ namespace ND_VariaBULLET
         [SerializeField] Color flickerColor = default;
 
         [Header("Death Settings")]
-        [Tooltip("Sets which explosions to trigger when the gameobject's life is reduced to <= 0.")]
-        public ExplosionController[] explosions;
+        [Tooltip("Sets the name of the explosion prefab to be instantiated when HP = 0. " +
+            "This must be a string that matches an explosion prefab that is preloaded in the global shot manager")]
+        public string DeathExplosion;
+        [Range(0.1f, 8f)]
+        [Tooltip("Sets the size of the explosion (when HP = 0). The bigger the number the bigger the explosion")]
+        public float FinalExplodeFactor = 2;
 
         private SpriteRenderer spriteRenderer = default;
         private Color originalColor = default;
-
         private bool isInvincible = default;
-
-        [Tooltip("Sets the name of the explosion prefab to be instantiated when HP = 0.")]
-        public string DeathExplosion;
-
-        [Range(0.1f, 8f)]
-        [Tooltip("Changes the size of the last explosion (when HP = 0).")]
-        public float FinalExplodeFactor = 2;
 
         /*
          * Loads the array with each child sprite's sprite renderer, but only if they are tagged "Parts" 

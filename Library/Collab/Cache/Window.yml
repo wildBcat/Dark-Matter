@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/My Stuff/Sprites/ships_void.png
+    - Assets/My Stuff/Sprites/ships_void.png.meta
     - 
-    m_Values: 01
+    m_Values: 010101
   RevisionSummary: MAJOR CHANGES - Changes the collision layer of the boundry, and
     of the celestial objects. Added new sprites and made new animations. Changing
     the images of all ships.  Changed death explosion. Changed damage flicker. Work

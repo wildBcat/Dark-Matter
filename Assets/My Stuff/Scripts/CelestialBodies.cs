@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Sets up the type fo celestial bodies, stores them in lists, and randomly instantiates them withing the screen limits
+/// </summary>
 public class CelestialBodies : MonoBehaviour
 {
     ScreenBounds screenBounds = default;
@@ -15,7 +18,6 @@ public class CelestialBodies : MonoBehaviour
     [SerializeField] float planetTimeRandomizer = default;
     [Tooltip("Sets the time delay before spawing the first planet.")]
     [SerializeField] int planetBeginSpawnTime = default;
-
 
     [Header("Asteroid Settings")]
     [Tooltip("Sets asteroid prefabs. The larger size number, the more asteroid prefabs you can set.")]
@@ -35,16 +37,7 @@ public class CelestialBodies : MonoBehaviour
     [Tooltip("Sets a randomizer to the starfield spwan time. The generated time will either decrees or increase the spwan time.")]
     [SerializeField] float starfieldTimeRandomizer = default;
     [Tooltip("Sets the time delay before spawing the first starfield.")]
-    [SerializeField] int starfieldBeginSpawnTime = default;
-
-    // Variable for the instantiated planet
-    private GameObject newPlanet = default;
-
-    // Variable for the instantiated asteroid
-    private GameObject newAstoid = default;
-
-    // Variable for the instantiated starfield
-    private GameObject newStarfield = default;
+    [SerializeField] private int starfieldBeginSpawnTime = default;
 
     // A list that stores the planets
     readonly List<GameObject> celestialBodyList = new List<GameObject>();
@@ -60,13 +53,9 @@ public class CelestialBodies : MonoBehaviour
 
     private void Start()
     {
-        // Sets the vaslue from screenBounds from the ScreenBounds script
         screenBounds = gameObject.AddComponent<ScreenBounds>();
-
         StartCoroutine(PlanetCreation());
-
         StartCoroutine(AsteroidCreation());
-
         StartCoroutine(StarfieldCreation());
     }
 
@@ -82,11 +71,9 @@ public class CelestialBodies : MonoBehaviour
         {
             // Chooses a random object from the list, generates it, and then deletes it from the list
             int randomIndex = Random.Range(0, celestialBodyList.Count);
-
-            newPlanet = Instantiate(celestialBodyList[randomIndex],
+            _ = Instantiate(celestialBodyList[randomIndex],
                 new Vector3(Random.Range(screenBounds.xMin, screenBounds.xMax), screenBounds.yMax + padding, 0),
                 Quaternion.Euler(0, 0, 0));
-
             celestialBodyList.RemoveAt(randomIndex);
 
             //if the list decreased to zero, reinstall it
@@ -97,7 +84,6 @@ public class CelestialBodies : MonoBehaviour
                     celestialBodyList.Add(planets[i]);
                 }
             }
-
             yield return new WaitForSeconds(planetSpawnTime + Random.Range(-planetTimeRandomizer, planetTimeRandomizer));
         }
     }
@@ -114,11 +100,9 @@ public class CelestialBodies : MonoBehaviour
         {
             // Chooses a random object from the list, generates it, and then deletes it from the list
             int randomIndex = Random.Range(0, astroidList.Count);
-
-            newAstoid = Instantiate(astroidList[randomIndex],
+            _ = Instantiate(astroidList[randomIndex],
                 new Vector3(Random.Range(screenBounds.xMin, screenBounds.xMax), screenBounds.yMax + padding, 0),
                 Quaternion.Euler(0, 0, 0));
-
             astroidList.RemoveAt(randomIndex);
 
             //if the list decreased to zero, reinstall it
@@ -129,7 +113,6 @@ public class CelestialBodies : MonoBehaviour
                     astroidList.Add(asteroids[i]);
                 }
             }
-
             yield return new WaitForSeconds(asteroidSpawnTime + Random.Range(-asteroidTimeRandomizer, asteroidTimeRandomizer));
         }
     }
@@ -146,11 +129,9 @@ public class CelestialBodies : MonoBehaviour
         {
             // Chooses a random object from the list, generates it, and then deletes it from the list
             int randomIndex = Random.Range(0, starfieldList.Count);
-
-            newStarfield = Instantiate(starfieldList[randomIndex],
+            _ = Instantiate(starfieldList[randomIndex],
                 new Vector3(Random.Range(screenBounds.xMin, screenBounds.xMax), screenBounds.yMax + padding, 0),
                 Quaternion.Euler(0, 0, 0));
-
             starfieldList.RemoveAt(randomIndex);
 
             //if the list decreased to zero, reinstall it
@@ -161,7 +142,6 @@ public class CelestialBodies : MonoBehaviour
                     starfieldList.Add(starfield[i]);
                 }
             }
-
             yield return new WaitForSeconds(starfieldSpawnTime + Random.Range(-starfieldTimeRandomizer, starfieldTimeRandomizer));
         }
     }

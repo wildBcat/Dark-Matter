@@ -60,7 +60,6 @@
     <Compile Include="Assets/2D Pixel Spaceship Constructor/Scripts/ForDemoOnly/MainDemoController.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Utility/Timer.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Collision/DamagerBody.cs" />
-    <Compile Include="Assets/My Stuff/Scripts/BaseObjectController.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Demo/Scripts/CoinOnDestroyed.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Demo/Scripts/FocusShotSwitcher.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Collision/IDamager.cs" />
@@ -71,6 +70,7 @@
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotBouncyPhysics.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotGravitational.cs" />
     <Compile Include="Assets/grideffect/controlsc.cs" />
+    <Compile Include="Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Scripts/PingPongMove.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Demo/Scripts/CantroRunAnim.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Demo/Scripts/GoofLogic.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotPhysics.cs" />
@@ -92,6 +92,7 @@
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Pattern/AutomateBase.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Demo/Scripts/ScrollBG.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotBaseRotatable.cs" />
+    <Compile Include="Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Scripts/TrackMouse.cs" />
     <Compile Include="Assets/My Stuff/Scripts/EnemySpawner.cs" />
     <Compile Include="Assets/2D Pixel Spaceship Constructor/Scripts/ExplosionController.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotBaseAnimatable.cs" />
@@ -123,7 +124,7 @@
     <Compile Include="Assets/PathCreator/Examples/Scripts/PathFollower.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotHoming.cs" />
     <Compile Include="Assets/2D Pixel Spaceship Constructor/Scripts/WeaponController.cs" />
-    <Compile Include="Assets/My Stuff/Scripts/DirectMoving.cs" />
+    <Compile Include="Assets/My Stuff/Scripts/AutomatedMovement.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Utility/HomingCalc.cs" />
     <Compile Include="Assets/My Stuff/Scripts/CelestialBodies.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/FireExpanding.cs" />
@@ -155,6 +156,7 @@
     <Compile Include="Assets/ND_VariaBULLET/Demo/Scripts/BlastShip.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Demo/Scripts/BallReloader.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotExploding.cs" />
+    <Compile Include="Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/LetterBoxer.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotBaseColorizable.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotLaserMask.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Demo/Scripts/TurretController.cs" />
@@ -162,9 +164,6 @@
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotAccelerating.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotBase.cs" />
     <Compile Include="Assets/My Stuff/Scripts/Inputs/Inputs Actions.cs" />
-    <Compile Include="Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Scripts/PingPongMove.cs" />
-    <Compile Include="Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/Scripts/TrackMouse.cs" />
-    <Compile Include="Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/LetterBoxer.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/LetterBoxer-master/LetterBoxer/ProjectSettings/ProjectVersion.txt" />

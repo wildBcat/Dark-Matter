@@ -5,24 +5,22 @@
 /// </summary>
 public class Boundary : MonoBehaviour
 {
+    private BoxCollider2D boundareCollider;
 
-    BoxCollider2D boundareCollider;
-
-    //receiving collider's component and changing boundary borders
     private void Start()
     {
         boundareCollider = GetComponent<BoxCollider2D>();
         ResizeCollider();
     }
 
-    //changing the collider's size up to Viewport's size multiply 1.5
+    // Sets the boundry collider's size to match the viewport's size
     void ResizeCollider()
     {
         Vector2 viewportSize = Camera.main.ViewportToWorldPoint(new Vector2(1f, 1)) * 2;
         boundareCollider.size = viewportSize;
     }
 
-    //when another object leaves collider
+    // Sets destroy commands for any object exiting the boundry collider that has a matching tag
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.CompareTag("Planet"))
@@ -42,5 +40,4 @@ public class Boundary : MonoBehaviour
             Destroy(collision.gameObject);
         }
     }
-
 }

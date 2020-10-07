@@ -3,6 +3,8 @@ using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
+    ScreenBounds screenBounds = default;
+
     [Tooltip("Sets the player's speed. The higher the number, the faster the movement.")]
     [SerializeField] float moveSpeed = default;
 
@@ -15,11 +17,8 @@ public class PlayerMovement : MonoBehaviour
     //private Vector2 touchInput;
     private float clickInput = default;
 
-    ScreenBounds screenBounds = default;
-
     private Rigidbody2D rb = default;
     private SpriteRenderer sr = default;
-
     private Animator animator;
 
     private void Awake()

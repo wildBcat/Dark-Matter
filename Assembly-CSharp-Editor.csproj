@@ -59,10 +59,10 @@
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Editor/FireBaseEditor.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Editor/BasePatternEditor.cs" />
     <Compile Include="Assets/PathCreator/Examples/Scripts/Editor/PathSceneToolEditor.cs" />
+    <Compile Include="Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Editor/LetterBoxerEditor.cs" />
     <Compile Include="Assets/Nightfox/Tools/Consistent Line Endings/Core/Editor/AutofixLineEndingsMenu.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Editor/VariaManager.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Editor/RatePopUp.cs" />
-    <Compile Include="Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Editor/LetterBoxerEditor.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/Nightfox/Tools/Consistent Line Endings/Core/Editor/Nightfox.Tools.Eol.dll" />

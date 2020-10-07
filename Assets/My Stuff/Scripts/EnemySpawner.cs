@@ -11,7 +11,7 @@ public class EnemySpawner : MonoBehaviour
     [SerializeField] List<WaveConfig> waveList = default;
 
     [Header("Wave Spawning Settings")]
-    [Tooltip("Sets wheter or not you want a wait between waves. Checked is yes, unchecked is no.")]
+    [Tooltip("Sets whether or not you want a wait time between waves. Checked is yes, unchecked is no.")]
     [SerializeField] private bool waveInterval = default;
     [Tooltip("Sets the interval time between wave spawns. " +
         "The higher the number, the longer the wait time before the next wave spawns.")]
@@ -40,12 +40,12 @@ public class EnemySpawner : MonoBehaviour
         {
             yield return StartCoroutine(SpawnAllWaves());
         }
-        while (looping); // Need to fix this
+        while (looping);
     }
 
     /* 
-     Sets the current wave number and starts the wave creation coroutine. 
-     Starts each new wave after the first one has processed, following a wave interval wait time.
+     * Sets the current wave number and starts the wave creation coroutine.
+     * Starts each new wave after the first one has processed, following a wave interval wait time.
     */
     private IEnumerator SpawnAllWaves() 
     {        
@@ -63,9 +63,9 @@ public class EnemySpawner : MonoBehaviour
     }
 
     /* 
-     Sets the current path number paths the first and starts the path creation coroutine. 
-     Starts each new path after the first one has processed.
-     It does not allow to move back up into the SpawnAllWaves coroutine until all enemies in all paths of the current wave have spawned
+     * Sets the current path number paths the first and starts the path creation coroutine. 
+     * Starts each new path after the first one has processed.
+     * It does not allow to move back up into the SpawnAllWaves coroutine until all enemies in all paths of the current wave have spawned
     */
     private IEnumerator SpawnAllPathsInWave(WaveConfig waveConfig)
     {
@@ -81,8 +81,8 @@ public class EnemySpawner : MonoBehaviour
     }
 
     /* 
-     Sets the values for each serialized field in the wave config and begins spawning enemies. 
-     Adds a count to the pathsFinished variable after all enemies on the path have been spawned.
+     * Sets the values for each serialized field in the wave config and begins spawning enemies.
+     * Adds a count to the pathsFinished variable after all enemies on the path have been spawned.  
     */
     private IEnumerator SpawnAllPaths(WaveConfig.Prefabs currentPath)
     {
