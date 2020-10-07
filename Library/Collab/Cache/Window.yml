@@ -14,9 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/My Stuff/Prefabs/Asteroids/ships_asteroids_1.prefab
     - 
-    m_Values: 01
-  RevisionSummary: 
+    m_Values: 0101
+  RevisionSummary: Made New Asteroids. It was a lot of work.
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0

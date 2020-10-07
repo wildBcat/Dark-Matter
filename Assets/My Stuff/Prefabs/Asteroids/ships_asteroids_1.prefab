@@ -134,8 +134,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionList:
-  - Player
-  - Enemy
   - ND_PlayerBullet
   - ND_EnemyBullet
   LaserExplosion: ExplosionWallHit
