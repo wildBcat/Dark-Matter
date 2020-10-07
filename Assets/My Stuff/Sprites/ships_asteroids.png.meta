@@ -1,0 +1,4216 @@
+fileFormatVersion: 2
+guid: 43c50c586367949c591da48aab6a590f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1038397394296022745
+    second: ships_asteroids_0
+  - first:
+      213: -879263441908028596
+    second: ships_asteroids_1
+  - first:
+      213: -8013172223047156947
+    second: ships_asteroids_2
+  - first:
+      213: -4140720061850687957
+    second: ships_asteroids_3
+  - first:
+      213: -1229705066523095764
+    second: ships_asteroids_4
+  - first:
+      213: -4914968401122147390
+    second: ships_asteroids_5
+  - first:
+      213: 1563661477978313787
+    second: ships_asteroids_6
+  - first:
+      213: -5581006440091270372
+    second: ships_asteroids_7
+  - first:
+      213: 1009259914058444548
+    second: ships_asteroids_8
+  - first:
+      213: -1646894477890838601
+    second: ships_asteroids_9
+  - first:
+      213: 2151527344432677234
+    second: ships_asteroids_10
+  - first:
+      213: -6282835344295381717
+    second: ships_asteroids_11
+  - first:
+      213: -7292945408188730833
+    second: ships_asteroids_12
+  - first:
+      213: -4091769039069241246
+    second: ships_asteroids_13
+  - first:
+      213: 845713842788597318
+    second: ships_asteroids_14
+  - first:
+      213: 4756049775309711836
+    second: ships_asteroids_15
+  - first:
+      213: -3171467913357320217
+    second: ships_asteroids_16
+  - first:
+      213: 2864566038304131228
+    second: ships_asteroids_17
+  - first:
+      213: -8551534227634991319
+    second: ships_asteroids_18
+  - first:
+      213: -8275737514610264179
+    second: ships_asteroids_19
+  - first:
+      213: -8917135338572916393
+    second: ships_asteroids_20
+  - first:
+      213: -4101661751573635352
+    second: ships_asteroids_21
+  - first:
+      213: 2179147570175874654
+    second: ships_asteroids_22
+  - first:
+      213: -2877517890291850626
+    second: ships_asteroids_23
+  - first:
+      213: 8868727287250165121
+    second: ships_asteroids_24
+  - first:
+      213: 2273467959505728523
+    second: ships_asteroids_25
+  - first:
+      213: 7877037084896890509
+    second: ships_asteroids_26
+  - first:
+      213: 8704284848578011757
+    second: ships_asteroids_27
+  - first:
+      213: 3418256573297676866
+    second: ships_asteroids_28
+  - first:
+      213: 8539477435429969257
+    second: ships_asteroids_29
+  - first:
+      213: 2118641185973619751
+    second: ships_asteroids_30
+  - first:
+      213: 3737470038195623859
+    second: ships_asteroids_31
+  - first:
+      213: -8136511970934689816
+    second: ships_asteroids_32
+  - first:
+      213: 4099634607130140857
+    second: ships_asteroids_33
+  - first:
+      213: 2688870164703336691
+    second: ships_asteroids_34
+  - first:
+      213: -29151525075188906
+    second: ships_asteroids_35
+  - first:
+      213: 724731007486458268
+    second: ships_asteroids_36
+  - first:
+      213: 338137613060042079
+    second: ships_asteroids_37
+  - first:
+      213: -2002591911568993663
+    second: ships_asteroids_38
+  - first:
+      213: 7686676436675735744
+    second: ships_asteroids_39
+  - first:
+      213: -7490640601831684779
+    second: ships_asteroids_40
+  - first:
+      213: -1362175892000949062
+    second: ships_asteroids_41
+  - first:
+      213: -5671862240928898006
+    second: ships_asteroids_42
+  - first:
+      213: 5777458646562529576
+    second: ships_asteroids_43
+  - first:
+      213: 7347996211452347772
+    second: ships_asteroids_44
+  - first:
+      213: 5766520620709703036
+    second: ships_asteroids_45
+  - first:
+      213: 8475800009052312082
+    second: ships_asteroids_46
+  - first:
+      213: -8076208337690533558
+    second: ships_asteroids_47
+  - first:
+      213: -7747071291115651456
+    second: ships_asteroids_48
+  - first:
+      213: 6940680614595050648
+    second: ships_asteroids_49
+  - first:
+      213: -7692246118464230987
+    second: ships_asteroids_50
+  - first:
+      213: -5038131865636807958
+    second: ships_asteroids_51
+  - first:
+      213: 493667935357810516
+    second: ships_asteroids_52
+  - first:
+      213: 8743385463132688113
+    second: ships_asteroids_53
+  - first:
+      213: -7107206862148518744
+    second: ships_asteroids_54
+  - first:
+      213: 8981920916760788250
+    second: ships_asteroids_55
+  - first:
+      213: 8420228112655908594
+    second: ships_asteroids_56
+  - first:
+      213: 2806083111056539587
+    second: ships_asteroids_57
+  - first:
+      213: 4785030841603923570
+    second: ships_asteroids_58
+  - first:
+      213: -5200120705735717133
+    second: ships_asteroids_59
+  - first:
+      213: -5118547773700151780
+    second: ships_asteroids_60
+  - first:
+      213: -7460549257181327418
+    second: ships_asteroids_61
+  - first:
+      213: 480847351845144028
+    second: ships_asteroids_62
+  - first:
+      213: 3330468213859765522
+    second: ships_asteroids_63
+  - first:
+      213: 6281654564321416938
+    second: ships_asteroids_64
+  - first:
+      213: 2330848323071941267
+    second: ships_asteroids_65
+  - first:
+      213: -8431467014350310895
+    second: ships_asteroids_66
+  - first:
+      213: 5323174936229451158
+    second: ships_asteroids_67
+  - first:
+      213: 4516852537654418489
+    second: ships_asteroids_68
+  - first:
+      213: 1858980225860344503
+    second: ships_asteroids_69
+  - first:
+      213: 2483925068099850767
+    second: ships_asteroids_70
+  - first:
+      213: -2599794849309172157
+    second: ships_asteroids_71
+  - first:
+      213: -3843403223427444114
+    second: ships_asteroids_72
+  - first:
+      213: 2135053247186134
+    second: ships_asteroids_73
+  - first:
+      213: 5960730513668264965
+    second: ships_asteroids_74
+  - first:
+      213: 4482801855180243405
+    second: ships_asteroids_75
+  - first:
+      213: 2255762873066285521
+    second: ships_asteroids_76
+  - first:
+      213: 5239085035817262112
+    second: ships_asteroids_77
+  - first:
+      213: -7410749454073190360
+    second: ships_asteroids_78
+  - first:
+      213: 5519143975499097409
+    second: ships_asteroids_79
+  - first:
+      213: -4221059102211779051
+    second: ships_asteroids_80
+  - first:
+      213: 3738057368489615427
+    second: ships_asteroids_81
+  - first:
+      213: 8331523023115480390
+    second: ships_asteroids_82
+  - first:
+      213: -2391929757719057682
+    second: ships_asteroids_83
+  - first:
+      213: 5955863650875917305
+    second: ships_asteroids_84
+  - first:
+      213: 3878416244070228711
+    second: ships_asteroids_85
+  - first:
+      213: -6285751623410652857
+    second: ships_asteroids_86
+  - first:
+      213: -8105216078649293993
+    second: ships_asteroids_87
+  - first:
+      213: 3868810394720559536
+    second: ships_asteroids_88
+  - first:
+      213: -5953260855504979572
+    second: ships_asteroids_89
+  - first:
+      213: 566637509692773796
+    second: ships_asteroids_90
+  - first:
+      213: -8983282484235616466
+    second: ships_asteroids_91
+  - first:
+      213: -4151009948236333723
+    second: ships_asteroids_92
+  - first:
+      213: -1594374156105615303
+    second: ships_asteroids_93
+  - first:
+      213: 8792861711470677713
+    second: ships_asteroids_94
+  - first:
+      213: 8084917233200228097
+    second: ships_asteroids_95
+  - first:
+      213: -3919317182202889084
+    second: ships_asteroids_96
+  - first:
+      213: 5461977953532325732
+    second: ships_asteroids_97
+  - first:
+      213: 3810642235063085665
+    second: ships_asteroids_98
+  - first:
+      213: 2166684460683755571
+    second: ships_asteroids_99
+  - first:
+      213: 1104264073726878883
+    second: ships_asteroids_100
+  - first:
+      213: -7483981482866759362
+    second: ships_asteroids_101
+  - first:
+      213: 5543853253444920802
+    second: ships_asteroids_102
+  - first:
+      213: -7927937187994906697
+    second: ships_asteroids_103
+  - first:
+      213: 274363327550183497
+    second: ships_asteroids_104
+  - first:
+      213: -1715475780309128109
+    second: ships_asteroids_105
+  - first:
+      213: -3600458565803718244
+    second: ships_asteroids_106
+  - first:
+      213: -7165974772607596041
+    second: ships_asteroids_107
+  - first:
+      213: 4243284929003149148
+    second: ships_asteroids_108
+  - first:
+      213: -5302758735669629234
+    second: ships_asteroids_109
+  - first:
+      213: -3716426416171077749
+    second: ships_asteroids_110
+  - first:
+      213: 8680163544217644905
+    second: ships_asteroids_111
+  - first:
+      213: 7291274658424675243
+    second: ships_asteroids_112
+  - first:
+      213: -5461259554599839662
+    second: ships_asteroids_113
+  - first:
+      213: 2611563363596230536
+    second: ships_asteroids_114
+  - first:
+      213: -7138789109777940148
+    second: ships_asteroids_115
+  - first:
+      213: 136222439223102114
+    second: ships_asteroids_116
+  - first:
+      213: 2299919033826950274
+    second: ships_asteroids_117
+  - first:
+      213: 291581112178625479
+    second: ships_asteroids_118
+  - first:
+      213: 8631662209248244665
+    second: ships_asteroids_119
+  - first:
+      213: -5692810752540074828
+    second: ships_asteroids_120
+  - first:
+      213: 3960052536556525224
+    second: ships_asteroids_121
+  - first:
+      213: -1995416459779177056
+    second: ships_asteroids_122
+  - first:
+      213: -693806031151230714
+    second: ships_asteroids_123
+  - first:
+      213: -5019399932473360676
+    second: ships_asteroids_124
+  - first:
+      213: 5325452550428862743
+    second: ships_asteroids_125
+  - first:
+      213: 2067108131029308623
+    second: ships_asteroids_126
+  - first:
+      213: -1073690202879269717
+    second: ships_asteroids_127
+  - first:
+      213: 9162813512562292713
+    second: ships_asteroids_128
+  - first:
+      213: 745562044119266116
+    second: ships_asteroids_129
+  - first:
+      213: -6984229823051108880
+    second: ships_asteroids_130
+  - first:
+      213: -6047153766784596756
+    second: ships_asteroids_131
+  - first:
+      213: 7390076859948502206
+    second: ships_asteroids_132
+  - first:
+      213: -2198346929289893905
+    second: ships_asteroids_0
+  - first:
+      213: 1696731710878547602
+    second: ships_asteroids_1
+  - first:
+      213: 4690618407390417650
+    second: ships_asteroids_2
+  - first:
+      213: -3477984296721669395
+    second: ships_asteroids_3
+  - first:
+      213: -7293859798378211170
+    second: ships_asteroids_4
+  - first:
+      213: -8145439275292661171
+    second: ships_asteroids_5
+  - first:
+      213: -7489981124928131831
+    second: ships_asteroids_6
+  - first:
+      213: 3220284581113900925
+    second: ships_asteroids_7
+  - first:
+      213: 1037939276246149204
+    second: ships_asteroids_8
+  - first:
+      213: 2888377354971537501
+    second: ships_asteroids_9
+  - first:
+      213: -526096317172866185
+    second: ships_asteroids_10
+  - first:
+      213: -6719248170635357261
+    second: ships_asteroids_11
+  - first:
+      213: 4160897156685794539
+    second: ships_asteroids_12
+  - first:
+      213: -4811342278919471814
+    second: ships_asteroids_13
+  - first:
+      213: 3911163906778978828
+    second: ships_asteroids_14
+  - first:
+      213: 3891765026302095586
+    second: ships_asteroids_15
+  - first:
+      213: 7837995800266120789
+    second: ships_asteroids_16
+  - first:
+      213: 2877343134462290743
+    second: ships_asteroids_17
+  - first:
+      213: -8876042173221751249
+    second: ships_asteroids_18
+  - first:
+      213: -7002423837239893742
+    second: ships_asteroids_19
+  - first:
+      213: 3883502206105917680
+    second: ships_asteroids_20
+  - first:
+      213: -1716844253333416822
+    second: ships_asteroids_21
+  - first:
+      213: -8486845263700116449
+    second: ships_asteroids_22
+  - first:
+      213: -2982918693116542877
+    second: ships_asteroids_23
+  - first:
+      213: 8787956582836225329
+    second: ships_asteroids_24
+  - first:
+      213: -8936163133171913521
+    second: ships_asteroids_25
+  - first:
+      213: 6177183073557676376
+    second: ships_asteroids_26
+  - first:
+      213: -6141406980597548735
+    second: ships_asteroids_27
+  - first:
+      213: 1966935941394483370
+    second: ships_asteroids_28
+  - first:
+      213: -5090705857430953761
+    second: ships_asteroids_29
+  - first:
+      213: 5858366834516547422
+    second: ships_asteroids_30
+  - first:
+      213: 321345697956105856
+    second: ships_asteroids_31
+  - first:
+      213: 2145637766906957120
+    second: ships_asteroids_32
+  - first:
+      213: 1043910954574454162
+    second: ships_asteroids_33
+  - first:
+      213: -2543369553030068330
+    second: ships_asteroids_34
+  - first:
+      213: -97409438763717241
+    second: ships_asteroids_35
+  - first:
+      213: -2389672849466448506
+    second: ships_asteroids_36
+  - first:
+      213: 5087891211173553331
+    second: ships_asteroids_37
+  - first:
+      213: 6480309718206523025
+    second: ships_asteroids_38
+  - first:
+      213: -7296231618855436111
+    second: ships_asteroids_39
+  - first:
+      213: 3636644037616262797
+    second: ships_asteroids_40
+  - first:
+      213: 1646862254302161489
+    second: ships_asteroids_41
+  - first:
+      213: -4496674966877562710
+    second: ships_asteroids_42
+  - first:
+      213: 3603548352255927333
+    second: ships_asteroids_43
+  - first:
+      213: 1106891962201255290
+    second: ships_asteroids_44
+  - first:
+      213: -7306556812766786244
+    second: ships_asteroids_45
+  - first:
+      213: -780905855973035122
+    second: ships_asteroids_46
+  - first:
+      213: 5780699787140786929
+    second: ships_asteroids_47
+  - first:
+      213: 1923119719409910723
+    second: ships_asteroids_48
+  - first:
+      213: 3153918160986480684
+    second: ships_asteroids_49
+  - first:
+      213: 5541215969548550603
+    second: ships_asteroids_50
+  - first:
+      213: -4846226283305773725
+    second: ships_asteroids_51
+  - first:
+      213: 3054246392767854783
+    second: ships_asteroids_52
+  - first:
+      213: 8525466782498595231
+    second: ships_asteroids_53
+  - first:
+      213: 7812774000189856272
+    second: ships_asteroids_54
+  - first:
+      213: -243806843504596509
+    second: ships_asteroids_55
+  - first:
+      213: -3310223926503444395
+    second: ships_asteroids_56
+  - first:
+      213: 3288966904779789590
+    second: ships_asteroids_57
+  - first:
+      213: -5049973058239985911
+    second: ships_asteroids_58
+  - first:
+      213: -4688772597240553751
+    second: ships_asteroids_59
+  - first:
+      213: -3706228615058038350
+    second: ships_asteroids_60
+  - first:
+      213: -3259836473808977311
+    second: ships_asteroids_61
+  - first:
+      213: -8261686140678203715
+    second: ships_asteroids_62
+  - first:
+      213: -2997980452499071150
+    second: ships_asteroids_63
+  - first:
+      213: -8944380588559002327
+    second: ships_asteroids_64
+  - first:
+      213: 1000151125554828660
+    second: ships_asteroids_65
+  - first:
+      213: -8865927027751608179
+    second: ships_asteroids_66
+  - first:
+      213: 4184494846856209773
+    second: ships_asteroids_67
+  - first:
+      213: 1134711383057427237
+    second: ships_asteroids_68
+  - first:
+      213: -7483577061828540426
+    second: ships_asteroids_69
+  - first:
+      213: 5870511192845530959
+    second: ships_asteroids_70
+  - first:
+      213: -7941979701220472680
+    second: ships_asteroids_71
+  - first:
+      213: -4524274356200800236
+    second: ships_asteroids_72
+  - first:
+      213: -4302134554942208135
+    second: ships_asteroids_73
+  - first:
+      213: -6922175190890817821
+    second: ships_asteroids_74
+  - first:
+      213: -8773501688284854468
+    second: ships_asteroids_75
+  - first:
+      213: -4702270969504863729
+    second: ships_asteroids_76
+  - first:
+      213: 5400971473093621134
+    second: ships_asteroids_77
+  - first:
+      213: -8587654657849633922
+    second: ships_asteroids_78
+  - first:
+      213: -6223781742572138135
+    second: ships_asteroids_79
+  - first:
+      213: 328877630187485017
+    second: ships_asteroids_80
+  - first:
+      213: 3870685206834558286
+    second: ships_asteroids_81
+  - first:
+      213: 516331327323212026
+    second: ships_asteroids_82
+  - first:
+      213: 3883659712216543429
+    second: ships_asteroids_83
+  - first:
+      213: 2117356192346576080
+    second: ships_asteroids_84
+  - first:
+      213: -8879381815669677270
+    second: ships_asteroids_85
+  - first:
+      213: -8780757609550485634
+    second: ships_asteroids_86
+  - first:
+      213: -336181158844407963
+    second: ships_asteroids_87
+  - first:
+      213: 6286149829450132364
+    second: ships_asteroids_88
+  - first:
+      213: 1763295516040083390
+    second: ships_asteroids_89
+  - first:
+      213: -6508177922391304252
+    second: ships_asteroids_90
+  - first:
+      213: -3184403605376705696
+    second: ships_asteroids_91
+  - first:
+      213: -3019307895273357047
+    second: ships_asteroids_92
+  - first:
+      213: 2396960868080843384
+    second: ships_asteroids_93
+  - first:
+      213: 5903719950077817609
+    second: ships_asteroids_94
+  - first:
+      213: 2352872704042163414
+    second: ships_asteroids_95
+  - first:
+      213: -458543581442360656
+    second: ships_asteroids_96
+  - first:
+      213: -3051267901802023383
+    second: ships_asteroids_97
+  - first:
+      213: -7935680716314631839
+    second: ships_asteroids_98
+  - first:
+      213: 2602206256300431800
+    second: ships_asteroids_99
+  - first:
+      213: 466692749840640411
+    second: ships_asteroids_100
+  - first:
+      213: 505549492223367809
+    second: ships_asteroids_101
+  - first:
+      213: -170436068369764933
+    second: ships_asteroids_102
+  - first:
+      213: 8423168177886908663
+    second: ships_asteroids_103
+  - first:
+      213: 4338380932543678048
+    second: ships_asteroids_104
+  - first:
+      213: -6668586992042468323
+    second: ships_asteroids_105
+  - first:
+      213: -494625738787101108
+    second: ships_asteroids_106
+  - first:
+      213: -604423358329793758
+    second: ships_asteroids_107
+  - first:
+      213: -9047082400833951147
+    second: ships_asteroids_108
+  - first:
+      213: 1995368690154952126
+    second: ships_asteroids_109
+  - first:
+      213: -7119306018670227339
+    second: ships_asteroids_110
+  - first:
+      213: 3893839035644411696
+    second: ships_asteroids_111
+  - first:
+      213: -3265112853561708230
+    second: ships_asteroids_112
+  - first:
+      213: -6572100127656918220
+    second: ships_asteroids_113
+  - first:
+      213: -6772237827199133726
+    second: ships_asteroids_114
+  - first:
+      213: -3969603876643927435
+    second: ships_asteroids_115
+  - first:
+      213: -5155007864539371986
+    second: ships_asteroids_116
+  - first:
+      213: 1762243379759732074
+    second: ships_asteroids_117
+  - first:
+      213: 5492628081049606843
+    second: ships_asteroids_118
+  - first:
+      213: 6996799590036764037
+    second: ships_asteroids_119
+  - first:
+      213: -7985962076378549801
+    second: ships_asteroids_120
+  - first:
+      213: -2381118089852516810
+    second: ships_asteroids_121
+  - first:
+      213: 4246135580362700969
+    second: ships_asteroids_122
+  - first:
+      213: -2523314841024420540
+    second: ships_asteroids_123
+  - first:
+      213: 6502670282638244086
+    second: ships_asteroids_124
+  - first:
+      213: -3588968664796621027
+    second: ships_asteroids_125
+  - first:
+      213: 7416560029417658442
+    second: ships_asteroids_126
+  - first:
+      213: 3990925591419129167
+    second: ships_asteroids_127
+  - first:
+      213: 7170715795418799571
+    second: ships_asteroids_128
+  - first:
+      213: -2206906663279315148
+    second: ships_asteroids_129
+  - first:
+      213: -7983560347427033258
+    second: ships_asteroids_130
+  - first:
+      213: -2589698311186572847
+    second: ships_asteroids_131
+  - first:
+      213: 618727098955989167
+    second: ships_asteroids_133
+  - first:
+      213: 4180510550552665947
+    second: ships_asteroids_134
+  - first:
+      213: 4271877286369630778
+    second: ships_asteroids_135
+  - first:
+      213: 6254652560643566966
+    second: ships_asteroids_136
+  - first:
+      213: -688355700564998274
+    second: ships_asteroids_137
+  - first:
+      213: 4789018102892235965
+    second: ships_asteroids_138
+  - first:
+      213: -7935738482096280676
+    second: ships_asteroids_139
+  - first:
+      213: 8031357767517162143
+    second: ships_asteroids_140
+  - first:
+      213: -2687820749200732481
+    second: ships_asteroids_141
+  - first:
+      213: 3989678250103227462
+    second: ships_asteroids_142
+  - first:
+      213: 6177426037080042892
+    second: ships_asteroids_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ships_asteroids_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 564
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7ea9a7d17ed71e0800000000000000
+      internalID: -2198346929289893905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e7e0a50800c8710800000000000000
+      internalID: 1696731710878547602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -16}
+        - {x: -16.5, y: -2}
+        - {x: -15.5, y: 7}
+        - {x: -15.5, y: 13}
+        - {x: -16.5, y: 16}
+        - {x: 16.5, y: 16}
+        - {x: 16.5, y: -2}
+        - {x: 15.5, y: -2}
+        - {x: 15.5, y: -4}
+        - {x: 14.5, y: -4}
+        - {x: 14.5, y: -11}
+        - {x: 16.5, y: -16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f21a6de69c681140800000000000000
+      internalID: 4690618407390417650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 560
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2a48395b7bbbfc0800000000000000
+      internalID: -3477984296721669395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 548
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e981a2c682107ca90800000000000000
+      internalID: -7293859798378211170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 544
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a6aa0b22695fe80800000000000000
+      internalID: -8145439275292661171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 528
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -22}
+        - {x: 3, y: -22}
+        - {x: 1, y: -24}
+        - {x: -16, y: -24}
+        - {x: -16, y: 24}
+        - {x: 16, y: 24}
+        - {x: 16, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d274ab9dd3e0890800000000000000
+      internalID: -7489981124928131831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 563
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f26f4c3cfb0bc20800000000000000
+      internalID: 3220284581113900925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458e313c540876e00800000000000000
+      internalID: 1037939276246149204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 544
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d506c5ca6e3951820800000000000000
+      internalID: 2888377354971537501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 532
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7732549df2ee2b8f0800000000000000
+      internalID: -526096317172866185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 516
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3169f836f60c2a0800000000000000
+      internalID: -6719248170635357261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec803b2be97eb930800000000000000
+      internalID: 4160897156685794539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dbf2c50bdaa3db0800000000000000
+      internalID: -4811342278919471814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 512
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ad3e9d9de374630800000000000000
+      internalID: 3911163906778978828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 500
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e076060ca3520630800000000000000
+      internalID: 3891765026302095586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 496
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e9dd127a726cc60800000000000000
+      internalID: 7837995800266120789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 480
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -22}
+        - {x: 3, y: -22}
+        - {x: 1, y: -24}
+        - {x: -16, y: -24}
+        - {x: -16, y: 24}
+        - {x: -9, y: 24}
+        - {x: 0, y: 22}
+        - {x: 3, y: 24}
+        - {x: 16, y: 24}
+        - {x: 16, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ba88206506ee720800000000000000
+      internalID: 2877343134462290743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 515
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f263bb5bba6f1d480800000000000000
+      internalID: -8876042173221751249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211a696de9462de90800000000000000
+      internalID: -7002423837239893742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_20
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 496
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f893674ea8f4e530800000000000000
+      internalID: 3883502206105917680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_21
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 484
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8414617f3b8c28e0800000000000000
+      internalID: -1716844253333416822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 468
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cb279a23ba83a80800000000000000
+      internalID: -8486845263700116449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3608ae6b04b8a96d0800000000000000
+      internalID: -2982918693116542877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135428593f715f970800000000000000
+      internalID: 8787956582836225329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 464
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcca858e9fe5cf380800000000000000
+      internalID: -8936163133171913521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 452
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85106fbf643c9b550800000000000000
+      internalID: 6177183073557676376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149f064c3e655caa0800000000000000
+      internalID: -6141406980597548735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 432
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -22}
+        - {x: 3, y: -22}
+        - {x: 1, y: -24}
+        - {x: -16, y: -24}
+        - {x: -16, y: 24}
+        - {x: -7, y: 24}
+        - {x: -3, y: 21}
+        - {x: 3, y: 24}
+        - {x: 16, y: 24}
+        - {x: 16, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa844c241d5fb4b10800000000000000
+      internalID: 1966935941394483370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 467
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0e3df8efd2a59b0800000000000000
+      internalID: -5090705857430953761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57d947d8991d4150800000000000000
+      internalID: 5858366834516547422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_31
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e06c0b536a57400800000000000000
+      internalID: 321345697956105856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 436
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc6215e26d6cd10800000000000000
+      internalID: 2145637766906957120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 420
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d9c887b77bc7e00800000000000000
+      internalID: 1043910954574454162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697491bedd224bcd0800000000000000
+      internalID: -2543369553030068330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78de7bca1aee5aef0800000000000000
+      internalID: -97409438763717241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_36
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 416
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6852826543d26ded0800000000000000
+      internalID: -2389672849466448506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 404
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4e4d98912db9640800000000000000
+      internalID: 5087891211173553331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 400
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1962634ca5faee950800000000000000
+      internalID: 6480309718206523025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 384
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -22}
+        - {x: 3, y: -22}
+        - {x: 1, y: -24}
+        - {x: -16, y: -24}
+        - {x: -16, y: 24}
+        - {x: -8, y: 24}
+        - {x: -4, y: 21}
+        - {x: 3, y: 24}
+        - {x: 16, y: 24}
+        - {x: 16, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0062feff39eba90800000000000000
+      internalID: -7296231618855436111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_40
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 419
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ed8a40c74f77230800000000000000
+      internalID: 3636644037616262797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aedadae74dad610800000000000000
+      internalID: 1646862254302161489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_42
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 400
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa81fd821f99891c0800000000000000
+      internalID: -4496674966877562710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_43
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 388
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524a82b4220620230800000000000000
+      internalID: 3603548352255927333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 372
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dadb300687c5f00800000000000000
+      internalID: 1106891962201255290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d43d36a45e99a90800000000000000
+      internalID: -7306556812766786244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8374bbe24aa925f0800000000000000
+      internalID: -780905855973035122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_47
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 368
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fae3b534db293050800000000000000
+      internalID: 5780699787140786929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 356
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c30af7123b40ba10800000000000000
+      internalID: 1923119719409910723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_49
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20a0447bd7f4cb20800000000000000
+      internalID: 3153918160986480684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -22}
+        - {x: 5, y: -22}
+        - {x: 1, y: -24}
+        - {x: -16, y: -24}
+        - {x: -16, y: 24}
+        - {x: -8, y: 24}
+        - {x: -3, y: 22}
+        - {x: 3, y: 24}
+        - {x: 16, y: 24}
+        - {x: 16, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1c9a0d09a56ec40800000000000000
+      internalID: 5541215969548550603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_51
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 371
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365d56a2fdebebcb0800000000000000
+      internalID: -4846226283305773725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8327189ecd26a20800000000000000
+      internalID: 3054246392767854783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91a83b6eda805670800000000000000
+      internalID: 8525466782498595231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_54
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 340
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a59bf2f8c8c6c60800000000000000
+      internalID: 7812774000189856272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_55
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 324
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e96913b7f2dd9cf0800000000000000
+      internalID: -243806843504596509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55073cd80e8bf02d0800000000000000
+      internalID: -3310223926503444395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 303
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6155a6569f1c4ad20800000000000000
+      internalID: 3288966904779789590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 320
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907005a6244eae9b0800000000000000
+      internalID: -5049973058239985911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 308
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee14ec3a222eeeb0800000000000000
+      internalID: -4688772597240553751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_60
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 304
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1e31706b4d09cc0800000000000000
+      internalID: -3706228615058038350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_61
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -21}
+        - {x: 5, y: -21}
+        - {x: 1, y: -24}
+        - {x: -16, y: -24}
+        - {x: -16, y: 24}
+        - {x: -7, y: 24}
+        - {x: -3, y: 21}
+        - {x: 3, y: 24}
+        - {x: 16, y: 24}
+        - {x: 16, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16201c89ffbb2c2d0800000000000000
+      internalID: -3259836473808977311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_62
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 323
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db69b133a38985d80800000000000000
+      internalID: -8261686140678203715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f5a3599a80566d0800000000000000
+      internalID: -2997980452499071150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_64
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 304
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9259a0b7e3d2fd380800000000000000
+      internalID: -8944380588559002327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 292
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4751760562041ed00800000000000000
+      internalID: 1000151125554828660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 276
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80a45a8756e5f480800000000000000
+      internalID: -8865927027751608179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65215f84ef421a30800000000000000
+      internalID: 4184494846856209773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52beabdadfd4fbf00800000000000000
+      internalID: 1134711383057427237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_69
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 272
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7c27cdf4ef42890800000000000000
+      internalID: -7483577061828540426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 260
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47338b93de387150800000000000000
+      internalID: 5870511192845530959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 256
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89804674a8b68c190800000000000000
+      internalID: -7941979701220472680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_72
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -21}
+        - {x: 6, y: -21}
+        - {x: 1, y: -24}
+        - {x: -16, y: -24}
+        - {x: -16, y: 24}
+        - {x: -9, y: 24}
+        - {x: -3, y: 21}
+        - {x: 3, y: 24}
+        - {x: 16, y: 24}
+        - {x: 16, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4100e34917c8631c0800000000000000
+      internalID: -4524274356200800236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_73
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 275
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9778cbc7a6fbb44c0800000000000000
+      internalID: -4302134554942208135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e65ee1d65e7fef90800000000000000
+      internalID: -6922175190890817821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_75
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 256
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37cd71d2b24e3680800000000000000
+      internalID: -8773501688284854468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_76
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 244
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ae709877d2ebeb0800000000000000
+      internalID: -4702270969504863729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_77
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8573cf60fa14fa40800000000000000
+      internalID: 5400971473093621134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d429869582d880800000000000000
+      internalID: -8587654657849633922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9611d6aea7fa0a9a0800000000000000
+      internalID: -6223781742572138135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_80
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 224
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957b5e15678609400800000000000000
+      internalID: 328877630187485017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 212
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45bbb610bf67b530800000000000000
+      internalID: 3870685206834558286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_82
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 208
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af881874b906a2700800000000000000
+      internalID: 516331327323212026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_83
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -21}
+        - {x: 6, y: -21}
+        - {x: 1, y: -24}
+        - {x: -16, y: -24}
+        - {x: -16, y: 24}
+        - {x: -9, y: 24}
+        - {x: -3, y: 21}
+        - {x: 3, y: 24}
+        - {x: 16, y: 24}
+        - {x: 16, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0b9278ee785e530800000000000000
+      internalID: 3883659712216543429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_84
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 227
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d49acb1d3c526d10800000000000000
+      internalID: 2117356192346576080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_85
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2322fb984916c480800000000000000
+      internalID: -8879381815669677270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_86
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 208
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e776feff97b742680800000000000000
+      internalID: -8780757609550485634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_87
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 196
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f56e66405a55bf0800000000000000
+      internalID: -336181158844407963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_88
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 180
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8be145e6f3ec3750800000000000000
+      internalID: 6286149829450132364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7bb93fdeb787810800000000000000
+      internalID: 1763295516040083390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c793d059ae4ea5a0800000000000000
+      internalID: -6508177922391304252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_91
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 176
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b5c08eac9bec3d0800000000000000
+      internalID: -3184403605376705696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 164
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90103ba57734916d0800000000000000
+      internalID: -3019307895273357047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_93
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a787ab537b34120800000000000000
+      internalID: 2396960868080843384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_94
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -22}
+        - {x: 4, y: -22}
+        - {x: 1, y: -24}
+        - {x: -16, y: -24}
+        - {x: -16, y: 24}
+        - {x: -8, y: 24}
+        - {x: -3, y: 21}
+        - {x: 3, y: 24}
+        - {x: 16, y: 24}
+        - {x: 16, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90376cde30a3ee150800000000000000
+      internalID: 5903719950077817609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_95
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 179
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc552e124517a020800000000000000
+      internalID: 2352872704042163414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bab71aca0de2a9f0800000000000000
+      internalID: -458543581442360656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_97
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926f9867208b7a5d0800000000000000
+      internalID: -3051267901802023383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_98
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 148
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161262dfe6cced190800000000000000
+      internalID: -7935680716314631839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_99
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b916139dc4ec1420800000000000000
+      internalID: 2602206256300431800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_100
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99608555960a7600800000000000000
+      internalID: 466692749840640411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a5a5ca592140700800000000000000
+      internalID: 505549492223367809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_102
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 128
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbde7ef7c4d72adf0800000000000000
+      internalID: -170436068369764933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 116
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0d25674da15e470800000000000000
+      internalID: 8423168177886908663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_104
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 112
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0660890f876053c30800000000000000
+      internalID: 4338380932543678048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_105
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -22}
+        - {x: 6, y: -22}
+        - {x: 1, y: -24}
+        - {x: -16, y: -24}
+        - {x: -16, y: 24}
+        - {x: -8, y: 24}
+        - {x: -2, y: 22}
+        - {x: 3, y: 24}
+        - {x: 16, y: 24}
+        - {x: 16, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c9481667b6473a0800000000000000
+      internalID: -6668586992042468323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 131
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4664ded28cb229f0800000000000000
+      internalID: -494625738787101108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_107
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223ddc07828ac97f0800000000000000
+      internalID: -604423358329793758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_108
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 112
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aaa9c6d7e427280800000000000000
+      internalID: -9047082400833951147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_109
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 100
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb55f947049f0bb10800000000000000
+      internalID: 1995368690154952126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_110
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5705cdd45e4233d90800000000000000
+      internalID: -7119306018670227339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_111
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f7224f8f1b90630800000000000000
+      internalID: 3893839035644411696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3174e3b82dffa2d0800000000000000
+      internalID: -3265112853561708230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_113
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433c5be11c53bc4a0800000000000000
+      internalID: -6572100127656918220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 68
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e71557b39d2402a0800000000000000
+      internalID: -6772237827199133726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_115
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a00a95e4229e8c0800000000000000
+      internalID: -3969603876643927435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_116
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -21}
+        - {x: 5, y: -21}
+        - {x: 1, y: -24}
+        - {x: -16, y: -24}
+        - {x: -16, y: 24}
+        - {x: -8, y: 24}
+        - {x: -2, y: 22}
+        - {x: 3, y: 24}
+        - {x: 16, y: 24}
+        - {x: 16, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2629cbd8abb578b0800000000000000
+      internalID: -5155007864539371986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_117
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 83
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65dc52640fb47810800000000000000
+      internalID: 1762243379759732074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_118
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba1c46732cb93c40800000000000000
+      internalID: 5492628081049606843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_119
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5857db01820a91160800000000000000
+      internalID: 6996799590036764037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_120
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 52
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d137bf8dc92c2190800000000000000
+      internalID: -7985962076378549801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_121
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636851686b194fed0800000000000000
+      internalID: -2381118089852516810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a87aa730dd4dea30800000000000000
+      internalID: 4246135580362700969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445a44c65826bfcd0800000000000000
+      internalID: -2523314841024420540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_124
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 32
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f834206b202e3a50800000000000000
+      internalID: 6502670282638244086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 20
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d171ac8b30c613ec0800000000000000
+      internalID: -3588968664796621027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_126
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 16
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48dcc85d0aece660800000000000000
+      internalID: 7416560029417658442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_127
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -24}
+        - {x: -16, y: 24}
+        - {x: -9, y: 24}
+        - {x: -3, y: 22}
+        - {x: 3, y: 24}
+        - {x: 16, y: 24}
+        - {x: 16, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d8d893ead926730800000000000000
+      internalID: 3990925591419129167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_128
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 35
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd583b1600838360800000000000000
+      internalID: 7170715795418799571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_129
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4373bca151e7f51e0800000000000000
+      internalID: -2206906663279315148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_130
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 16
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fa7b8a922b43190800000000000000
+      internalID: -7983560347427033258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_131
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d99b465b1b8f0cd0800000000000000
+      internalID: -2589698311186572847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 4}
+        - {x: -23, y: 4}
+        - {x: -23, y: 6}
+        - {x: -22, y: 6}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc8014ffb3de8660800000000000000
+      internalID: 7390076859948502206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_133
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 4}
+        - {x: -23, y: 4}
+        - {x: -23, y: 6}
+        - {x: -22, y: 6}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa00e22b409269800800000000000000
+      internalID: 618727098955989167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 4}
+        - {x: -23, y: 4}
+        - {x: -23, y: 6}
+        - {x: -22, y: 6}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fd6794238240a30800000000000000
+      internalID: 4180510550552665947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_135
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 4}
+        - {x: -23, y: 4}
+        - {x: -23, y: 6}
+        - {x: -22, y: 6}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a1f1232c1c84b30800000000000000
+      internalID: 4271877286369630778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 4}
+        - {x: -23, y: 4}
+        - {x: -23, y: 6}
+        - {x: -22, y: 6}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67da5a68d5dfcc650800000000000000
+      internalID: 6254652560643566966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 4}
+        - {x: -23, y: 4}
+        - {x: -23, y: 6}
+        - {x: -22, y: 6}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7745bc23287276f0800000000000000
+      internalID: -688355700564998274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 4}
+        - {x: -23, y: 4}
+        - {x: -23, y: 6}
+        - {x: -22, y: 6}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc8ecd5792067240800000000000000
+      internalID: 4789018102892235965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 4}
+        - {x: -23, y: 4}
+        - {x: -23, y: 6}
+        - {x: -22, y: 6}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9be04855e79ed190800000000000000
+      internalID: -7935738482096280676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_140
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 4}
+        - {x: -23, y: 4}
+        - {x: -23, y: 6}
+        - {x: -22, y: 6}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a4fec665d157f60800000000000000
+      internalID: 8031357767517162143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_141
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 4}
+        - {x: -23, y: 4}
+        - {x: -23, y: 6}
+        - {x: -22, y: 6}
+        - {x: -24, y: 23}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe47ffe441f2bad0800000000000000
+      internalID: -2687820749200732481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 4}
+        - {x: -23, y: 4}
+        - {x: -23, y: 6}
+        - {x: -22, y: 6}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6444181fa3f2e5730800000000000000
+      internalID: 3989678250103227462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_143
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: -24, y: 4}
+        - {x: -23, y: 4}
+        - {x: -23, y: 6}
+        - {x: -22, y: 6}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8da7665040aab550800000000000000
+      internalID: 6177426037080042892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
