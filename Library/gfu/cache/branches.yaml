@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-10-07T15:38:49.029-06:00
+  lastUpdatedAtString: 2020-10-08T04:29:03.386-06:00
   initializedAtString: 2020-10-07T15:20:57.141-06:00
-  localBranches: []
+  localBranches:
+  - name: master
+    tracking: origin/master
   remoteBranches:
   - name: origin/master
     tracking: '[None]'
@@ -30,8 +32,14 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/wildBcat/Dark-Matter.git
+      trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
