@@ -1,39 +1,26 @@
 ﻿<Properties StartupConfiguration="{97523C28-2D04-E105-9D1B-383266DB5E1E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My Stuff/Scripts/GameObjectLifeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My Stuff/Scripts/PlayerMovement.cs">
     <Files>
-      <File FileName="Assets/My Stuff/Scripts/GameObjectLifeController.cs" Line="155" Column="10" />
-      <File FileName="Assets/My Stuff/Scripts/PlayerMovement.cs" />
-      <File FileName="Assets/My Stuff/Scripts/EnemySpawner.cs" Line="85" Column="101" />
-      <File FileName="Assets/My Stuff/Scripts/RepeatingBackground.cs" Line="1" Column="1" />
-      <File FileName="Assets/My Stuff/Scripts/CelestialBodies.cs" Line="1" Column="1" />
-      <File FileName="Assets/My Stuff/Scripts/ColorLerp.cs" Line="1" Column="1" />
+      <File FileName="Assets/My Stuff/Scripts/PlayerConfigurationManager.cs" Line="70" Column="10" />
+      <File FileName="Assets/My Stuff/Scripts/PlayerSetupMenuController.cs" Line="6" Column="67" />
+      <File FileName="Assets/My Stuff/Scripts/SpawnPlayerSetupMenu.cs" Line="6" Column="93" />
+      <File FileName="Assets/My Stuff/Scripts/PlayerMovement.cs" Line="51" Column="8" />
+      <File FileName="Assets/My Stuff/Scripts/PlayerInputHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/My Stuff/Scripts/InitializeLevel.cs" Line="7" Column="64" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Dark Matter" expanded="True">
             <Node name="Assets" expanded="True">
+              <Node name="grideffect" expanded="True" />
               <Node name="My Stuff" expanded="True">
                 <Node name="Scripts" expanded="True">
-                  <Node name="GameObjectLifeController.cs" selected="True" />
+                  <Node name="PlayerMovement.cs" selected="True" />
                 </Node>
               </Node>
-              <Node name="ND_VariaBULLET" expanded="True">
-                <Node name="Scripts" expanded="True">
-                  <Node name="Collision" expanded="True" />
-                  <Node name="Pattern" expanded="True" />
-                  <Node name="Shot" expanded="True" />
-                </Node>
-              </Node>
-              <Node name="PathCreator" expanded="True">
-                <Node name="Core" expanded="True">
-                  <Node name="Runtime" expanded="True">
-                    <Node name="Objects" expanded="True" />
-                  </Node>
-                </Node>
-                <Node name="Examples" expanded="True">
-                  <Node name="Scripts" expanded="True" />
-                </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Inputs" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -43,7 +30,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4d4bddfa-cd16-469d-a553-a2488668c149" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="54335102-df34-435b-9074-7d8045eda57d" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

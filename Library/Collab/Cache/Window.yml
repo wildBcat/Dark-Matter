@@ -14,9 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/My Stuff/Scripts/InitializeLevel.cs
+    - Assets/My Stuff/Scripts/PlayerConfigurationManager.cs
+    - Assets/My Stuff/Scripts/PlayerInputHandler.cs
+    - Assets/My Stuff/Scripts/PlayerMovement.cs
+    - Assets/My Stuff/Scripts/PlayerSetupMenuController.cs
+    - Assets/My Stuff/Scripts/SpawnPlayerSetupMenu.cs
     - 
-    m_Values: 01
-  RevisionSummary: Added Saucer Sprites.
+    m_Values: 01010101010101
+  RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0

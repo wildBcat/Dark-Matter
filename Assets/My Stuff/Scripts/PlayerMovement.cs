@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
-using UnityEngine.InputSystem;
 
+/// <summary>
+/// sets up player movement, speed, and boundries 
+/// </summary>
 public class PlayerMovement : MonoBehaviour
 {
     ScreenBounds screenBounds = default;
@@ -11,15 +13,10 @@ public class PlayerMovement : MonoBehaviour
     [Tooltip("Sets the barrier between the player and the edge of the screen. The higher the number, the farther the distance between the two.")]
     [SerializeField] float padding = default;
 
-    //Input System Variables
-    private Vector2 walkInput = default;
-    private Vector2 dragInput = default;
-    //private Vector2 touchInput;
-    private float clickInput = default;
-
     private Rigidbody2D rb = default;
     private SpriteRenderer sr = default;
     private Animator animator;
+    private Vector2 inputVector = Vector2.zero;
 
     private void Awake()
     {
@@ -34,59 +31,44 @@ public class PlayerMovement : MonoBehaviour
         screenBounds = gameObject.AddComponent<ScreenBounds>();
     }
 
+    // Gets input System Listeners
+    public void SetInputVector(Vector2 direction)
+    {
+        inputVector = direction;
+    }
+
     // Update is called once per frame
     void Update()
     {
-        MoveWithMouse();
-        Touch();
         Move();
     }
 
-    // Input System Listeners
-    public void Keyboard(InputAction.CallbackContext context)
-    {
-        walkInput = context.ReadValue<Vector2>();
-    }
-
-    public void Mouse(InputAction.CallbackContext context)
-    {
-        dragInput = context.ReadValue<Vector2>();
-    }
-
-    //public void Touch(InputAction.CallbackContext context)
-    //{
-    //    touchInput = context.ReadValue<Vector2>();
-    //}
-
-    public void Enable(InputAction.CallbackContext context)
-    {
-        clickInput = context.ReadValue<float>();
-    }
-
+    /*
+     * Assignes the input control value (multiplied by the speed value) to the delta x/y values
+     * Assignes the player ship's position (along with confinement boundries) to the new x/y positions
+     * Adds force to the player ship's rigid body equal to the values of delta x/y
+     * Updates the player ship's position to stsay within  the boundries
+     * Assigns the animators for the player ship, dependent on position and speed, as long as the ship is alive
+     * Flips the animation x orientation for left/right movement to represent left and right banking of ship, as long as the ship is alive
+     */
     private void Move()
     {
-        // Initiating the input controls for up vertical and horizontal movement
-        var deltaX = walkInput.x * moveSpeed;
-        var deltaY = walkInput.y * moveSpeed;
-
-        // Updating player's ship to be what the iput controls are showing, with clamps
+        var deltaX = inputVector.x * moveSpeed;
+        var deltaY = inputVector.y * moveSpeed;
         float newYpos = Mathf.Clamp(transform.position.y, screenBounds.yMin + padding, screenBounds.yMax - padding);
         var newXPos = Mathf.Clamp(transform.position.x, screenBounds.xMin + padding, screenBounds.xMax - padding);
-        
-        // Moving player's ship to new input coordinates
-        //transform.position = new Vector2(newXPos, newYpos);
         rb.AddForce(new Vector2(deltaX, deltaY));
         transform.position = new Vector2(newXPos, newYpos);
         if(animator != null)
         {
-            animator.SetFloat("Horizontal", walkInput.x);
-            animator.SetFloat("Vertical", walkInput.y);
-            animator.SetFloat("Speed", walkInput.sqrMagnitude);
+            animator.SetFloat("Horizontal", inputVector.x);
+            animator.SetFloat("Vertical", inputVector.y);
+            animator.SetFloat("Speed", inputVector.sqrMagnitude);
         }
 
         if (sr != null)
         {
-            if (walkInput.x > 0)
+            if (inputVector.x > 0)
             {
                 sr.flipX = true;
             }
@@ -94,25 +76,6 @@ public class PlayerMovement : MonoBehaviour
             {
                 sr.flipX = false;
             }
-        }
-    }
-
-    private void MoveWithMouse()
-    {
-        if (clickInput > 0)
-        {
-            var screenPoint = new Vector3(dragInput.x, dragInput.y, 0);
-            Vector3 mousePosition = Camera.main.ScreenToWorldPoint(screenPoint);
-            mousePosition.z = transform.position.z;
-            transform.position = Vector3.MoveTowards(transform.position, mousePosition, moveSpeed * Time.deltaTime);
-        }
-    }
-
-    private void Touch()
-    {
-        if(Input.touchCount > 0)
-        {
-            // Need to add something here
         }
     }
 }
