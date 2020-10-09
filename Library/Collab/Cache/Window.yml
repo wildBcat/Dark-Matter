@@ -14,14 +14,733 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/My Stuff/Scripts/InitializeLevel.cs
-    - Assets/My Stuff/Scripts/PlayerConfigurationManager.cs
-    - Assets/My Stuff/Scripts/PlayerInputHandler.cs
-    - Assets/My Stuff/Scripts/PlayerMovement.cs
-    - Assets/My Stuff/Scripts/PlayerSetupMenuController.cs
-    - Assets/My Stuff/Scripts/SpawnPlayerSetupMenu.cs
+    - Assets/Jack_Tolmachoff_Design.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Animation.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Animation/LogoOpacity.anim
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Animation/LogoOpacity.anim.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Animation/LogoOpactityActive.anim
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Animation/LogoOpactityActive.anim.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Animation/LogoOpactityIdle.anim
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Animation/LogoOpactityIdle.anim.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Animation/LogoOpactityIn.anim
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Animation/LogoOpactityIn.anim.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Animation/LogoOpactityOut.anim
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Animation/LogoOpactityOut.anim.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Animation/OpacityController.controller
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Animation/OpacityController.controller.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/SciFiPixel_Demo.unity
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/SciFiPixel_Demo.unity.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Scripts.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Scripts/CanvasController.cs
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Scripts/CanvasController.cs.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Font.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Font/FontAttribution.txt
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Font/FontAttribution.txt.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Font/PressStart2P-Regular.ttf
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Font/PressStart2P-Regular.ttf.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Close Buttons.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Close Buttons/Big
+      Close.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Close Buttons/Big
+      Close.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Close Buttons/Medium
+      Close.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Close Buttons/Medium
+      Close.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Close Buttons/Small
+      Close.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Close Buttons/Small
+      Close.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Control Buttons.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Control Buttons/Bumper
+      Buttons.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Control Buttons/Bumper
+      Buttons.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Control Buttons/DPad.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Control Buttons/DPad.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Control Buttons/Letter
+      Buttons.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Control Buttons/Letter
+      Buttons.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Control Buttons/Small
+      DPad.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Control Buttons/Small
+      DPad.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Back
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Back
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Coin
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Coin
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Download
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Download
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Hamburger
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Hamburger
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Home
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Home
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Mail
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Mail
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Neutral
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Neutral
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Pause
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Pause
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Play
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Play
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Question
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Question
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Refresh
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Refresh
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Search
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Search
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Settings
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Settings
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Skip
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Skip
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Social
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Social
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Stop
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Stop
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Upload
+      Diamond Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Diamond Buttons/Upload
+      Diamond Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Panels.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Panels/Background
+      Frame.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Panels/Background
+      Frame.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Panels/Fancy
+      Panel Example.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Panels/Fancy
+      Panel Example.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Panels/Simple
+      Panel Example.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Panels/Simple
+      Panel Example.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Rarity Frames.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Rarity Frames/Horizontal
+      Rarity Frame.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Rarity Frames/Horizontal
+      Rarity Frame.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Rarity Frames/Vertical
+      Rarity Frame.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Rarity Frames/Vertical
+      Rarity Frame.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Sliders.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Sliders/Fill
+      Bar Green.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Sliders/Fill
+      Bar Green.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Sliders/Fill
+      Bar Red.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Sliders/Fill
+      Bar Red.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Sliders/Health
+      Bar Big.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Sliders/Health
+      Bar Big.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Sliders/Loading
+      Bar Simple.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Sliders/Loading
+      Bar Simple.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Back
+      Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Back
+      Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Coin
+      Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Coin
+      Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Download
+      Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Download
+      Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Hamburger
+      Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Hamburger
+      Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Home
+      Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Home
+      Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Mail
+      Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Mail
+      Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Neutral
+      Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Neutral
+      Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Pause
+      Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Pause
+      Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Play
+      Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Play
+      Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Question
+      Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Question
+      Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Refresh
+      Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Refresh
+      Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Search
+      Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Search
+      Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Settings
+      Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Settings
+      Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Skip
+      Track Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Skip
+      Track Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Social
+      Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Social
+      Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Stop
+      Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Stop
+      Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Upload
+      Solid Button.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Solid Buttons/Upload
+      Solid Button.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Toggles.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Toggles/Select
+      Multiple List.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Toggles/Select
+      Multiple List.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Toggles/Select
+      One List.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Toggles/Select
+      One List.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/A_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/A_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/A_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/A_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Arrow_Down_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Arrow_Down_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Arrow_Down_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Arrow_Down_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Arrow_Left_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Arrow_Left_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Arrow_Left_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Arrow_Left_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Arrow_Right_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Arrow_Right_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Arrow_Right_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Arrow_Right_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Arrow_Up_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Arrow_Up_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Arrow_Up_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Arrow_Up_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/B_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/B_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/B_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/B_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/BarFill_Green.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/BarFill_Green.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/BarFill_Red.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/BarFill_Red.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/BigHb_Base 1.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/BigHb_Base 1.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/BigHb_Fill.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/BigHb_Fill.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/BigHb_Frame.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/BigHb_Frame.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Close_Big_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Close_Big_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Close_Big_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Close_Big_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Close_Med_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Close_Med_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Close_Med_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Close_Med_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Close_Small_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Close_Small_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Close_Small_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Close_Small_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/CloudyBackground.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/CloudyBackground.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Down_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Down_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Down_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Down_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Down_InActive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Down_InActive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Down_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Down_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Left_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Left_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Left_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Left_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Left_InActive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Left_InActive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Left_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Left_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Right_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Right_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Right_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Right_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Right_InActive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Right_InActive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Right_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Right_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Up_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Up_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Up_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Up_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Up_InActive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Up_InActive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Up_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/DPad_Up_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Back_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Back_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Back_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Back_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Back_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Back_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Back_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Back_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Coins_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Coins_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Coins_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Coins_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Coins_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Coins_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Coins_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Coins_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Download_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Download_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Download_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Download_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Download_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Download_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Download_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Download_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Hamburger_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Hamburger_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Hamburger_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Hamburger_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Hamburger_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Hamburger_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Hamburger_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Hamburger_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Home_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Home_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Home_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Home_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Home_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Home_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Home_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Home_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Mail_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Mail_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Mail_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Mail_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Mail_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Mail_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Mail_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Mail_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Neutral_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Neutral_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Neutral_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Neutral_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Neutral_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Neutral_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Neutral_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Neutral_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Pause_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Pause_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Pause_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Pause_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Pause_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Pause_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Pause_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Pause_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Play_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Play_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Play_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Play_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Play_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Play_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Play_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Play_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Question_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Question_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Question_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Question_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Question_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Question_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Question_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Question_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Refresh_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Refresh_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Refresh_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Refresh_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Refresh_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Refresh_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Refresh_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Refresh_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Search_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Search_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Search_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Search_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Search_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Search_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Search_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Search_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Settings_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Settings_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Settings_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Settings_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Settings_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Settings_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Settings_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Settings_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Skip_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Skip_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Skip_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Skip_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Skip_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Skip_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Skip_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Skip_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Social_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Social_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Social_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Social_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Social_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Social_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Social_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Social_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Stop_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Stop_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Stop_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Stop_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Stop_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Stop_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Stop_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Stop_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Upload_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Upload_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Upload_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Upload_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Upload_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Upload_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Upload_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Diamond_Upload_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/FlatBar_Base.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/FlatBar_Base.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/FlatBar_Fill.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/FlatBar_Fill.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/FramePanel.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/FramePanel.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/HeartGreen_Fill.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/HeartGreen_Fill.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/HeartRed_Fill.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/HeartRed_Fill.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Heart_Empty.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Heart_Empty.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Jack Tolmachoff
+      Logo.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Jack Tolmachoff
+      Logo.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/LB_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/LB_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/LB_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/LB_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/LT_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/LT_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/LT_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/LT_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/LoadingBar_Base.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/LoadingBar_Base.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/LoadingBar_Fill.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/LoadingBar_Fill.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Logo.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Logo.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_1.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_1.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_2.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_2.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_3.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_3.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_4.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_4.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_5.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_5.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_6.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_6.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_7.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_7.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_8.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_8.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_9.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_9.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_Blip.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Notif_Blip.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/RB_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/RB_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/RB_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/RB_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/RT_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/RT_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/RT_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/RT_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Rarity1_1star.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Rarity1_1star.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Rarity1_2star.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Rarity1_2star.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Rarity1_3star.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Rarity1_3star.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Rarity2_1star.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Rarity2_1star.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Rarity2_2star.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Rarity2_2star.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Rarity2_3star.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Rarity2_3star.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/RoundHB_Base.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/RoundHB_Base.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/RoundHB_Fill.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/RoundHB_Fill.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/RoundHB_Frame.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/RoundHB_Frame.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Scroll_Bar.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Scroll_Bar.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Scroll_Down.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Scroll_Down.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Scroll_Slider.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Scroll_Slider.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Scroll_Up.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Scroll_Up.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/SelMul_Base.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/SelMul_Base.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/SelMul_Blip.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/SelMul_Blip.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/SelOne_Base.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/SelOne_Base.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/SelOne_Blip.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/SelOne_Blip.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Slider_Base.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Slider_Base.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Slider_Fill.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Slider_Fill.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Slider_Handle.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Slider_Handle.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Back_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Back_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Back_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Back_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Back_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Back_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Back_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Back_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Coins_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Coins_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Coins_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Coins_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Coins_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Coins_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Coins_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Coins_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Download_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Download_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Download_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Download_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Download_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Download_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Download_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Download_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Hamburger_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Hamburger_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Hamburger_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Hamburger_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Hamburger_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Hamburger_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Hamburger_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Hamburger_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Home_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Home_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Home_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Home_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Home_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Home_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Home_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Home_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Mail_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Mail_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Mail_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Mail_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Mail_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Mail_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Mail_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Mail_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Neutral_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Neutral_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Neutral_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Neutral_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Neutral_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Neutral_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Neutral_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Neutral_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Pause_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Pause_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Pause_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Pause_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Pause_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Pause_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Pause_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Pause_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Play_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Play_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Play_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Play_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Play_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Play_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Play_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Play_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Question_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Question_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Question_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Question_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Question_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Question_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Question_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Question_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Refresh_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Refresh_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Refresh_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Refresh_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Refresh_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Refresh_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Refresh_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Refresh_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Search_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Search_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Search_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Search_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Search_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Search_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Search_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Search_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Settings_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Settings_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Settings_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Settings_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Settings_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Settings_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Settings_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Settings_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Skip_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Skip_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Skip_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Skip_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Skip_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Skip_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Skip_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Skip_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Social_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Social_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Social_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Social_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Social_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Social_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Social_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Social_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Stop_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Stop_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Stop_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Stop_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Stop_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Stop_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Stop_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Stop_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Upload_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Upload_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Upload_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Upload_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Upload_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Upload_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Upload_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Solid_Upload_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/TitleSimple.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/TitleSimple.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/X_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/X_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/X_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/X_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Y_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Y_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Y_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/Y_Pressed.png.meta
+    - Assets/My Stuff/Fonts/PressStart2P-Regular SDF.asset
+    - Assets/My Stuff/Fonts/PressStart2P-Regular SDF.asset.meta
+    - Assets/My Stuff/Prefabs/Game Controllers/Star Screen Game Controller.prefab
+    - Assets/My Stuff/Scenes/Player Select 2.unity
+    - Assets/My Stuff/Scenes/Player Select 2.unity.meta
+    - Assets/My Stuff/Sprites/UI/BarBase.png.meta
+    - Assets/My Stuff/Sprites/UI/BarFill_Blue.png.meta
+    - Assets/My Stuff/Sprites/UI/BarFrame.png.meta
+    - Assets/My Stuff/Sprites/UI/ButtonWideRed_Active.png.meta
+    - Assets/My Stuff/Sprites/UI/ButtonWideRed_Hover.png.meta
+    - Assets/My Stuff/Sprites/UI/ButtonWideRed_Inctive.png.meta
+    - Assets/My Stuff/Sprites/UI/ButtonWideRed_Pressed.png.meta
+    - Assets/My Stuff/Sprites/UI/ButtonWide_Active.png.meta
+    - Assets/My Stuff/Sprites/UI/ButtonWide_Hover.png.meta
+    - Assets/My Stuff/Sprites/UI/ButtonWide_Inactive.png.meta
+    - Assets/My Stuff/Sprites/UI/ButtonWide_Pressed.png.meta
+    - Assets/My Stuff/Sprites/UI/FrameBottom.png.meta
+    - Assets/My Stuff/Sprites/UI/FrameMargin.png.meta
+    - Assets/My Stuff/Sprites/UI/FramePanel 1.png.meta
+    - Assets/My Stuff/Sprites/UI/HorizontalRule.png.meta
+    - Assets/My Stuff/Sprites/UI/InlineText.png.meta
+    - Assets/My Stuff/Sprites/UI/TitleFancy.png.meta
+    - Assets/Nightfox/Tools/Consistent Line Endings.meta
     - 
-    m_Values: 01010101010101
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
