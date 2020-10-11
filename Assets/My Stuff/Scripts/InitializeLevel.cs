@@ -18,5 +18,4 @@ public class InitializeLevel : MonoBehaviour
             player.GetComponent<PlayerInputHandler>().InitializePlayer(playerConfigs[i]);
         }
     }
-
 }

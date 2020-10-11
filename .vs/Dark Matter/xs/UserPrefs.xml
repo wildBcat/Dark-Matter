@@ -1,12 +1,10 @@
 ﻿<Properties StartupConfiguration="{97523C28-2D04-E105-9D1B-383266DB5E1E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My Stuff/Scripts/PlayerMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My Stuff/Scripts/PlayerSetupMenuController.cs">
     <Files>
-      <File FileName="Assets/My Stuff/Scripts/PlayerConfigurationManager.cs" Line="70" Column="10" />
-      <File FileName="Assets/My Stuff/Scripts/PlayerSetupMenuController.cs" Line="6" Column="67" />
-      <File FileName="Assets/My Stuff/Scripts/SpawnPlayerSetupMenu.cs" Line="6" Column="93" />
-      <File FileName="Assets/My Stuff/Scripts/PlayerMovement.cs" Line="51" Column="8" />
-      <File FileName="Assets/My Stuff/Scripts/PlayerInputHandler.cs" Line="1" Column="1" />
-      <File FileName="Assets/My Stuff/Scripts/InitializeLevel.cs" Line="7" Column="64" />
+      <File FileName="Assets/My Stuff/Scripts/PlayerConfigurationManager.cs" Line="55" Column="13" />
+      <File FileName="Assets/My Stuff/Scripts/PlayerSetupMenuController.cs" Line="18" Column="31" />
+      <File FileName="Assets/My Stuff/Scripts/SpawnPlayerSetupMenu.cs" Line="6" Column="46" />
+      <File FileName="Assets/My Stuff/Scripts/InitializeLevel.cs" Line="20" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +14,7 @@
               <Node name="grideffect" expanded="True" />
               <Node name="My Stuff" expanded="True">
                 <Node name="Scripts" expanded="True">
-                  <Node name="PlayerMovement.cs" selected="True" />
+                  <Node name="PlayerSetupMenuController.cs" selected="True" />
                 </Node>
               </Node>
               <Node name="Scripts" expanded="True">
@@ -30,7 +28,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="54335102-df34-435b-9074-7d8045eda57d" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1242b787-28b1-4fb1-81ca-54e41319f98f" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

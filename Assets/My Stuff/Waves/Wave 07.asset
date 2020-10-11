@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: Wave 07
   m_EditorClassIdentifier: 
   prefabs:
-  - enemyPrefab: {fileID: 5303104587724278701, guid: 1a579432cf2664b81a89347940696466, type: 3}
+  - enemyPrefab: {fileID: -858860116550536963, guid: 5a7b5193816604b15923e5b4b1ce9fb0, type: 3}
     pathPrefab: {fileID: 8614961318616427743, guid: 67ca40ef7d21d46bd994e2f223c8529a, type: 3}
-    timeBetweenSpawns: 0.3
+    timeBetweenSpawns: 1
     numberOfEnemies: 1
-    moveSpeed: 5
-  - enemyPrefab: {fileID: 5303104587724278701, guid: 1a579432cf2664b81a89347940696466, type: 3}
+    moveSpeed: 10
+  - enemyPrefab: {fileID: -858860116550536963, guid: 5a7b5193816604b15923e5b4b1ce9fb0, type: 3}
     pathPrefab: {fileID: 5124501826793658733, guid: edc23ec020740489eb910a36e87e598b, type: 3}
-    timeBetweenSpawns: 0.3
+    timeBetweenSpawns: 1
     numberOfEnemies: 1
-    moveSpeed: 5
+    moveSpeed: 10

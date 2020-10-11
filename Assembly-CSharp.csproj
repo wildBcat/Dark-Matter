@@ -88,6 +88,7 @@
     <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark03.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Demo/Scripts/CantroGunAnim.cs" />
     <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/WarpTextExample.cs" />
+    <Compile Include="Assets/GGEZ/PerfectPixelCamera/Scripts/PerfectPixelCamera.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Collision/CollisionFilter.cs" />
     <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventCheck.cs" />
     <Compile Include="Assets/My Stuff/Scripts/ScreenBounds.cs" />
@@ -144,6 +145,7 @@
     <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ShaderPropAnimator.cs" />
     <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_A.cs" />
     <Compile Include="Assets/My Stuff/Scripts/AutomatedMovement.cs" />
+    <Compile Include="Assets/GGEZ/PerfectPixelCamera/Demo/Assets/ZoomDemo.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Utility/HomingCalc.cs" />
     <Compile Include="Assets/My Stuff/Scripts/CelestialBodies.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/FireExpanding.cs" />
@@ -159,7 +161,6 @@
     <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_FrameRateCounter.cs" />
     <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_B.cs" />
-    <Compile Include="Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Scripts/CanvasController.cs" />
     <Compile Include="Assets/grideffect/GridEffect.cs" />
     <Compile Include="Assets/My Stuff/Scripts/WaveConfig.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Collision/ShotCollidable.cs" />
@@ -204,9 +205,7 @@
     <Compile Include="Assets/2D Pixel Spaceship Constructor/Scripts/Tools.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotAccelerating.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Shot/ShotBase.cs" />
-    <Compile Include="Assets/Manaspark Studio/Hierarchy Dividers/Scripts/Shared/DividerPreset_SCO.cs" />
-    <Compile Include="Assets/Manaspark Studio/Hierarchy Dividers/Scripts/Basic/HierarchyDividerDrawing.cs" />
-    <Compile Include="Assets/Manaspark Studio/Hierarchy Dividers/Scripts/Basic/HierarchyDivider.cs" />
+    <Compile Include="Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Demo/Scripts/CanvasController.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
@@ -234,6 +233,7 @@
      <None Include="Assets/My Stuff/Sprites/CelestialObjects/readme.txt" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" />
      <None Include="Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Font/FontAttribution.txt" />
+     <None Include="Assets/GGEZ/PerfectPixelCamera/README.txt" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" />
      <None Include="Assets/LetterBoxer-master/LetterBoxer/Assets/LetterBoxer/Demo/README.txt" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" />

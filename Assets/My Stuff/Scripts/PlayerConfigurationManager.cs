@@ -11,8 +11,6 @@ public class PlayerConfigurationManager : MonoBehaviour
 {
     private List<PlayerConfiguation> playerConfigs;
 
-    [SerializeField] int MaxPlayers = 2;
-
     public static PlayerConfigurationManager Instance { get; private set; }
 
     /*
@@ -54,7 +52,7 @@ public class PlayerConfigurationManager : MonoBehaviour
     public void ReadyPlayer(int index)
     {
         playerConfigs[index].IsReady = true;
-        if (playerConfigs.Count == MaxPlayers && playerConfigs.All(p => p.IsReady == true))
+        if (playerConfigs.All(p => p.IsReady == true))
         {
             SceneManager.LoadScene("Level 1");
         }

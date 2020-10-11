@@ -19,16 +19,6 @@ public class CelestialBodies : MonoBehaviour
     [Tooltip("Sets the time delay before spawing the first planet.")]
     [SerializeField] int planetBeginSpawnTime = default;
 
-    [Header("Asteroid Settings")]
-    [Tooltip("Sets asteroid prefabs. The larger size number, the more asteroid prefabs you can set.")]
-    [SerializeField] GameObject[] asteroids = default;
-    [Tooltip("Sets a delay between asteroid spawn times. The higher the number, the longer the time between spawns.")]
-    [SerializeField] float asteroidSpawnTime = default;
-    [Tooltip("Sets a randomizer to the asteroid spwan time. The generated time will either decrees or increase the spwan time.")]
-    [SerializeField] float asteroidTimeRandomizer = default;
-    [Tooltip("Sets the time delay before spawing the first asteroid.")]
-    [SerializeField] int asteroidBeginSpawnTime = default;
-
     [Header("Starfield Settings")]
     [Tooltip("Sets starfield prefabs. The larger size number, the more starfield prefabs you can set.")]
     [SerializeField] GameObject[] starfield = default;
@@ -42,20 +32,16 @@ public class CelestialBodies : MonoBehaviour
     // A list that stores the planets
     readonly List<GameObject> celestialBodyList = new List<GameObject>();
 
-    // A list that stores the asteroids
-    readonly List<GameObject> astroidList = new List<GameObject>();
-
     // A list that stores the starfields
     readonly List<GameObject> starfieldList = new List<GameObject>();
 
     // Sets the height above the screen view to spawn the celestial bodies 
-    private readonly float padding = 1.5f;
+    private readonly float padding = 8f;
 
     private void Start()
     {
         screenBounds = gameObject.AddComponent<ScreenBounds>();
         StartCoroutine(PlanetCreation());
-        StartCoroutine(AsteroidCreation());
         StartCoroutine(StarfieldCreation());
     }
 
@@ -85,35 +71,6 @@ public class CelestialBodies : MonoBehaviour
                 }
             }
             yield return new WaitForSeconds(planetSpawnTime + Random.Range(-planetTimeRandomizer, planetTimeRandomizer));
-        }
-    }
-
-    IEnumerator AsteroidCreation()
-    {
-        // Creates a new list, based of the array number
-        for (int i = 0; i < asteroids.Length; i++)
-        {
-            astroidList.Add(asteroids[i]);
-        }
-        yield return new WaitForSeconds(asteroidBeginSpawnTime);
-        while (true)
-        {
-            // Chooses a random object from the list, generates it, and then deletes it from the list
-            int randomIndex = Random.Range(0, astroidList.Count);
-            _ = Instantiate(astroidList[randomIndex],
-                new Vector3(Random.Range(screenBounds.xMin, screenBounds.xMax), screenBounds.yMax + padding, 0),
-                Quaternion.Euler(0, 0, 0));
-            astroidList.RemoveAt(randomIndex);
-
-            //if the list decreased to zero, reinstall it
-            if (astroidList.Count == 0)
-            {
-                for (int i = 0; i < asteroids.Length; i++)
-                {
-                    astroidList.Add(asteroids[i]);
-                }
-            }
-            yield return new WaitForSeconds(asteroidSpawnTime + Random.Range(-asteroidTimeRandomizer, asteroidTimeRandomizer));
         }
     }
 

@@ -10,10 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 6791229435208059285}
   - component: {fileID: 9061668752472262793}
-  - component: {fileID: 1226712718058549622}
-  - component: {fileID: -1974458846251575907}
   - component: {fileID: 8759051260496868504}
   - component: {fileID: 2218582397575353001}
+  - component: {fileID: -7299641663543645983}
   m_Layer: 0
   m_Name: CelestialObjects_8
   m_TagString: Starfield
@@ -54,7 +53,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -74,7 +73,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 3
   m_Sprite: {fileID: 4081543301678191023, guid: 454786fae0aab4896b8c3eba020f3040, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -86,70 +85,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1226712718058549622
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5171385995203074699}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7d71017a374ec4f2892a8dbeabc8a422, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 0
---- !u!60 &-1974458846251575907
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5171385995203074699}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 4, y: 4}
-    newSize: {x: 0.32, y: 0.32}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: -0.07, y: -0.16}
-      - {x: -0.04, y: -0.14999999}
-      - {x: -0.04, y: -0.12}
-      - {x: -0.07, y: -0.11}
-      - {x: -0.089999996, y: -0.13}
-    - - {x: 0.13, y: 0.12}
-      - {x: 0.099999994, y: 0.13}
-      - {x: 0.04, y: 0.13}
-      - {x: -0.13, y: 0.12}
-      - {x: -0.14, y: 0.089999996}
-      - {x: -0.14, y: -0.13}
-      - {x: -0.01, y: -0.14}
-      - {x: 0.099999994, y: -0.14999999}
-      - {x: 0.13, y: -0.14}
-      - {x: 0.13, y: 0.02}
-      - {x: 0.099999994, y: 0.06}
-    - - {x: 0.13, y: -0.07}
-      - {x: 0.16, y: -0.06}
-      - {x: 0.16, y: -0.03}
-      - {x: 0.13, y: -0.02}
-      - {x: 0.11, y: -0.04}
-    - - {x: 0.12, y: 0.11}
-      - {x: 0.14, y: 0.08}
-      - {x: 0.16, y: 0.089999996}
-      - {x: 0.16, y: 0.12}
-      - {x: 0.14, y: 0.13}
 --- !u!50 &8759051260496868504
 Rigidbody2D:
   serializedVersion: 4
@@ -167,10 +102,10 @@ Rigidbody2D:
   m_AngularDrag: 0.05
   m_GravityScale: 0
   m_Material: {fileID: 0}
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!114 &2218582397575353001
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -183,4 +118,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d71017a374ec4f2892a8dbeabc8a422, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: -0.2
+  speed: -1
+--- !u!58 &-7299641663543645983
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5171385995203074699}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 2

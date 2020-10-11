@@ -8,7 +8,7 @@ public class AutomatedMovement : MonoBehaviour
     [SerializeField] float speed = default;
 
     //moving the object with the defined speed
-    private void Update()
+    private void FixedUpdate()
     {
         transform.Translate(Vector3.up * speed * Time.deltaTime, Space.World);
     }

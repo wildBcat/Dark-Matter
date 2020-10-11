@@ -63,13 +63,10 @@
     <Compile Include="Assets/Nightfox/Tools/Consistent Line Endings/Core/Editor/AutofixLineEndingsMenu.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Editor/VariaManager.cs" />
     <Compile Include="Assets/ND_VariaBULLET/Scripts/Editor/RatePopUp.cs" />
-    <Compile Include="Assets/Manaspark Studio/Hierarchy Dividers/Scripts/Basic/Editor/DividerEditor.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/Nightfox/Tools/Consistent Line Endings/Core/Editor/Nightfox.Tools.Eol.dll" />
-     <None Include="Assets/Manaspark Studio/Hierarchy Dividers/Editor/Basic/Shader/EditorUnlitTransparent.shader" />
      <None Include="Assets/Nightfox/Utilities/Editor/Nightfox.Utilities.dll" />
-     <None Include="Assets/Manaspark Studio/Hierarchy Dividers/Editor/Basic/Icons/icons license.txt" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -303,9 +300,6 @@
     </Reference>
     <Reference Include="ICSharpCode.NRefactory">
       <HintPath>Library/PackageCache/com.unity.render-pipelines.core@8.2.0/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
-    </Reference>
-    <Reference Include="JetBrains.Rider.Unity.Editor.Plugin.Repacked">
-      <HintPath>Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>

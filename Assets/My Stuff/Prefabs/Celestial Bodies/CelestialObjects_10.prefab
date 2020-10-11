@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 44110747583367027}
   - component: {fileID: 9027547156708085875}
   - component: {fileID: -9199788177798656676}
-  - component: {fileID: 1978880450036232573}
   - component: {fileID: -4285436432238468937}
+  - component: {fileID: 6062004514248743757}
   m_Layer: 0
   m_Name: CelestialObjects_10
   m_TagString: Planet
@@ -53,7 +53,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -73,7 +73,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 3
+  m_SortingOrder: 2
   m_Sprite: {fileID: 1486043848406091610, guid: 454786fae0aab4896b8c3eba020f3040, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -97,8 +97,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d71017a374ec4f2892a8dbeabc8a422, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: -0.1
---- !u!60 &1978880450036232573
+  speed: -1
+--- !u!50 &-4285436432238468937
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2581648529978140821}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 1
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!60 &6062004514248743757
 PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -123,90 +144,69 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: -0.39, y: -0.16}
-      - {x: -0.32999998, y: -0.16}
-      - {x: -0.32, y: -0.14999999}
-      - {x: -0.32999998, y: -0.12}
-      - {x: -0.38, y: -0.11}
-      - {x: -0.39999998, y: -0.13}
-    - - {x: 0.08, y: -0.14}
-      - {x: 0.19, y: -0.14999999}
-      - {x: 0.28, y: -0.12}
-      - {x: 0.35999998, y: -0.14}
-      - {x: 0.42999998, y: -0.089999996}
-      - {x: 0.53, y: -0.08}
-      - {x: 0.62, y: -0.01}
-      - {x: 0.62, y: 0.02}
-      - {x: 0.59999996, y: 0.049999997}
-      - {x: 0.53, y: 0.07}
-      - {x: 0.51, y: 0.049999997}
-      - {x: 0.52, y: 0.07}
-      - {x: 0.59999996, y: 0.12}
-      - {x: 0.59999996, y: 0.14}
-      - {x: 0.58, y: 0.16}
-      - {x: -0.5, y: 0.16}
-      - {x: -0.59, y: 0.12}
-      - {x: -0.64, y: 0.07}
-      - {x: -0.64, y: 0.049999997}
-      - {x: -0.61, y: 0.01}
-      - {x: -0.64, y: -0.04}
-      - {x: -0.64, y: -0.14999999}
-      - {x: -0.53, y: -0.14999999}
-      - {x: -0.29, y: -0.12}
-      - {x: -0.22, y: -0.16}
-      - {x: 0.049999997, y: -0.16}
-    - - {x: 0.22, y: -0.14999999}
-      - {x: 0.25, y: -0.14}
-      - {x: 0.25, y: -0.11}
-      - {x: 0.22, y: -0.099999994}
-      - {x: 0.19999999, y: -0.12}
-    - - {x: 0.39999998, y: -0.14999999}
-      - {x: 0.42999998, y: -0.14}
-      - {x: 0.42999998, y: -0.11}
-      - {x: 0.39999998, y: -0.099999994}
-      - {x: 0.38, y: -0.12}
-    - - {x: 0.48999998, y: -0.12}
-      - {x: 0.52, y: -0.11}
-      - {x: 0.52, y: -0.08}
-      - {x: 0.48999998, y: -0.07}
-      - {x: 0.47, y: -0.089999996}
-    - - {x: 0.56, y: -0.08}
-      - {x: 0.59, y: -0.07}
-      - {x: 0.59, y: -0.04}
-      - {x: 0.56, y: -0.03}
-      - {x: 0.53999996, y: -0.049999997}
-    - - {x: -0.14999999, y: 0.01}
-      - {x: -0.11, y: 0.08}
-      - {x: -0.17, y: 0.11}
-      - {x: -0.16, y: 0.01}
-    - - {x: 0.61, y: 0.049999997}
-      - {x: 0.64, y: 0.06}
-      - {x: 0.64, y: 0.089999996}
-      - {x: 0.61, y: 0.099999994}
-      - {x: 0.59, y: 0.08}
-    - - {x: -0.61, y: 0.099999994}
-      - {x: -0.58, y: 0.11}
-      - {x: -0.58, y: 0.14}
-      - {x: -0.61, y: 0.14999999}
-      - {x: -0.63, y: 0.13}
---- !u!50 &-4285436432238468937
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2581648529978140821}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 0
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
+    - - {x: -4.875, y: -2}
+      - {x: -4.125, y: -2}
+      - {x: -4, y: -1.875}
+      - {x: -4.125, y: -1.5}
+      - {x: -4.75, y: -1.375}
+      - {x: -5, y: -1.625}
+    - - {x: 1, y: -1.75}
+      - {x: 2.375, y: -1.875}
+      - {x: 3.5, y: -1.5}
+      - {x: 4.5, y: -1.75}
+      - {x: 5.375, y: -1.125}
+      - {x: 6.625, y: -1}
+      - {x: 7.75, y: -0.125}
+      - {x: 7.75, y: 0.25}
+      - {x: 7.5, y: 0.625}
+      - {x: 6.625, y: 0.875}
+      - {x: 6.375, y: 0.625}
+      - {x: 6.5, y: 0.875}
+      - {x: 7.5, y: 1.5}
+      - {x: 7.5, y: 1.75}
+      - {x: 7.25, y: 2}
+      - {x: -6.25, y: 2}
+      - {x: -7.375, y: 1.5}
+      - {x: -8, y: 0.875}
+      - {x: -8, y: 0.625}
+      - {x: -7.625, y: 0.125}
+      - {x: -8, y: -0.5}
+      - {x: -8, y: -1.875}
+      - {x: -6.625, y: -1.875}
+      - {x: -3.625, y: -1.5}
+      - {x: -2.75, y: -2}
+      - {x: 0.625, y: -2}
+    - - {x: 2.75, y: -1.875}
+      - {x: 3.125, y: -1.75}
+      - {x: 3.125, y: -1.375}
+      - {x: 2.75, y: -1.25}
+      - {x: 2.5, y: -1.5}
+    - - {x: 5, y: -1.875}
+      - {x: 5.375, y: -1.75}
+      - {x: 5.375, y: -1.375}
+      - {x: 5, y: -1.25}
+      - {x: 4.75, y: -1.5}
+    - - {x: 6.125, y: -1.5}
+      - {x: 6.5, y: -1.375}
+      - {x: 6.5, y: -1}
+      - {x: 6.125, y: -0.875}
+      - {x: 5.875, y: -1.125}
+    - - {x: 7, y: -1}
+      - {x: 7.375, y: -0.875}
+      - {x: 7.375, y: -0.5}
+      - {x: 7, y: -0.375}
+      - {x: 6.75, y: -0.625}
+    - - {x: -1.875, y: 0.125}
+      - {x: -1.375, y: 1}
+      - {x: -2.125, y: 1.375}
+      - {x: -2, y: 0.125}
+    - - {x: 7.625, y: 0.625}
+      - {x: 8, y: 0.75}
+      - {x: 8, y: 1.125}
+      - {x: 7.625, y: 1.25}
+      - {x: 7.375, y: 1}
+    - - {x: -7.625, y: 1.25}
+      - {x: -7.25, y: 1.375}
+      - {x: -7.25, y: 1.75}
+      - {x: -7.625, y: 1.875}
+      - {x: -7.875, y: 1.625}

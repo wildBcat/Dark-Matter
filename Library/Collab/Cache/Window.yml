@@ -14,8 +14,131 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Sliders/Fill
+      Bar Blue.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Sliders/Fill
+      Bar Blue.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Text.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Text/Horizontal
+      Rule.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Text/Horizontal
+      Rule.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Text/Subhead.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Text/Subhead.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Text/Text Box.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Text/Text Box.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Wide Buttons.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Wide Buttons/Wide
+      Button Green.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Wide Buttons/Wide
+      Button Green.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Wide Buttons/Wide
+      ButtonRed.prefab
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Prefabs/Wide Buttons/Wide
+      ButtonRed.prefab.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/BarBase.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/BarBase.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/BarFill_Blue.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/BarFill_Blue.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/BarFrame.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/BarFrame.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/ButtonWideRed_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/ButtonWideRed_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/ButtonWideRed_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/ButtonWideRed_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/ButtonWideRed_Inctive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/ButtonWideRed_Inctive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/ButtonWideRed_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/ButtonWideRed_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/ButtonWide_Active.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/ButtonWide_Active.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/ButtonWide_Hover.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/ButtonWide_Hover.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/ButtonWide_Inactive.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/ButtonWide_Inactive.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/ButtonWide_Pressed.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/ButtonWide_Pressed.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/FrameBottom.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/FrameBottom.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/FrameMargin.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/FrameMargin.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/FramePanel 1.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/FramePanel 1.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/HorizontalRule.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/HorizontalRule.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/InlineText.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/InlineText.png.meta
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/TitleFancy.png
+    - Assets/Jack_Tolmachoff_Design/Sci Fi Pixel Art UI Kit/Textures/TitleFancy.png.meta
+    - Assets/My Stuff/Animations/UI/Main Menu Animation.anim
+    - Assets/My Stuff/Animations/UI/Ship Selection.controller
+    - Assets/My Stuff/Animations/UI/Ship Selection.controller.meta
+    - Assets/My Stuff/Fonts/PressStart2P-Regular SDF.asset
+    - Assets/My Stuff/Prefabs/P1 Panel.prefab
+    - Assets/My Stuff/Prefabs/P1 Panel.prefab.meta
+    - Assets/My Stuff/Prefabs/UI.meta
+    - Assets/My Stuff/Prefabs/UI/Horizontal Rule Accent.prefab
+    - Assets/My Stuff/Prefabs/UI/Horizontal Rule Accent.prefab.meta
+    - Assets/My Stuff/Prefabs/UI/Main Menu.prefab
+    - Assets/My Stuff/Prefabs/UI/Main Menu.prefab.meta
+    - Assets/My Stuff/Prefabs/UI/Options.prefab
+    - Assets/My Stuff/Prefabs/UI/Options.prefab.meta
+    - Assets/My Stuff/Prefabs/UI/Sliders.meta
+    - Assets/My Stuff/Prefabs/UI/Sliders/Fill Bar Blue.prefab
+    - Assets/My Stuff/Prefabs/UI/Sliders/Fill Bar Blue.prefab.meta
+    - Assets/My Stuff/Prefabs/UI/Text.meta
+    - Assets/My Stuff/Prefabs/UI/Text/Horizontal Rule.prefab
+    - Assets/My Stuff/Prefabs/UI/Text/Horizontal Rule.prefab.meta
+    - Assets/My Stuff/Prefabs/UI/Text/Subhead.prefab
+    - Assets/My Stuff/Prefabs/UI/Text/Subhead.prefab.meta
+    - Assets/My Stuff/Prefabs/UI/Text/Text Box.prefab
+    - Assets/My Stuff/Prefabs/UI/Text/Text Box.prefab.meta
+    - Assets/My Stuff/Prefabs/UI/Title Accent.prefab
+    - Assets/My Stuff/Prefabs/UI/Title Accent.prefab.meta
+    - Assets/My Stuff/Prefabs/UI/Wide Buttons.meta
+    - Assets/My Stuff/Prefabs/UI/Wide Buttons/Wide Button Green.prefab
+    - Assets/My Stuff/Prefabs/UI/Wide Buttons/Wide Button Green.prefab.meta
+    - Assets/My Stuff/Prefabs/UI/Wide Buttons/Wide ButtonRed.prefab
+    - Assets/My Stuff/Prefabs/UI/Wide Buttons/Wide ButtonRed.prefab.meta
+    - Assets/My Stuff/Scenes/Player Select.unity
+    - Assets/My Stuff/Scripts/InitializeLevel.cs
+    - Assets/My Stuff/Sprites/UI.meta
+    - Assets/My Stuff/Sprites/UI/BarBase.png
+    - Assets/My Stuff/Sprites/UI/BarBase.png.meta
+    - Assets/My Stuff/Sprites/UI/BarFill_Blue.png
+    - Assets/My Stuff/Sprites/UI/BarFill_Blue.png.meta
+    - Assets/My Stuff/Sprites/UI/BarFrame.png
+    - Assets/My Stuff/Sprites/UI/BarFrame.png.meta
+    - Assets/My Stuff/Sprites/UI/ButtonWideRed_Active.png
+    - Assets/My Stuff/Sprites/UI/ButtonWideRed_Active.png.meta
+    - Assets/My Stuff/Sprites/UI/ButtonWideRed_Hover.png
+    - Assets/My Stuff/Sprites/UI/ButtonWideRed_Hover.png.meta
+    - Assets/My Stuff/Sprites/UI/ButtonWideRed_Inctive.png
+    - Assets/My Stuff/Sprites/UI/ButtonWideRed_Inctive.png.meta
+    - Assets/My Stuff/Sprites/UI/ButtonWideRed_Pressed.png
+    - Assets/My Stuff/Sprites/UI/ButtonWideRed_Pressed.png.meta
+    - Assets/My Stuff/Sprites/UI/ButtonWide_Active.png
+    - Assets/My Stuff/Sprites/UI/ButtonWide_Active.png.meta
+    - Assets/My Stuff/Sprites/UI/ButtonWide_Hover.png
+    - Assets/My Stuff/Sprites/UI/ButtonWide_Hover.png.meta
+    - Assets/My Stuff/Sprites/UI/ButtonWide_Inactive.png
+    - Assets/My Stuff/Sprites/UI/ButtonWide_Inactive.png.meta
+    - Assets/My Stuff/Sprites/UI/ButtonWide_Pressed.png
+    - Assets/My Stuff/Sprites/UI/ButtonWide_Pressed.png.meta
+    - Assets/My Stuff/Sprites/UI/FrameBottom.png
+    - Assets/My Stuff/Sprites/UI/FrameBottom.png.meta
+    - Assets/My Stuff/Sprites/UI/FrameMargin.png
+    - Assets/My Stuff/Sprites/UI/FrameMargin.png.meta
+    - Assets/My Stuff/Sprites/UI/FramePanel 1.png
+    - Assets/My Stuff/Sprites/UI/FramePanel 1.png.meta
+    - Assets/My Stuff/Sprites/UI/HorizontalRule.png
+    - Assets/My Stuff/Sprites/UI/HorizontalRule.png.meta
+    - Assets/My Stuff/Sprites/UI/InlineText.png
+    - Assets/My Stuff/Sprites/UI/InlineText.png.meta
+    - Assets/My Stuff/Sprites/UI/TitleFancy.png
+    - Assets/My Stuff/Sprites/UI/TitleFancy.png.meta
     - 
-    m_Values: 01
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
